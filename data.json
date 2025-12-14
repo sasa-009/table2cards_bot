@@ -1,0 +1,5946 @@
+{
+    "config": {
+        "transc": false,
+        "quantity_words": 3
+    },
+    "1": {
+        "word": "be (was, been)",
+        "transc": "[biː]",
+        "transl": "быть",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "2": {
+        "word": "do (did, done)",
+        "transc": "[duː]",
+        "transl": "делать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "3": {
+        "word": "have (had, had)",
+        "transc": "[hæv]",
+        "transl": "иметь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "4": {
+        "word": "make (made, made)",
+        "transc": "[meɪk]",
+        "transl": "делать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "5": {
+        "word": "get (got, got / gotten)",
+        "transc": "[gɛt]",
+        "transl": "получать, становиться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "6": {
+        "word": "go (went, gone)",
+        "transc": "[gəʊ]",
+        "transl": "идти",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "7": {
+        "word": "take (took, taken)",
+        "transc": "[teɪk]",
+        "transl": "брать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "8": {
+        "word": "will",
+        "transc": "[wɪl]",
+        "transl": "(образует будущее время)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "9": {
+        "word": "move",
+        "transc": "[muːv]",
+        "transl": "двигать (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "10": {
+        "word": "go (went, gone)",
+        "transc": "[gəʊ]",
+        "transl": "идти",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "11": {
+        "word": "walk",
+        "transc": "[wɔːk]",
+        "transl": "идти пешком, гулять",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "12": {
+        "word": "run (ran, run)",
+        "transc": "[rʌn]",
+        "transl": "бежать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "13": {
+        "word": "turn",
+        "transc": "[tɜːn]",
+        "transl": "поворачивать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "14": {
+        "word": "fly (flew, flown)",
+        "transc": "[flaɪ]",
+        "transl": "летать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "15": {
+        "word": "drive (drove, driven)",
+        "transc": "[draɪv]",
+        "transl": "вести машину",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "16": {
+        "word": "swim (swam, swum)",
+        "transc": "[swɪm]",
+        "transl": "плыть",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "17": {
+        "word": "jump",
+        "transc": "[ʤʌmp]",
+        "transl": "прыгать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "18": {
+        "word": "sit down (sat, sitten)",
+        "transc": "[sɪt daʊn]",
+        "transl": "садиться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "19": {
+        "word": "lie down (lay, lain)",
+        "transc": "[laɪ daʊn]",
+        "transl": "ложиться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "20": {
+        "word": "stand up (stood, stood)",
+        "transc": "[stænd ʌp]",
+        "transl": "вставать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "21": {
+        "word": "stand (stood, stood)",
+        "transc": "[stænd]",
+        "transl": "стоять",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "22": {
+        "word": "lie (lay, lain)",
+        "transc": "[laɪ]",
+        "transl": "лежать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "23": {
+        "word": "sit (sat, sitten)",
+        "transc": "[sɪt]",
+        "transl": "сидеть",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "24": {
+        "word": "step",
+        "transc": "[stɛp]",
+        "transl": "делать шаг",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "25": {
+        "word": "dance",
+        "transc": "[dɑːns]",
+        "transl": "танцевать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "26": {
+        "word": "roll",
+        "transc": "[rəʊl]",
+        "transl": "катить (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "27": {
+        "word": "push",
+        "transc": "[pʊʃ]",
+        "transl": "толкать, нажимать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "28": {
+        "word": "pull",
+        "transc": "[pʊl]",
+        "transl": "тянуть",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "29": {
+        "word": "put (put, put)",
+        "transc": "[pʊt]",
+        "transl": "ставить, класть, помещать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "30": {
+        "word": "take (took, taken)",
+        "transc": "[teɪk]",
+        "transl": "брать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "31": {
+        "word": "give (gave, given)",
+        "transc": "[gɪv]",
+        "transl": "давать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "32": {
+        "word": "pass",
+        "transc": "[pɑːs]",
+        "transl": "передавать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "33": {
+        "word": "throw (threw, thrown)",
+        "transc": "[θrəʊ]",
+        "transl": "бросать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "34": {
+        "word": "hit (hit, hit)",
+        "transc": "[hɪt]",
+        "transl": "бить",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "35": {
+        "word": "touch",
+        "transc": "[tʌʧ]",
+        "transl": "прикасаться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "36": {
+        "word": "point at",
+        "transc": "[pɔɪnt æt]",
+        "transl": "указывать на что-то",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "37": {
+        "word": "hold (held, held)",
+        "transc": "[həʊld]",
+        "transl": "держать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "38": {
+        "word": "knock",
+        "transc": "[nɒk]",
+        "transl": "стучать (напр. в дверь)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "39": {
+        "word": "say",
+        "transc": "[seɪ]",
+        "transl": "сказать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "40": {
+        "word": "speak (spoke, spoken)",
+        "transc": "[spiːk]",
+        "transl": "говорить",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "41": {
+        "word": "tell (told, told)",
+        "transc": "[tɛl]",
+        "transl": "говорить, рассказывать, велеть",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "42": {
+        "word": "talk",
+        "transc": "[tɔːk]",
+        "transl": "разговаривать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "43": {
+        "word": "ask",
+        "transc": "[ɑːsk]",
+        "transl": "просить, спрашивать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "44": {
+        "word": "answer",
+        "transc": "[ˈɑːnsə]",
+        "transl": "отвечать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "45": {
+        "word": "call",
+        "transc": "[kɔːl]",
+        "transl": "звонить по телефону",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "46": {
+        "word": "text",
+        "transc": "[tɛkst]",
+        "transl": "писать сообщение",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "47": {
+        "word": "cry",
+        "transc": "[kraɪ]",
+        "transl": "плакать, кричать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "48": {
+        "word": "explain",
+        "transc": "[ɪksˈpleɪn]",
+        "transl": "объяснять",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "49": {
+        "word": "repeat",
+        "transc": "[rɪˈpiːt]",
+        "transl": "повторять",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "50": {
+        "word": "understand (understood, understood)",
+        "transc": "[ˌʌndəˈstænd]",
+        "transl": "понимать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "51": {
+        "word": "teach (taught, taught)",
+        "transc": "[tiːʧ]",
+        "transl": "учить (обучать)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "52": {
+        "word": "learn",
+        "transc": "[lɜːn]",
+        "transl": "учить (учиться)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "53": {
+        "word": "study",
+        "transc": "[ˈstʌdi]",
+        "transl": "изучать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "54": {
+        "word": "read (read, read)",
+        "transc": "[riːd]",
+        "transl": "читать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "55": {
+        "word": "write (wrote, written)",
+        "transc": "[raɪt]",
+        "transl": "писать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "56": {
+        "word": "watch",
+        "transc": "[wɒʧ]",
+        "transl": "смотреть, наблюдать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "57": {
+        "word": "listen",
+        "transc": "[ˈlɪsn]",
+        "transl": "слушать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "58": {
+        "word": "hear (heard, heard)",
+        "transc": "[hɪə]",
+        "transl": "слышать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "59": {
+        "word": "help",
+        "transc": "[hɛlp]",
+        "transl": "помогать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "60": {
+        "word": "think (thought, thought)",
+        "transc": "[θɪŋk]",
+        "transl": "думать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "61": {
+        "word": "correct",
+        "transc": "[kəˈrɛkt]",
+        "transl": "исправлять",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "62": {
+        "word": "make a mistake (made, made)",
+        "transc": "[meɪk ə mɪsˈteɪk]",
+        "transl": "делать ошибку",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "63": {
+        "word": "hint",
+        "transc": "[hɪnt]",
+        "transl": "подсказывать, намекать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "64": {
+        "word": "forget (forgot, forgotten)",
+        "transc": "[fəˈgɛt]",
+        "transl": "забывать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "65": {
+        "word": "remember",
+        "transc": "[rɪˈmɛmbə]",
+        "transl": "помнить",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "66": {
+        "word": "remind",
+        "transc": "[ˈrɪmaɪnd]",
+        "transl": "напоминать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "67": {
+        "word": "live",
+        "transc": "[lɪv]",
+        "transl": "жить",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "68": {
+        "word": "sleep (slept, slept)",
+        "transc": "[sliːp]",
+        "transl": "спать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "69": {
+        "word": "wake up (woke, woken)",
+        "transc": "[weɪk ʌp]",
+        "transl": "просыпаться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "70": {
+        "word": "go to bed (went, gone)",
+        "transc": "[gəʊ tuː bɛd]",
+        "transl": "идти спать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "71": {
+        "word": "take a shower (took, taken)",
+        "transc": "[teɪk ə ˈʃaʊə]",
+        "transl": "принимать душ",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "72": {
+        "word": "brush one’s teeth",
+        "transc": "[brʌʃ wʌnz tiːθ]",
+        "transl": "чистить зубы",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "73": {
+        "word": "comb one’s hair",
+        "transc": "[kəʊm wʌnz heə]",
+        "transl": "причесываться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "74": {
+        "word": "shave",
+        "transc": "[ʃeɪv]",
+        "transl": "бриться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "75": {
+        "word": "get dressed (got, got / gotten)",
+        "transc": "[gɛt drɛst]",
+        "transl": "одеваться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "76": {
+        "word": "put on make-up (put, put)",
+        "transc": "[pʊt ɒn ˈmeɪkʌp]",
+        "transl": "делать макияж",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "77": {
+        "word": "make breakfast (made, made)",
+        "transc": "[meɪk ˈbrɛkfəst]",
+        "transl": "готовить завтрак",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "78": {
+        "word": "have breakfast (had, had)",
+        "transc": "[hæv ˈbrɛkfəst]",
+        "transl": "завтракать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "79": {
+        "word": "go to work (went, gone)",
+        "transc": "[gəʊ tuː wɜːk]",
+        "transl": "идти на работу",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "80": {
+        "word": "work",
+        "transc": "[wɜːk]",
+        "transl": "работать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "81": {
+        "word": "rest",
+        "transc": "[rɛst]",
+        "transl": "отдыхать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "82": {
+        "word": "take a bath (took, taken)",
+        "transc": "[teɪk ə bɑːθ]",
+        "transl": "принимать ванну",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "83": {
+        "word": "cook",
+        "transc": "[kʊk]",
+        "transl": "готовить (еду)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "84": {
+        "word": "eat (ate, eaten)",
+        "transc": "[iːt]",
+        "transl": "есть",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "85": {
+        "word": "do cleaning, clean (did, done)",
+        "transc": "[duː ˈkliːnɪŋ] [kliːn]",
+        "transl": "убираться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "86": {
+        "word": "do dishes (did, done)",
+        "transc": "[duː dɪʃɪz]",
+        "transl": "мыть посуду",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "87": {
+        "word": "do the laundry (did, done)",
+        "transc": "[duː ðə ˈlɔːndri]",
+        "transl": "заниматься стиркой",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "88": {
+        "word": "work out",
+        "transc": "[wɜːk aʊt]",
+        "transl": "заниматься спортом",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "89": {
+        "word": "have fun (had, had)",
+        "transc": "[hæv fʌn]",
+        "transl": "развлекаться, веселиться",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "90": {
+        "word": "play",
+        "transc": "[pleɪ]",
+        "transl": "играть",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "91": {
+        "word": "begin (began, begun)",
+        "transc": "[bɪˈgɪn]",
+        "transl": "начинаться (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "92": {
+        "word": "start",
+        "transc": "[stɑːt]",
+        "transl": "начинаться (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "93": {
+        "word": "continue",
+        "transc": "[kənˈtɪnju(ː)]",
+        "transl": "продолжать (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "94": {
+        "word": "go on (went, gone)",
+        "transc": "[gəʊ ɒn]",
+        "transl": "продолжать (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "95": {
+        "word": "end",
+        "transc": "[ɛnd]",
+        "transl": "заканчивать (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "96": {
+        "word": "finish",
+        "transc": "[ˈfɪnɪʃ]",
+        "transl": "заканчивать (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "97": {
+        "word": "stop",
+        "transc": "[stɒp]",
+        "transl": "прекращать, останавливать (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "98": {
+        "word": "complete",
+        "transc": "[kəmˈpliːt]",
+        "transl": "завершать (-ся)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "99": {
+        "word": "postpone",
+        "transc": "[pɛʊstˈpəʊn]",
+        "transl": "откладывать, переносить",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "100": {
+        "word": "put off (put, put)",
+        "transc": "[pʊt ɒf]",
+        "transl": "откладывать, переносить",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "101": {
+        "word": "time",
+        "transc": "[taɪm]",
+        "transl": "время",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "102": {
+        "word": "past",
+        "transc": "[pɑːst]",
+        "transl": "прошлое",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "103": {
+        "word": "future",
+        "transc": "[ˈfjuːʧə]",
+        "transl": "будущее",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "104": {
+        "word": "present",
+        "transc": "[ˈprɛznt]",
+        "transl": "настоящее",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "105": {
+        "word": "age",
+        "transc": "[eɪʤ]",
+        "transl": "эра, эпоха (также \"возраст\")",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "106": {
+        "word": "millennium",
+        "transc": "[mɪlˈiːnɪəːm]",
+        "transl": "тысячелетие",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "107": {
+        "word": "century",
+        "transc": "[ˈsɛnʧʊri]",
+        "transl": "век",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "108": {
+        "word": "decade",
+        "transc": "[ˈdɛkeɪd]",
+        "transl": "десятилетие",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "109": {
+        "word": "year",
+        "transc": "[jɪə]",
+        "transl": "год",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "110": {
+        "word": "month",
+        "transc": "[mʌnθ]",
+        "transl": "месяц",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "111": {
+        "word": "week",
+        "transc": "[wiːk]",
+        "transl": "неделя",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "112": {
+        "word": "day",
+        "transc": "[deɪ]",
+        "transl": "день",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "113": {
+        "word": "hour",
+        "transc": "[ˈaʊə]",
+        "transl": "час",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "114": {
+        "word": "half an hour",
+        "transc": "[hɑːf ən ˈaʊə]",
+        "transl": "полчаса",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "115": {
+        "word": "minute",
+        "transc": "[ˈmɪnɪt]",
+        "transl": "минута",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "116": {
+        "word": "second",
+        "transc": "[ˈsɛkənd]",
+        "transl": "секунда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "117": {
+        "word": "watch",
+        "transc": "[wɒʧ]",
+        "transl": "часы (наручные)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "118": {
+        "word": "clock",
+        "transc": "[klɒk]",
+        "transl": "часы (настенные)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "119": {
+        "word": "calendar",
+        "transc": "[ˈkælɪndə]",
+        "transl": "календарь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "120": {
+        "word": "schedule",
+        "transc": "[ˈʃɛdjuːl]",
+        "transl": "расписание",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "121": {
+        "word": "season",
+        "transc": "[ˈsiːzn]",
+        "transl": "время года",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "122": {
+        "word": "winter",
+        "transc": "[ˈwɪntə]",
+        "transl": "зима",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "123": {
+        "word": "spring",
+        "transc": "[sprɪŋ]",
+        "transl": "весна",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "124": {
+        "word": "summer",
+        "transc": "[ˈsʌmə]",
+        "transl": "лето",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "125": {
+        "word": "fall (Am.) autumn (Br.)",
+        "transc": "[fɔːl] [ˈɔːtəm]",
+        "transl": "осень",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "126": {
+        "word": "January",
+        "transc": "[ˈʤænjʊəri]",
+        "transl": "январь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "127": {
+        "word": "February",
+        "transc": "[ˈfɛbrʊəri]",
+        "transl": "февраль",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "128": {
+        "word": "March",
+        "transc": "[mɑːʧ]",
+        "transl": "март",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "129": {
+        "word": "April",
+        "transc": "[ˈeɪprəl]",
+        "transl": "апрель",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "130": {
+        "word": "May",
+        "transc": "[meɪ]",
+        "transl": "май",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "131": {
+        "word": "June",
+        "transc": "[ʤuːn]",
+        "transl": "июнь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "132": {
+        "word": "July",
+        "transc": "[ʤuˈlaɪ]",
+        "transl": "июль",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "133": {
+        "word": "August",
+        "transc": "[ˈɔːgəst]",
+        "transl": "август",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "134": {
+        "word": "September",
+        "transc": "[sɛpˈtɛmbə]",
+        "transl": "сентябрь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "135": {
+        "word": "October",
+        "transc": "[ɒkˈtəʊbə]",
+        "transl": "октябрь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "136": {
+        "word": "November",
+        "transc": "[nəʊˈvɛmbə]",
+        "transl": "ноябрь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "137": {
+        "word": "December",
+        "transc": "[dɪˈsɛmbə]",
+        "transl": "декабрь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "138": {
+        "word": "Monday",
+        "transc": "[ˈmʌndeɪ]",
+        "transl": "понедельник",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "139": {
+        "word": "Tuesday",
+        "transc": "[ˈtjuːzdeɪ]",
+        "transl": "вторник",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "140": {
+        "word": "Wednesday",
+        "transc": "[ˈwɛnzdeɪ]",
+        "transl": "среда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "141": {
+        "word": "Thursday",
+        "transc": "[ˈθɜːzdeɪ]",
+        "transl": "четверг",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "142": {
+        "word": "Friday",
+        "transc": "[ˈfraɪdeɪ]",
+        "transl": "пятница",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "143": {
+        "word": "Saturday",
+        "transc": "[ˈsætədeɪ]",
+        "transl": "суббота",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "144": {
+        "word": "Sunday",
+        "transc": "[ˈsʌndeɪ]",
+        "transl": "воскресенье",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "145": {
+        "word": "family",
+        "transc": "[ˈfæmɪli]",
+        "transl": "семья",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "146": {
+        "word": "love",
+        "transc": "[lʌv]",
+        "transl": "любовь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "147": {
+        "word": "human",
+        "transc": "[ˈhjuːmən]",
+        "transl": "человек",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "148": {
+        "word": "people",
+        "transc": "[ˈpiːpl]",
+        "transl": "люди, народ",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "149": {
+        "word": "man",
+        "transc": "[mæn]",
+        "transl": "мужчина, человек",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "150": {
+        "word": "woman",
+        "transc": "[ˈwʊmən]",
+        "transl": "женщина",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "151": {
+        "word": "boy",
+        "transc": "[bɔɪ]",
+        "transl": "мальчик",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "152": {
+        "word": "guy",
+        "transc": "[gaɪ]",
+        "transl": "парень",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "153": {
+        "word": "girl",
+        "transc": "[gɜːl]",
+        "transl": "девочка, девушка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "154": {
+        "word": "parents",
+        "transc": "[ˈpeərənts]",
+        "transl": "родители",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "155": {
+        "word": "mother",
+        "transc": "[ˈmʌðə]",
+        "transl": "мать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "156": {
+        "word": "father",
+        "transc": "[ˈfɑːðə]",
+        "transl": "отец",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "157": {
+        "word": "mom (Am.), mum (Br.)",
+        "transc": "[mɒm], [mʌm]",
+        "transl": "мама",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "158": {
+        "word": "dad",
+        "transc": "[dæd]",
+        "transl": "папа",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "159": {
+        "word": "grandmother",
+        "transc": "[ˈgrænˌmʌðə]",
+        "transl": "бабушка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "160": {
+        "word": "grandfather",
+        "transc": "[ˈgrændˌfɑːðə]",
+        "transl": "дедушка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "161": {
+        "word": "grandparents",
+        "transc": "[ˈgrænˌpeərənts]",
+        "transl": "бабушки и дедушки",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "162": {
+        "word": "brother",
+        "transc": "[ˈbrʌðə]",
+        "transl": "брат",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "163": {
+        "word": "sister",
+        "transc": "[ˈsɪstə]",
+        "transl": "сестра",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "164": {
+        "word": "siblings",
+        "transc": "[ˈsɪblɪŋz]",
+        "transl": "братья и сестры",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "165": {
+        "word": "cousin",
+        "transc": "[ˈkʌzn]",
+        "transl": "кузен (двоюродные братья и сестры)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "166": {
+        "word": "wife",
+        "transc": "[waɪf]",
+        "transl": "жена",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "167": {
+        "word": "husband",
+        "transc": "[ˈhʌzbənd]",
+        "transl": "муж",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "168": {
+        "word": "father-in-law",
+        "transc": "[ˈfɑːðərɪnlɔː]",
+        "transl": "тесть",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "169": {
+        "word": "mother-in-law",
+        "transc": "[ˈmʌðərɪnlɔː]",
+        "transl": "теща",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "170": {
+        "word": "son-in-law",
+        "transc": "[ˈsʌnɪnlɔː]",
+        "transl": "зять",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "171": {
+        "word": "daughter-in-law",
+        "transc": "[ˈdɔːtərɪnlɔː]",
+        "transl": "невестка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "172": {
+        "word": "son",
+        "transc": "[sʌn]",
+        "transl": "сын",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "173": {
+        "word": "daughter",
+        "transc": "[ˈdɔːtə]",
+        "transl": "дочь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "174": {
+        "word": "baby",
+        "transc": "[ˈbeɪbi]",
+        "transl": "маленький ребенок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "175": {
+        "word": "children, kids",
+        "transc": "[ˈʧɪldrən], [kɪdz]",
+        "transl": "дети",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "176": {
+        "word": "teenager",
+        "transc": "[ˈtiːnˌeɪʤə]",
+        "transl": "подросток",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "177": {
+        "word": "aunt",
+        "transc": "[ɑːnt]",
+        "transl": "тетя",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "178": {
+        "word": "uncle",
+        "transc": "[ˈʌŋkl]",
+        "transl": "дядя",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "179": {
+        "word": "niece",
+        "transc": "[niːs]",
+        "transl": "племянница",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "180": {
+        "word": "nephew",
+        "transc": "[ˈnɛvju(ː)] [ˈnɛfju(ː)]",
+        "transl": "племянник",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "181": {
+        "word": "girlfriend",
+        "transc": "[ˈgɜːlˌfrɛnd]",
+        "transl": "девушка (подруга)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "182": {
+        "word": "boyfriend",
+        "transc": "[ˈbɔɪˌfrɛnd]",
+        "transl": "парень (бойфренд)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "183": {
+        "word": "friend",
+        "transc": "[frɛnd]",
+        "transl": "друг",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "184": {
+        "word": "relatives",
+        "transc": "[ˈrɛlətɪvz]",
+        "transl": "родственники",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "185": {
+        "word": "engagement",
+        "transc": "[ɪnˈgeɪʤmənt]",
+        "transl": "помолвка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "186": {
+        "word": "marriage",
+        "transc": "[ˈmærɪʤ]",
+        "transl": "женитьба, замужество, брак",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "187": {
+        "word": "wedding",
+        "transc": "[ˈwɛdɪŋ]",
+        "transl": "свадьба",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "188": {
+        "word": "fiancée, bride",
+        "transc": "[fɪ'ɑːn(t)seɪ], [braɪd]",
+        "transl": "невеста",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "189": {
+        "word": "fiancé, groom (bridegroom)",
+        "transc": "[fɪ'ɑːn(t)seɪ], [grʊm] [ˈbraɪdgrʊm]",
+        "transl": "жених",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "190": {
+        "word": "funeral",
+        "transc": "[ˈfjuːnərəl]",
+        "transl": "похороны",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "191": {
+        "word": "birth",
+        "transc": "[bɜːθ]",
+        "transl": "рождение",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "192": {
+        "word": "house",
+        "transc": "[haʊs]",
+        "transl": "дом",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "193": {
+        "word": "home",
+        "transc": "[həʊm]",
+        "transl": "дом",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "194": {
+        "word": "apartment (USA), flat (UK)",
+        "transc": "[əpˈɑːtmənt], [flæt]",
+        "transl": "квартира",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "195": {
+        "word": "roof",
+        "transc": "[ruːf]",
+        "transl": "крыша",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "196": {
+        "word": "room",
+        "transc": "[ruːm]",
+        "transl": "комната",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "197": {
+        "word": "wall",
+        "transc": "[wɔːl]",
+        "transl": "стена",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "198": {
+        "word": "floor",
+        "transc": "[flɔː]",
+        "transl": "пол, этаж",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "199": {
+        "word": "stairs",
+        "transc": "[steəz]",
+        "transl": "лестница, ступеньки",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "200": {
+        "word": "ceiling",
+        "transc": "[ˈsiːlɪŋ]",
+        "transl": "потолок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "201": {
+        "word": "window",
+        "transc": "[ˈwɪndəʊ]",
+        "transl": "окно",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "202": {
+        "word": "door",
+        "transc": "[dɔː]",
+        "transl": "дверь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "203": {
+        "word": "doorbell",
+        "transc": "[ˈdɔːbɛl]",
+        "transl": "дверной звонок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "204": {
+        "word": "lock",
+        "transc": "[lɒk]",
+        "transl": "замок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "205": {
+        "word": "key",
+        "transc": "[kiː]",
+        "transl": "ключ",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "206": {
+        "word": "furniture",
+        "transc": "[ˈfɜːnɪʧə]",
+        "transl": "мебель",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "207": {
+        "word": "thing",
+        "transc": "[θɪŋ]",
+        "transl": "вещь, предмет",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "208": {
+        "word": "lamp",
+        "transc": "[læmp]",
+        "transl": "лампа",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "209": {
+        "word": "light bulb",
+        "transc": "[laɪt bʌlb]",
+        "transl": "лампочка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "210": {
+        "word": "table",
+        "transc": "[ˈteɪbl]",
+        "transl": "стол",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "211": {
+        "word": "desk",
+        "transc": "[dɛsk]",
+        "transl": "письменный стол",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "212": {
+        "word": "chair",
+        "transc": "[ʧeə]",
+        "transl": "стул",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "213": {
+        "word": "armchair",
+        "transc": "[ˈɑːmˈʧeə]",
+        "transl": "кресло",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "214": {
+        "word": "sofa (coach)",
+        "transc": "[ˈsəʊfə] [kəʊʧ]",
+        "transl": "диван",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "215": {
+        "word": "stove (US), cooker (Br)",
+        "transc": "[stəʊv]",
+        "transl": "кухонная плита",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "216": {
+        "word": "vacuum cleaner",
+        "transc": "[ˈvækjʊəm ˈkliːnə]",
+        "transl": "пылесос",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "217": {
+        "word": "microwave",
+        "transc": "[ˈmaɪkrəʊweɪv]",
+        "transl": "микроволновая печь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "218": {
+        "word": "air conditioner (AC)",
+        "transc": "[eə kənˈdɪʃənə] [eɪ-siː]",
+        "transl": "кондиционер",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "219": {
+        "word": "tap, faucet",
+        "transc": "[tæp], [ˈfɔːsɪt]",
+        "transl": "водопроводный кран",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "220": {
+        "word": "shower",
+        "transc": "[ˈʃaʊə]",
+        "transl": "душ",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "221": {
+        "word": "washing machine",
+        "transc": "[ˈwɒʃɪŋ] [məˈʃiːn]",
+        "transl": "стиральная машина",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "222": {
+        "word": "soap",
+        "transc": "[səʊp]",
+        "transl": "мыло",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "223": {
+        "word": "shampoo",
+        "transc": "[ʃæmˈpuː]",
+        "transl": "шампунь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "224": {
+        "word": "toiletries",
+        "transc": "[ˈtɔɪlɪtriz]",
+        "transl": "туалетные принадлежности (мыло, шампунь и проч.)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "225": {
+        "word": "bathroom",
+        "transc": "[ˈbɑːθru(ː)m]",
+        "transl": "ванная комната \\ туалет",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "226": {
+        "word": "mirror",
+        "transc": "[ˈmɪrə]",
+        "transl": "зеркало",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "227": {
+        "word": "hall",
+        "transc": "[hɔːl]",
+        "transl": "зал, холл",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "228": {
+        "word": "hall, hallway",
+        "transc": "[hɔːl] [ˈhɔːlweɪ]",
+        "transl": "коридор, прихожая",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "229": {
+        "word": "living room",
+        "transc": "[ˈlɪvɪŋ ruːm]",
+        "transl": "гостиная",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "230": {
+        "word": "kitchen",
+        "transc": "[ˈkɪʧɪn]",
+        "transl": "кухня",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "231": {
+        "word": "bedroom",
+        "transc": "[ˈbɛdru(ː)m]",
+        "transl": "спальня",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "232": {
+        "word": "neighbour (neighbor)",
+        "transc": "[ˈneɪbə]",
+        "transl": "сосед",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "233": {
+        "word": "wardrobe",
+        "transc": "[ˈwɔːdrəʊb]",
+        "transl": "шкаф для одежды",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "234": {
+        "word": "cupboard",
+        "transc": "[ˈkʌbəd]",
+        "transl": "шкаф, буфет",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "235": {
+        "word": "closet",
+        "transc": "[ˈklɒzɪt]",
+        "transl": "шкаф, кладовка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "236": {
+        "word": "dishes",
+        "transc": "[ˈdɪʃɪz]",
+        "transl": "тарелки, посуда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "237": {
+        "word": "cup",
+        "transc": "[kʌp]",
+        "transl": "чашка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "238": {
+        "word": "fork",
+        "transc": "[fɔːk]",
+        "transl": "вилка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "239": {
+        "word": "spoon",
+        "transc": "[spuːn]",
+        "transl": "ложка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "240": {
+        "word": "plate",
+        "transc": "[pleɪt]",
+        "transl": "тарелка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "241": {
+        "word": "knife",
+        "transc": "[naɪf]",
+        "transl": "нож",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "242": {
+        "word": "tools",
+        "transc": "[tuːlz]",
+        "transl": "инструменты",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "243": {
+        "word": "TV",
+        "transc": "[ˌtiːˈviː]",
+        "transl": "телевизор",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "244": {
+        "word": "remote control",
+        "transc": "[rɪˈməʊt kənˈtrəʊl]",
+        "transl": "пульт управления",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "245": {
+        "word": "computer",
+        "transc": "[kəmˈpjuːtə]",
+        "transl": "компьютер",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "246": {
+        "word": "laptop",
+        "transc": "[ˈlæpˌtɒp]",
+        "transl": "ноутбук",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "247": {
+        "word": "phone",
+        "transc": "[fəʊn]",
+        "transl": "телефон",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "248": {
+        "word": "bed",
+        "transc": "[bɛd]",
+        "transl": "кровать",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "249": {
+        "word": "blanket",
+        "transc": "[ˈblæŋkɪt]",
+        "transl": "одеяло",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "250": {
+        "word": "pillow",
+        "transc": "[ˈpɪləʊ]",
+        "transl": "подушка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "251": {
+        "word": "pillowcase",
+        "transc": "[ˈpɪləʊkeɪs]",
+        "transl": "наволочка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "252": {
+        "word": "sheet (bedsheet)",
+        "transc": "[ʃiːt]",
+        "transl": "простыня",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "253": {
+        "word": "linens",
+        "transc": "[ˈlɪnɪnz]",
+        "transl": "постельное белье",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "254": {
+        "word": "towel",
+        "transc": "[ˈtaʊəl]",
+        "transl": "полотенце",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "255": {
+        "word": "movie \\ film",
+        "transc": "[ˈmuːvi] [fɪlm]",
+        "transl": "фильм",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "256": {
+        "word": "book",
+        "transc": "[bʊk]",
+        "transl": "книга",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "257": {
+        "word": "camera",
+        "transc": "[ˈkæmərə]",
+        "transl": "фотоаппарат, видеокамера",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "258": {
+        "word": "newspaper",
+        "transc": "[ˈnjuːzˌpeɪpə]",
+        "transl": "газета",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "259": {
+        "word": "magazine",
+        "transc": "[ˌmægəˈziːn]",
+        "transl": "журнал",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "260": {
+        "word": "clothes",
+        "transc": "[kləʊðz]",
+        "transl": "одежда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "261": {
+        "word": "shirt",
+        "transc": "[ʃɜːt]",
+        "transl": "рубашка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "262": {
+        "word": "pants (trousers)",
+        "transc": "[pænts] [ˈtraʊzəz]",
+        "transl": "брюки",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "263": {
+        "word": "jacket",
+        "transc": "[ˈʤækɪt]",
+        "transl": "пиджак",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "264": {
+        "word": "sweater (jumper)",
+        "transc": "[ˈswɛtə] [ˈʤʌmpə]",
+        "transl": "свитер, джемпер",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "265": {
+        "word": "hat",
+        "transc": "[hæt]",
+        "transl": "шляпа",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "266": {
+        "word": "cap",
+        "transc": "[ˈkæp]",
+        "transl": "кепка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "267": {
+        "word": "pocket",
+        "transc": "[ˈpɒkɪt]",
+        "transl": "карман",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "268": {
+        "word": "shorts",
+        "transc": "[ʃɔːts]",
+        "transl": "шорты",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "269": {
+        "word": "shoes",
+        "transc": "[ʃuːz]",
+        "transl": "туфли",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "270": {
+        "word": "dress",
+        "transc": "[drɛs]",
+        "transl": "платье",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "271": {
+        "word": "skirt",
+        "transc": "[skɜːt]",
+        "transl": "юбка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "272": {
+        "word": "jeans",
+        "transc": "[ʤiːnz]",
+        "transl": "джинсы",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "273": {
+        "word": "underwear",
+        "transc": "[ˈʌndəweə]",
+        "transl": "нижнее белье",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "274": {
+        "word": "socks",
+        "transc": "[sɒks]",
+        "transl": "носки",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "275": {
+        "word": "bag",
+        "transc": "[bæg]",
+        "transl": "сумка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "276": {
+        "word": "purse",
+        "transc": "[pɜːs]",
+        "transl": "дамская сумочка, кошелек",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "277": {
+        "word": "coat",
+        "transc": "[kəʊt]",
+        "transl": "пальто",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "278": {
+        "word": "scarf",
+        "transc": "[skɑːf]",
+        "transl": "шарф",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "279": {
+        "word": "gloves",
+        "transc": "[glʌvz]",
+        "transl": "перчатки",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "280": {
+        "word": "wallet",
+        "transc": "[ˈwɒlɪt]",
+        "transl": "бумажник",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "281": {
+        "word": "uniform",
+        "transc": "[ˈjuːnɪfɔːm]",
+        "transl": "униформа",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "282": {
+        "word": "belt",
+        "transc": "[bɛlt]",
+        "transl": "ремень",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "283": {
+        "word": "button",
+        "transc": "[ˈbʌtn]",
+        "transl": "кнопка, пуговица",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "284": {
+        "word": "zip",
+        "transc": "[zɪp]",
+        "transl": "застежка молния",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "285": {
+        "word": "nature",
+        "transc": "[ˈneɪʧə]",
+        "transl": "природа",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "286": {
+        "word": "North",
+        "transc": "[nɔːθ]",
+        "transl": "север",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "287": {
+        "word": "South",
+        "transc": "[saʊθ]",
+        "transl": "юг",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "288": {
+        "word": "West",
+        "transc": "[wɛst]",
+        "transl": "запад",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "289": {
+        "word": "East",
+        "transc": "[iːst]",
+        "transl": "восток",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "290": {
+        "word": "Sun",
+        "transc": "[sʌn]",
+        "transl": "солнце",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "291": {
+        "word": "Moon",
+        "transc": "[muːn]",
+        "transl": "луна",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "292": {
+        "word": "star",
+        "transc": "[stɑː]",
+        "transl": "звезда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "293": {
+        "word": "sky",
+        "transc": "[skaɪ]",
+        "transl": "небо",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "294": {
+        "word": "Earth",
+        "transc": "[ɜːθ]",
+        "transl": "Земля",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "295": {
+        "word": "ground",
+        "transc": "[graʊnd]",
+        "transl": "земля",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "296": {
+        "word": "space",
+        "transc": "[speɪs]",
+        "transl": "космос, пространство",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "297": {
+        "word": "air",
+        "transc": "[eə]",
+        "transl": "воздух",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "298": {
+        "word": "plant",
+        "transc": "[plɑːnt]",
+        "transl": "растение",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "299": {
+        "word": "tree",
+        "transc": "[triː]",
+        "transl": "дерево",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "300": {
+        "word": "flower",
+        "transc": "[ˈflaʊə]",
+        "transl": "цветок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "301": {
+        "word": "domestic animal",
+        "transc": "[dəʊˈmɛstɪk ˈænɪməl]",
+        "transl": "домашнее животное",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "302": {
+        "word": "wild animal",
+        "transc": "[waɪld ˈænɪməl]",
+        "transl": "дикое животное",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "303": {
+        "word": "bird",
+        "transc": "[bɜːd]",
+        "transl": "птица",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "304": {
+        "word": "poultry",
+        "transc": "[ˈpəʊltri]",
+        "transl": "домашняя птица",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "305": {
+        "word": "pet",
+        "transc": "[pɛt]",
+        "transl": "домашнее животное (питомец)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "306": {
+        "word": "cat",
+        "transc": "[kæt]",
+        "transl": "кошка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "307": {
+        "word": "dog",
+        "transc": "[dɒg]",
+        "transl": "собака",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "308": {
+        "word": "horse",
+        "transc": "[hɔːs]",
+        "transl": "лошадь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "309": {
+        "word": "chicken",
+        "transc": "[ˈʧɪkɪn]",
+        "transl": "цыпленок, курица",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "310": {
+        "word": "mouse",
+        "transc": "[maʊs]",
+        "transl": "мышь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "311": {
+        "word": "sea",
+        "transc": "[siː]",
+        "transl": "море",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "312": {
+        "word": "seashore \\ bank",
+        "transc": "[ˈsiːʃɔː] [bæŋk]",
+        "transl": "берег",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "313": {
+        "word": "river",
+        "transc": "[ˈrɪvə]",
+        "transl": "река",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "314": {
+        "word": "snow",
+        "transc": "[snəʊ]",
+        "transl": "снег",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "315": {
+        "word": "sand",
+        "transc": "[sænd]",
+        "transl": "песок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "316": {
+        "word": "rain",
+        "transc": "[reɪn]",
+        "transl": "дождь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "317": {
+        "word": "cold",
+        "transc": "[kəʊld]",
+        "transl": "холод",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "318": {
+        "word": "heat",
+        "transc": "[hiːt]",
+        "transl": "жара",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "319": {
+        "word": "fire",
+        "transc": "[ˈfaɪə]",
+        "transl": "огонь, пожар",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "320": {
+        "word": "water",
+        "transc": "[ˈwɔːtə]",
+        "transl": "вода",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "321": {
+        "word": "wind",
+        "transc": "[wɪnd]",
+        "transl": "ветер",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "322": {
+        "word": "storm",
+        "transc": "[stɔːm]",
+        "transl": "буря",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "323": {
+        "word": "weather",
+        "transc": "[ˈwɛðə]",
+        "transl": "погода",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "324": {
+        "word": "weather forecast",
+        "transc": "[ˈwɛðə ˈfɔːkɑːst]",
+        "transl": "прогноз погоды",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "325": {
+        "word": "city \\ town",
+        "transc": "[ˈsɪti] [taʊn]",
+        "transl": "город",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "326": {
+        "word": "building",
+        "transc": "[ˈbɪldɪŋ]",
+        "transl": "здание",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "327": {
+        "word": "street",
+        "transc": "[striːt]",
+        "transl": "улица",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "328": {
+        "word": "block",
+        "transc": "[blɒk]",
+        "transl": "квартал",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "329": {
+        "word": "traffic lights",
+        "transc": "[ˈtræfɪk laɪts]",
+        "transl": "светофор",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "330": {
+        "word": "intersection",
+        "transc": "[ˌɪntə(ː)ˈsɛkʃən]",
+        "transl": "перекресток",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "331": {
+        "word": "crosswalk",
+        "transc": "[ˈkrɒswɔːk]",
+        "transl": "пешеходный переход",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "332": {
+        "word": "road sign (traffc sign)",
+        "transc": "[rəʊd saɪn]",
+        "transl": "дорожный знак",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "333": {
+        "word": "car",
+        "transc": "[kɑː]",
+        "transl": "автомобиль",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "334": {
+        "word": "public transport",
+        "transc": "[ˈpʌblɪk ˈtrænspɔːt]",
+        "transl": "общественный транспорт",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "335": {
+        "word": "airport",
+        "transc": "[ˈeəpɔːt]",
+        "transl": "аэропорт",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "336": {
+        "word": "railway (railroad) station",
+        "transc": "[ˈreɪlweɪ (ˈreɪlrəʊd) ˈsteɪʃən]",
+        "transl": "вокзал",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "337": {
+        "word": "port",
+        "transc": "[pɔːt]",
+        "transl": "порт",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "338": {
+        "word": "bus station (bus terminal)",
+        "transc": "[bʌs ˈsteɪʃən] [bʌs ˈtɜːmɪnl]",
+        "transl": "автобусная станция",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "339": {
+        "word": "taxi",
+        "transc": "[ˈtæksi]",
+        "transl": "такси",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "340": {
+        "word": "bridge",
+        "transc": "[brɪʤ]",
+        "transl": "мост",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "341": {
+        "word": "shop",
+        "transc": "[ʃɒp]",
+        "transl": "магазин",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "342": {
+        "word": "mall",
+        "transc": "[mɔːl]",
+        "transl": "торговый центр",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "343": {
+        "word": "cinema (UK), movie theater (US)",
+        "transc": "[ˈsɪnəmə]",
+        "transl": "кинотеатр",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "344": {
+        "word": "theatre (theater)",
+        "transc": "[ˈθɪətə]",
+        "transl": "театр",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "345": {
+        "word": "police department",
+        "transc": "[pəˈliːs dˈepətmənt]",
+        "transl": "полицейский участок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "346": {
+        "word": "hospital",
+        "transc": "[ˈhɒspɪtl]",
+        "transl": "больница",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "347": {
+        "word": "hotel",
+        "transc": "[həʊˈtɛl]",
+        "transl": "гостиница",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "348": {
+        "word": "post office",
+        "transc": "[pəʊst ˈɒfɪs]",
+        "transl": "почта",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "349": {
+        "word": "wi-fi",
+        "transc": "[ˌwaɪ'faɪ]",
+        "transl": "вай-фай",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "350": {
+        "word": "embassy",
+        "transc": "[ˈɛmbəsi]",
+        "transl": "посольство",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "351": {
+        "word": "ambassador",
+        "transc": "[æmˈbæsədə]",
+        "transl": "посол",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "352": {
+        "word": "passer-by",
+        "transc": "[ˈpɑːsə baɪ]",
+        "transl": "прохожий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "353": {
+        "word": "pedestrian",
+        "transc": "[pɪˈdɛstrɪən]",
+        "transl": "пешеход",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "354": {
+        "word": "police officer",
+        "transc": "[pəˈliːs ˈɒfɪsə]",
+        "transl": "полицейский",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "355": {
+        "word": "emergency",
+        "transc": "[ɪˈmɜːʤənsi]",
+        "transl": "чрезвычайная ситуация",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "356": {
+        "word": "map",
+        "transc": "[mæp]",
+        "transl": "карта",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "357": {
+        "word": "subway",
+        "transc": "[ˈsʌbweɪ]",
+        "transl": "метро",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "358": {
+        "word": "station",
+        "transc": "[ˈsteɪʃən]",
+        "transl": "станция",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "359": {
+        "word": "stop",
+        "transc": "[stɒp]",
+        "transl": "остановка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "360": {
+        "word": "sightseeing",
+        "transc": "[ˈsaɪtˌsiːɪŋ]",
+        "transl": "осмотр достопримечательностей",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "361": {
+        "word": "work",
+        "transc": "[wɜːk]",
+        "transl": "работа",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "362": {
+        "word": "job",
+        "transc": "[ʤɒb]",
+        "transl": "работа",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "363": {
+        "word": "office",
+        "transc": "[ˈɒfɪs]",
+        "transl": "офис",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "364": {
+        "word": "workplace",
+        "transc": "[ˈwɜːkˌpleɪs]",
+        "transl": "рабочее место",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "365": {
+        "word": "working hours",
+        "transc": "[ˈwɜːkɪŋ ˈaʊəz]",
+        "transl": "рабочие часы",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "366": {
+        "word": "schedule",
+        "transc": "[ˈʃɛdjuːl]",
+        "transl": "расписание, график",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "367": {
+        "word": "colleague",
+        "transc": "[ˈkɒliːg]",
+        "transl": "коллега",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "368": {
+        "word": "CV \\ resume",
+        "transc": "[siː-viː] [ˈrɛzju(ː)meɪ]",
+        "transl": "резюме",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "369": {
+        "word": "payday",
+        "transc": "[ˈpeɪdeɪ]",
+        "transl": "день зарплаты",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "370": {
+        "word": "paycheck",
+        "transc": "[ˈpeɪˌʧɛk]",
+        "transl": "зарплатный чек",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "371": {
+        "word": "salary",
+        "transc": "[ˈsæləri]",
+        "transl": "зарплата",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "372": {
+        "word": "duties",
+        "transc": "[ˈdjuːtiz]",
+        "transl": "обязанности",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "373": {
+        "word": "employer",
+        "transc": "[ɪmˈplɔɪə]",
+        "transl": "работодатель",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "374": {
+        "word": "employee",
+        "transc": "[ˌɛmplɔɪˈiː]",
+        "transl": "работник",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "375": {
+        "word": "social security",
+        "transc": "[ˈsəʊʃəl sɪˈkjʊərɪti]",
+        "transl": "социальное страхование",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "376": {
+        "word": "job interview",
+        "transc": "[ʤɒb ˈɪntəvjuː]",
+        "transl": "собеседование на работу",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "377": {
+        "word": "health",
+        "transc": "[hɛlθ]",
+        "transl": "здоровье",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "378": {
+        "word": "money",
+        "transc": "[ˈmʌni]",
+        "transl": "деньги",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "379": {
+        "word": "cash",
+        "transc": "[kæʃ]",
+        "transl": "наличные",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "380": {
+        "word": "bill",
+        "transc": "[bɪl]",
+        "transl": "купюра",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "381": {
+        "word": "coin",
+        "transc": "[kɔɪn]",
+        "transl": "монета",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "382": {
+        "word": "change",
+        "transc": "[ʧeɪnʤ]",
+        "transl": "сдача, мелочь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "383": {
+        "word": "payment",
+        "transc": "[ˈpeɪmənt]",
+        "transl": "платеж",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "384": {
+        "word": "check (cheque)",
+        "transc": "[ʧɛk]",
+        "transl": "чек",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "385": {
+        "word": "bank",
+        "transc": "[bæŋk]",
+        "transl": "банк",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "386": {
+        "word": "ATM (automated teller machine)",
+        "transc": "[eɪ-tiː-ɛm] [ˈɔːtəmeɪtɪd ˈtɛlə məˈʃiːn]",
+        "transl": "банкомат",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "387": {
+        "word": "bank card",
+        "transc": "[bæŋk kɑːd]",
+        "transl": "банковская карта",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "388": {
+        "word": "tips",
+        "transc": "[tɪps]",
+        "transl": "чаевые",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "389": {
+        "word": "receipt",
+        "transc": "[rɪˈsiːt]",
+        "transl": "чек",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "390": {
+        "word": "money transfer",
+        "transc": "[ˈmʌni ˈtrænsfə(ː)]",
+        "transl": "денежный перевод",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "391": {
+        "word": "fine",
+        "transc": "[faɪn]",
+        "transl": "штраф",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "392": {
+        "word": "budget",
+        "transc": "[ˈbʌʤɪt]",
+        "transl": "бюджет",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "393": {
+        "word": "food",
+        "transc": "[fuːd]",
+        "transl": "еда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "394": {
+        "word": "breakfast",
+        "transc": "[ˈbrɛkfəst]",
+        "transl": "завтрак",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "395": {
+        "word": "dinner",
+        "transc": "[ˈdɪnə]",
+        "transl": "обед",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "396": {
+        "word": "lunch",
+        "transc": "[lʌnʧ]",
+        "transl": "ланч",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "397": {
+        "word": "supper",
+        "transc": "[ˈsʌpə]",
+        "transl": "ужин",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "398": {
+        "word": "meal",
+        "transc": "[miːl]",
+        "transl": "блюдо, прием пищи",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "399": {
+        "word": "drink, beverage",
+        "transc": "[drɪŋk], [ˈbɛvərɪʤ]",
+        "transl": "напиток",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "400": {
+        "word": "alcohol",
+        "transc": "[ˈælkəhɒl]",
+        "transl": "алкоголь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "401": {
+        "word": "water",
+        "transc": "[ˈwɔːtə]",
+        "transl": "вода",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "402": {
+        "word": "coffee",
+        "transc": "[ˈkɒfi]",
+        "transl": "кофе",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "403": {
+        "word": "tea",
+        "transc": "[tiː]",
+        "transl": "чай",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "404": {
+        "word": "wine",
+        "transc": "[waɪn]",
+        "transl": "вино",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "405": {
+        "word": "juice",
+        "transc": "[ʤuːs]",
+        "transl": "сок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "406": {
+        "word": "meat",
+        "transc": "[miːt]",
+        "transl": "мясо",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "407": {
+        "word": "cereal",
+        "transc": "[ˈsɪərɪəl]",
+        "transl": "хлопья",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "408": {
+        "word": "bread",
+        "transc": "[brɛd]",
+        "transl": "хлеб",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "409": {
+        "word": "vegetables",
+        "transc": "[ˈvɛʤɪtəblz]",
+        "transl": "овощи",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "410": {
+        "word": "fruit",
+        "transc": "[fruːt]",
+        "transl": "фрукты",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "411": {
+        "word": "fish",
+        "transc": "[fɪʃ]",
+        "transl": "рыба",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "412": {
+        "word": "oil",
+        "transc": "[ɔɪl]",
+        "transl": "растительное масло",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "413": {
+        "word": "butter",
+        "transc": "[ˈbʌtə]",
+        "transl": "сливочное масло",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "414": {
+        "word": "snack",
+        "transc": "[snæk]",
+        "transl": "снэк, закуска",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "415": {
+        "word": "candy",
+        "transc": "[ˈkændi]",
+        "transl": "конфета (леденец)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "416": {
+        "word": "pastry",
+        "transc": "[ˈpeɪstri]",
+        "transl": "выпечка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "417": {
+        "word": "diet",
+        "transc": "[ˈdaɪət]",
+        "transl": "диета",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "418": {
+        "word": "fridge, refrigerator",
+        "transc": "[frɪʤ], [rɪˈfrɪʤəreɪtə]",
+        "transl": "холодильник",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "419": {
+        "word": "fork",
+        "transc": "[fɔːk]",
+        "transl": "вилка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "420": {
+        "word": "spoon",
+        "transc": "[spuːn]",
+        "transl": "ложка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "421": {
+        "word": "glass",
+        "transc": "[glɑːs]",
+        "transl": "стакан",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "422": {
+        "word": "cup",
+        "transc": "[kʌp]",
+        "transl": "чашка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "423": {
+        "word": "mug",
+        "transc": "[mʌg]",
+        "transl": "кружка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "424": {
+        "word": "plate, dish",
+        "transc": "[pleɪt], [dɪʃ]",
+        "transl": "тарелка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "425": {
+        "word": "study",
+        "transc": "[ˈstʌdi]",
+        "transl": "изучение, исследование",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "426": {
+        "word": "school",
+        "transc": "[skuːl]",
+        "transl": "школа",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "427": {
+        "word": "college",
+        "transc": "[ˈkɒlɪʤ]",
+        "transl": "колледж",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "428": {
+        "word": "university",
+        "transc": "[ˌjuːnɪˈvɜːsɪti]",
+        "transl": "университет",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "429": {
+        "word": "education",
+        "transc": "[ˌɛdju(ː)ˈkeɪʃən]",
+        "transl": "образование",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "430": {
+        "word": "degree",
+        "transc": "[dɪ'griː]",
+        "transl": "ученая степень",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "431": {
+        "word": "graduate",
+        "transc": "[ˈgrædjʊət]",
+        "transl": "выпускник",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "432": {
+        "word": "diploma",
+        "transc": "[dɪˈpləʊmə]",
+        "transl": "диплом",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "433": {
+        "word": "textbook",
+        "transc": "[ˈtɛkstbʊk]",
+        "transl": "учебник",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "434": {
+        "word": "notebook",
+        "transc": "[ˈnəʊtbʊk]",
+        "transl": "тетрадь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "435": {
+        "word": "notepad",
+        "transc": "[ˈnəʊtˌpæd]",
+        "transl": "блокнот",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "436": {
+        "word": "pen",
+        "transc": "[pɛn]",
+        "transl": "авторучка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "437": {
+        "word": "pencil",
+        "transc": "[ˈpɛnsl]",
+        "transl": "карандаш",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "438": {
+        "word": "blackboard",
+        "transc": "[ˈblækbɔːd]",
+        "transl": "школьная доска",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "439": {
+        "word": "whiteboard",
+        "transc": "[ˈwaɪtbɔːd]",
+        "transl": "маркерная доска",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "440": {
+        "word": "classroom",
+        "transc": "[ˈklɑːsrʊm]",
+        "transl": "класс (помещение)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "441": {
+        "word": "class, lesson",
+        "transc": "[klɑːs], [ˈlɛsn]",
+        "transl": "урок",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "442": {
+        "word": "grade",
+        "transc": "[greɪd]",
+        "transl": "класс (этап обучения)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "443": {
+        "word": "mark, grade",
+        "transc": "[mɑːk], [greɪd]",
+        "transl": "оценка",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "444": {
+        "word": "pupil",
+        "transc": "[ˈpjuːpl]",
+        "transl": "ученик",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "445": {
+        "word": "student",
+        "transc": "[ˈstjuːdənt]",
+        "transl": "студент, ученик",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "446": {
+        "word": "teacher",
+        "transc": "[ˈtiːʧə]",
+        "transl": "учитель",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "447": {
+        "word": "exam (examination)",
+        "transc": "[ɪgˈzæm] [ɪgˌzæmɪˈneɪʃən]",
+        "transl": "экзамен",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "448": {
+        "word": "test",
+        "transc": "[tɛst]",
+        "transl": "тест",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "449": {
+        "word": "color (colour)",
+        "transc": "[ˈkʌlə]",
+        "transl": "цвет",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "450": {
+        "word": "black",
+        "transc": "[blæk]",
+        "transl": "черный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "451": {
+        "word": "white",
+        "transc": "[waɪt]",
+        "transl": "белый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "452": {
+        "word": "dark",
+        "transc": "[dɑːk]",
+        "transl": "темный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "453": {
+        "word": "light",
+        "transc": "[laɪt]",
+        "transl": "светлый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "454": {
+        "word": "red",
+        "transc": "[rɛd]",
+        "transl": "красный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "455": {
+        "word": "orange",
+        "transc": "[ˈɒrɪnʤ]",
+        "transl": "оранжевый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "456": {
+        "word": "yellow",
+        "transc": "[ˈjɛləʊ]",
+        "transl": "желтый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "457": {
+        "word": "green",
+        "transc": "[griːn]",
+        "transl": "зеленый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "458": {
+        "word": "blue",
+        "transc": "[bluː]",
+        "transl": "голубой, синий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "459": {
+        "word": "purple",
+        "transc": "[ˈpɜːpl]",
+        "transl": "фиолетовый (пурпурный)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "460": {
+        "word": "violet",
+        "transc": "[ˈvaɪəlɪt]",
+        "transl": "темно-фиолетовый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "461": {
+        "word": "pink",
+        "transc": "[pɪŋk]",
+        "transl": "розовый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "462": {
+        "word": "silver",
+        "transc": "[ˈsɪlvə]",
+        "transl": "серебристый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "463": {
+        "word": "gold",
+        "transc": "[gəʊld]",
+        "transl": "золотой",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "464": {
+        "word": "brown",
+        "transc": "[braʊn]",
+        "transl": "коричневый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "465": {
+        "word": "grey (gray)",
+        "transc": "[greɪ]",
+        "transl": "серый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "466": {
+        "word": "big",
+        "transc": "[bɪg]",
+        "transl": "большой",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "467": {
+        "word": "large, great, huge, enormous",
+        "transc": "[lɑːʤ], [greɪt], [hjuːʤ], [ɪˈnɔːməs]",
+        "transl": "большой, огромный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "468": {
+        "word": "small",
+        "transc": "[smɔːl]",
+        "transl": "маленький",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "469": {
+        "word": "little",
+        "transc": "[ˈlɪtl]",
+        "transl": "маленький",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "470": {
+        "word": "tiny",
+        "transc": "[ˈtaɪni]",
+        "transl": "крошечный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "471": {
+        "word": "long",
+        "transc": "[lɒŋ]",
+        "transl": "длинный, долгий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "472": {
+        "word": "tall",
+        "transc": "[tɔːl]",
+        "transl": "высокий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "473": {
+        "word": "high",
+        "transc": "[haɪ]",
+        "transl": "высокий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "474": {
+        "word": "short",
+        "transc": "[ʃɔːt]",
+        "transl": "короткий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "475": {
+        "word": "thin",
+        "transc": "[θɪn]",
+        "transl": "тонкий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "476": {
+        "word": "thick",
+        "transc": "[θɪk]",
+        "transl": "толстый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "477": {
+        "word": "wide, broad",
+        "transc": "[waɪd] [brɔːd]",
+        "transl": "широкий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "478": {
+        "word": "narrow",
+        "transc": "[ˈnærəʊ]",
+        "transl": "узкий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "479": {
+        "word": "heavy",
+        "transc": "[ˈhɛvi]",
+        "transl": "тяжелый (о весе)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "480": {
+        "word": "light, lightweight",
+        "transc": "[laɪt], [ˈlaɪtweɪt]",
+        "transl": "легкий (о весе)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "481": {
+        "word": "good",
+        "transc": "[gʊd]",
+        "transl": "хороший",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "482": {
+        "word": "bad",
+        "transc": "[bæd]",
+        "transl": "плохой",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "483": {
+        "word": "cheap",
+        "transc": "[ʧiːp]",
+        "transl": "дешевый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "484": {
+        "word": "expensive",
+        "transc": "[ɪksˈpɛnsɪv]",
+        "transl": "дорогой (о цене)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "485": {
+        "word": "convenient, handy, comfortable",
+        "transc": "[kənˈviːnjənt], [ˈhændi], [ˈkʌmfətəbl]",
+        "transl": "удобный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "486": {
+        "word": "tasty",
+        "transc": "[ˈteɪsti]",
+        "transl": "вкусный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "487": {
+        "word": "sweet",
+        "transc": "[swiːt]",
+        "transl": "сладкий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "488": {
+        "word": "salty",
+        "transc": "[ˈsɔːlti]",
+        "transl": "соленый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "489": {
+        "word": "bitter",
+        "transc": "[ˈbɪtə]",
+        "transl": "горький",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "490": {
+        "word": "sour",
+        "transc": "[ˈsaʊə]",
+        "transl": "кислый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "491": {
+        "word": "hot",
+        "transc": "[hɒt]",
+        "transl": "горячий, острый (о вкусе)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "492": {
+        "word": "cold",
+        "transc": "[kəʊld]",
+        "transl": "холодный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "493": {
+        "word": "cool",
+        "transc": "[kuːl]",
+        "transl": "прохладный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "494": {
+        "word": "distgusting",
+        "transc": "[dɪstgˈʌstɪŋ]",
+        "transl": "мерзкий (о вкусе)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "495": {
+        "word": "ugly",
+        "transc": "[ˈʌgli]",
+        "transl": "отвратительный (о внешности)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "496": {
+        "word": "beautiful",
+        "transc": "[ˈbjuːtəfʊl]",
+        "transl": "красивый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "497": {
+        "word": "scary",
+        "transc": "[ˈskeəri]",
+        "transl": "страшный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "498": {
+        "word": "funny",
+        "transc": "[ˈfʌni]",
+        "transl": "смешной",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "499": {
+        "word": "interesting",
+        "transc": "[ˈɪntrɪstɪŋ]",
+        "transl": "интересный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "500": {
+        "word": "boring",
+        "transc": "[ˈbɔːrɪŋ]",
+        "transl": "скучный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "501": {
+        "word": "true",
+        "transc": "[truː]",
+        "transl": "правдивый, истинный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "502": {
+        "word": "false",
+        "transc": "[fɔːls]",
+        "transl": "ложный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "503": {
+        "word": "useful",
+        "transc": "[ˈjuːsfʊl]",
+        "transl": "полезный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "504": {
+        "word": "useless",
+        "transc": "[ˈjuːslɪs]",
+        "transl": "бесполезный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "505": {
+        "word": "soft",
+        "transc": "[sɒft]",
+        "transl": "мягкий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "506": {
+        "word": "solid",
+        "transc": "[ˈsɒlɪd]",
+        "transl": "твердый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "507": {
+        "word": "liquid",
+        "transc": "[ˈlɪkwɪd]",
+        "transl": "жидкий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "508": {
+        "word": "hard",
+        "transc": "[hɑːd]",
+        "transl": "жесткий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "509": {
+        "word": "easy, simple",
+        "transc": "[ˈiːzi], [ˈsɪmpl]",
+        "transl": "легкий, простой",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "510": {
+        "word": "hard, difficult",
+        "transc": "[hɑːd], [ˈdɪfɪkəlt]",
+        "transl": "трудный, сложный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "511": {
+        "word": "young",
+        "transc": "[jʌŋ]",
+        "transl": "молодой",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "512": {
+        "word": "old",
+        "transc": "[əʊld]",
+        "transl": "старый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "513": {
+        "word": "adult",
+        "transc": "[əˈdʌlt]",
+        "transl": "взрослый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "514": {
+        "word": "lazy",
+        "transc": "[ˈleɪzi]",
+        "transl": "ленивый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "515": {
+        "word": "hardworking",
+        "transc": "[ˈhɑːdˌwɜːkɪŋ]",
+        "transl": "трудолюбивый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "516": {
+        "word": "smart",
+        "transc": "[smɑːt]",
+        "transl": "умный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "517": {
+        "word": "stupid",
+        "transc": "[ˈstjuːpɪd]",
+        "transl": "глупый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "518": {
+        "word": "kind",
+        "transc": "[kaɪnd]",
+        "transl": "добрый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "519": {
+        "word": "mean",
+        "transc": "[miːn]",
+        "transl": "злой, подлый, нехороший",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "520": {
+        "word": "good",
+        "transc": "[gʊd]",
+        "transl": "хороший, добрый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "521": {
+        "word": "bad",
+        "transc": "[bæd]",
+        "transl": "плохой",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "522": {
+        "word": "nice",
+        "transc": "[naɪs]",
+        "transl": "приятный, милый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "523": {
+        "word": "cute",
+        "transc": "[kjuːt]",
+        "transl": "милый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "524": {
+        "word": "optimistic",
+        "transc": "[ˌɒptɪˈmɪstɪk]",
+        "transl": "оптимистичный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "525": {
+        "word": "pessimistic",
+        "transc": "[ˌpɛsɪˈmɪstɪk]",
+        "transl": "пессимистичный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "526": {
+        "word": "curious",
+        "transc": "[ˈkjʊərɪəs]",
+        "transl": "любопытный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "527": {
+        "word": "positive",
+        "transc": "[ˈpɒzətɪv]",
+        "transl": "позитивный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "528": {
+        "word": "cruel",
+        "transc": "[krʊəl]",
+        "transl": "жестокий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "529": {
+        "word": "calm",
+        "transc": "[kɑːm]",
+        "transl": "спокойный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "530": {
+        "word": "brave",
+        "transc": "[breɪv]",
+        "transl": "смелый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "531": {
+        "word": "cool",
+        "transc": "[kuːl]",
+        "transl": "клевый, крутой, прикольный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "532": {
+        "word": "tough",
+        "transc": "[tʌf]",
+        "transl": "крутой, сильный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "533": {
+        "word": "honest",
+        "transc": "[ˈɒnɪst]",
+        "transl": "честный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "534": {
+        "word": "happy",
+        "transc": "[ˈhæpi]",
+        "transl": "счастливый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "535": {
+        "word": "sad",
+        "transc": "[sæd]",
+        "transl": "печальный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "536": {
+        "word": "angry",
+        "transc": "[ˈæŋgri]",
+        "transl": "сердитый",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "537": {
+        "word": "scared",
+        "transc": "[skeəd]",
+        "transl": "испуганный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "538": {
+        "word": "tired",
+        "transc": "[ˈtaɪəd]",
+        "transl": "уставший",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "539": {
+        "word": "bored",
+        "transc": "[bɔːd]",
+        "transl": "скучающий",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "540": {
+        "word": "helpful",
+        "transc": "[ˈhɛlpfʊl]",
+        "transl": "готовый помочь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "541": {
+        "word": "reliable",
+        "transc": "[rɪˈlaɪəbl]",
+        "transl": "надежный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "542": {
+        "word": "responsible",
+        "transc": "[rɪsˈpɒnsəbl]",
+        "transl": "ответственный",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "543": {
+        "word": "now",
+        "transc": "[naʊ]",
+        "transl": "сейчас",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "544": {
+        "word": "then",
+        "transc": "[ðɛn]",
+        "transl": "тогда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "545": {
+        "word": "again",
+        "transc": "[əˈgɛn]",
+        "transl": "снова",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "546": {
+        "word": "always",
+        "transc": "[ˈɔːlweɪz]",
+        "transl": "всегда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "547": {
+        "word": "never",
+        "transc": "[ˈnɛvə]",
+        "transl": "никогда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "548": {
+        "word": "soon",
+        "transc": "[suːn]",
+        "transl": "скоро",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "549": {
+        "word": "late",
+        "transc": "[leɪt]",
+        "transl": "поздно",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "550": {
+        "word": "early",
+        "transc": "[ˈɜːli]",
+        "transl": "рано",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "551": {
+        "word": "before",
+        "transc": "[bɪˈfɔː]",
+        "transl": "до",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "552": {
+        "word": "after",
+        "transc": "[ˈɑːftə]",
+        "transl": "после",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "553": {
+        "word": "yesterday",
+        "transc": "[ˈjɛstədeɪ]",
+        "transl": "вчера",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "554": {
+        "word": "today",
+        "transc": "[təˈdeɪ]",
+        "transl": "сегодня",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "555": {
+        "word": "tomorrow",
+        "transc": "[təˈmɒrəʊ]",
+        "transl": "завтра",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "556": {
+        "word": "next week (year)",
+        "transc": "[nɛkst wiːk] [jɪə]",
+        "transl": "на следующей неделе (в след. году)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "557": {
+        "word": "every day (week, month)",
+        "transc": "[ˈɛvri deɪ] [wiːk] [mʌnθ]",
+        "transl": "каждый день (неделю, месяц)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "558": {
+        "word": "this morning (afternoon)",
+        "transc": "[ðɪs ˈmɔːnɪŋ] [ˈɑːftəˈnuːn]",
+        "transl": "этим утром (днем)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "559": {
+        "word": "tonight",
+        "transc": "[təˈnaɪt]",
+        "transl": "этим вечером (ночью)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "560": {
+        "word": "sometimes",
+        "transc": "[ˈsʌmtaɪmz]",
+        "transl": "иногда",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "561": {
+        "word": "often",
+        "transc": "[ˈɒf (t)(ə)n]",
+        "transl": "часто",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "562": {
+        "word": "rarely, seldom",
+        "transc": "[ˈreəli], [ˈsɛldəm]",
+        "transl": "редко",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "563": {
+        "word": "recently",
+        "transc": "[ˈriːsntli]",
+        "transl": "недавно",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "564": {
+        "word": "lately",
+        "transc": "[ˈleɪtli]",
+        "transl": "в последнее время",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "565": {
+        "word": "once",
+        "transc": "[wʌns]",
+        "transl": "однажды",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "566": {
+        "word": "usually",
+        "transc": "[ˈjuːʒʊəli]",
+        "transl": "обычно",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "567": {
+        "word": "already",
+        "transc": "[ɔːlˈrɛdi]",
+        "transl": "уже",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "568": {
+        "word": "yet",
+        "transc": "[jɛt]",
+        "transl": "уже, еще",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "569": {
+        "word": "not yet",
+        "transc": "[nɒt jɛt]",
+        "transl": "еще не",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "570": {
+        "word": "still",
+        "transc": "[stɪl]",
+        "transl": "все еще",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "571": {
+        "word": "here",
+        "transc": "[hɪə]",
+        "transl": "здесь",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "572": {
+        "word": "there",
+        "transc": "[ðeə]",
+        "transl": "там",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "573": {
+        "word": "where",
+        "transc": "[weə]",
+        "transl": "где",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "574": {
+        "word": "around",
+        "transc": "[əˈraʊnd]",
+        "transl": "вокруг",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "575": {
+        "word": "inside",
+        "transc": "[ɪnˈsaɪd]",
+        "transl": "внутри",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "576": {
+        "word": "outside",
+        "transc": "[ˌaʊtˈsaɪd]",
+        "transl": "снаружи",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "577": {
+        "word": "above",
+        "transc": "[əˈbʌv]",
+        "transl": "над",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "578": {
+        "word": "under, below",
+        "transc": "[ˈʌndə], [bɪˈləʊ]",
+        "transl": "под",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "579": {
+        "word": "somewhere",
+        "transc": "[ˈsʌmweə]",
+        "transl": "где-то",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "580": {
+        "word": "anywhere",
+        "transc": "[ˈɛnɪweə]",
+        "transl": "где-нибудь, хоть где",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "581": {
+        "word": "nowhere",
+        "transc": "[ˈnəʊweə]",
+        "transl": "нигде",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "582": {
+        "word": "only",
+        "transc": "[ˈəʊnli]",
+        "transl": "только",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "583": {
+        "word": "much",
+        "transc": "[mʌʧ]",
+        "transl": "много",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "584": {
+        "word": "little",
+        "transc": "[ˈlɪtl]",
+        "transl": "мало",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "585": {
+        "word": "very",
+        "transc": "[ˈvɛri]",
+        "transl": "очень",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "586": {
+        "word": "so",
+        "transc": "[səʊ]",
+        "transl": "так",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "587": {
+        "word": "enough",
+        "transc": "[ɪˈnʌf]",
+        "transl": "достаточно",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "588": {
+        "word": "almost",
+        "transc": "[ˈɔːlməʊst]",
+        "transl": "почти",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "589": {
+        "word": "well",
+        "transc": "[wɛl]",
+        "transl": "хорошо",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "590": {
+        "word": "bad",
+        "transc": "[bæd]",
+        "transl": "плохо",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "591": {
+        "word": "fast",
+        "transc": "[fɑːst]",
+        "transl": "быстро",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "592": {
+        "word": "quickly",
+        "transc": "[ˈkwɪkli]",
+        "transl": "быстро",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "593": {
+        "word": "slowly",
+        "transc": "[ˈsləʊli]",
+        "transl": "медленно",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    },
+    "594": {
+        "word": "too ( + наречие)",
+        "transc": "[tuː]",
+        "transl": "слишком (+ наречие)",
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
+        "tags": []
+    }
+}
