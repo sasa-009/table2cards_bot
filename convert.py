@@ -1,5 +1,4 @@
 from openpyxl import load_workbook
-
 from data import update_data
 
 

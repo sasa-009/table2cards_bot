@@ -9,4 +9,7 @@ def get_data():
 def update_data(data):
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+    return get_data()
+        
+
 

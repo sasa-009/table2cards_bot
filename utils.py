@@ -1,16 +1,15 @@
 import random as r
-from aiogram import types
-
+from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from data import update_data
 
 
 def change_data(data, status, key_word):
     data[key_word]['known'] = status
-    update_data(data)    
+    return update_data(data)    
 
 
 
-def print_word(key_word,data):
+def print_word(key_word, data):
     word = data[key_word]
     if data["config"]["transc"]:
         return f'{word['word']} ({word['transc']}) - {word['transl']}\n'
@@ -25,10 +24,10 @@ def choose_words(data):
 def keybord_words(data, c, i):
         key_word = choose_words(data)
 
-        keyboard  = types.InlineKeyboardMarkup(inline_keyboard=[
+        keyboard  = InlineKeyboardMarkup(inline_keyboard=[
             [
-                types.InlineKeyboardButton(text="✅", callback_data=f"yes_{key_word}"),
-                types.InlineKeyboardButton(text="❌", callback_data=f"no_{key_word}")
+                InlineKeyboardButton(text="✅", callback_data=f"yes_{key_word}"),
+                InlineKeyboardButton(text="❌", callback_data=f"no_{key_word}")
             ]
         ])
         mes = f"which of these words do you know? (new words: {c}/{data['config']['quantity_words']})\n{i}. {print_word(key_word,data)}"
@@ -44,7 +43,13 @@ def word_list(data):
         if data[str(i)]["known"] == False:
             mes += print_word(str(i), data)
     return mes
-          
+    
 
-
-          
+def create_keyboard(names):
+    for i in range(len(names)):
+        for j in range(len(names[i])):
+            name = names[i][j]
+            names[i][j] = InlineKeyboardButton(text=name, callback_data=name)
+    keyboard = InlineKeyboardMarkup(inline_keyboard=names)
+    
+    return keyboard
