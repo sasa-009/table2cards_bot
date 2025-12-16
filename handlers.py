@@ -15,7 +15,7 @@ config = data['config']
 
 @rm.message(CommandStart())
 async def cmd_start(message: types.Message):
-    keyboard = create_keyboard([["load_file", "settings"],["random_words", "study"]])
+    keyboard = create_keyboard([["load_file", "settings"],["random_words", "study"],["stats"]])
     await message.answer("hi, what do you want to do?", reply_markup=keyboard)
 
 
@@ -92,6 +92,7 @@ async def no(callback: types.CallbackQuery):
 
 @rm.callback_query(F.data == "study")
 async def stady(callback: types.CallbackQuery):
+    data = get_data()
     await callback.answer()
     if word_list(data) != "":
         keyboard = create_keyboard([["repeat"]])
