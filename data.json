@@ -1550,7 +1550,7 @@
         "learn": null,
         "rd": null,
         "rdl": null,
-        "known": null,
+        "known": true,
         "tags": []
     },
     "156": {
@@ -1750,7 +1750,7 @@
         "learn": null,
         "rd": null,
         "rdl": null,
-        "known": null,
+        "known": true,
         "tags": []
     },
     "176": {
@@ -2500,7 +2500,7 @@
         "learn": null,
         "rd": null,
         "rdl": null,
-        "known": null,
+        "known": true,
         "tags": []
     },
     "251": {
@@ -3340,7 +3340,7 @@
         "learn": null,
         "rd": null,
         "rdl": null,
-        "known": null,
+        "known": true,
         "tags": []
     },
     "335": {
@@ -3380,7 +3380,7 @@
         "learn": null,
         "rd": null,
         "rdl": null,
-        "known": null,
+        "known": true,
         "tags": []
     },
     "339": {
@@ -3780,7 +3780,7 @@
         "learn": null,
         "rd": null,
         "rdl": null,
-        "known": null,
+        "known": true,
         "tags": []
     },
     "379": {

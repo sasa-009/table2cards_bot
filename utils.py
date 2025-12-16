@@ -36,11 +36,11 @@ def keybord_words(data, c, i):
 
 
 
-def word_list(data):
+def word_list(data, status):
     mes = ""
     print(data[str(1)]["known"])
     for i in range(1, len(data)-1):
-        if data[str(i)]["known"] == False:
+        if data[str(i)]["known"] == status:
             mes += print_word(str(i), data)
     return mes
     

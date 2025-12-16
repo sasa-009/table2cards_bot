@@ -13,6 +13,11 @@ data = get_data()
 config = data['config']
 
 
+from utils_s import words_list_s 
+from utils import create_keyboard, word_list
+
+
+
 @rm.message(CommandStart())
 async def cmd_start(message: types.Message):
     keyboard = create_keyboard([["load_file", "settings"],["random_words", "study"],["stats"]])
@@ -94,9 +99,9 @@ async def no(callback: types.CallbackQuery):
 async def stady(callback: types.CallbackQuery):
     data = get_data()
     await callback.answer()
-    if word_list(data) != "":
+    if word_list(data, False) != "":
         keyboard = create_keyboard([["repeat"]])
-        await callback.message.answer(word_list(data), reply_markup=keyboard)
+        await callback.message.answer(word_list(data, False), reply_markup=keyboard)
         update_data(data)
     else:
         await callback.message.answer("not found new words")
@@ -122,3 +127,27 @@ async def handle_document(message: types.Message):
         await message.reply("success")
     except Exception:
         await message.reply("error")
+
+
+@rm.callback_query(F.data == "stats")
+async def stats(callback: types.CallbackQuery):
+    await callback.answer()
+    message = f"""
+All words: {len(get_data()) - 1}
+1. Known words: {len(words_list_s(1))}
+2. Unknown words: {len(words_list_s(0))}
+"""
+    keybord = create_keyboard([["known", "unknown"]])
+    await callback.message.answer(message, reply_markup=keybord)
+
+
+@rm.callback_query(F.data == "known")
+async def known(callback: types.CallbackQuery):
+    await callback.answer()
+    await callback.message.answer("known words:\n" + word_list(get_data(), True))
+
+
+@rm.callback_query(F.data == "unknown")
+async def unknown(callback: types.CallbackQuery):
+    await callback.message.answer("unknown words:\n" + word_list(get_data(), False))
+    await callback.answer()

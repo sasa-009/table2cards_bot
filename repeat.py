@@ -7,15 +7,13 @@ from conf import bi
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
 
-# data = get_data()
-# config = data['config']
+rr = Router()
 
 
 class Data(StatesGroup):
     data = State()
 
 
-rr = Router()
 
 
 @rr.callback_query(F.data == "repeat")
@@ -69,7 +67,7 @@ async def yes_r(callback: types.CallbackQuery, state: FSMContext):
     else:
         if bi.c == len(bi.l):
             await callback.message.edit_text(f"known words {bi.c}/{len(bi.l)}")
-            keyboard = create_keyboard([["load_file", "settings"],["random_words", "study"]])
+            keyboard = create_keyboard([["load_file", "settings"],["random_words", "study"], ["stats"]])
             await callback.message.answer("hi, what do you want to do?", reply_markup=keyboard)
             bi.l = repeat_list(data)
         else:
