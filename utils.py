@@ -42,6 +42,8 @@ def word_list(data, status):
     for i in range(1, len(data)-1):
         if data[str(i)]["known"] == status:
             mes += print_word(str(i), data)
+    if mes == "":
+        mes = "not found"
     return mes
     
 

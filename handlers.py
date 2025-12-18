@@ -5,6 +5,10 @@ from aiogram.filters.command import CommandStart, Command, CommandObject
 from convert import convert
 from utils import change_data, keybord_words, word_list, create_keyboard
 from data import get_data, update_data
+
+from utils_s import words_list_s 
+from utils import create_keyboard, word_list
+
 rm = Router()
 
 i = 1
@@ -13,14 +17,11 @@ data = get_data()
 config = data['config']
 
 
-from utils_s import words_list_s 
-from utils import create_keyboard, word_list
-
 
 
 @rm.message(CommandStart())
 async def cmd_start(message: types.Message):
-    keyboard = create_keyboard([["load_file", "settings"],["random_words", "study"],["stats"]])
+    keyboard = create_keyboard([["load_file", "settings"],["random_words", "study"],["stats", "add_words"], ["search"]])
     await message.answer("hi, what do you want to do?", reply_markup=keyboard)
 
 
@@ -129,25 +130,25 @@ async def handle_document(message: types.Message):
         await message.reply("error")
 
 
-@rm.callback_query(F.data == "stats")
-async def stats(callback: types.CallbackQuery):
-    await callback.answer()
-    message = f"""
-All words: {len(get_data()) - 1}
-1. Known words: {len(words_list_s(1))}
-2. Unknown words: {len(words_list_s(0))}
-"""
-    keybord = create_keyboard([["known", "unknown"]])
-    await callback.message.answer(message, reply_markup=keybord)
+# @rm.callback_query(F.data == "stats")
+# async def stats(callback: types.CallbackQuery):
+#     await callback.answer()
+#     message = f"""
+# All words: {len(get_data()) - 1}
+# 1. Known words: {len(words_list_s(1))}
+# 2. Unknown words: {len(words_list_s(0))}
+# """
+#     keybord = create_keyboard([["known", "unknown"]])
+#     await callback.message.answer(message, reply_markup=keybord)
 
 
-@rm.callback_query(F.data == "known")
-async def known(callback: types.CallbackQuery):
-    await callback.answer()
-    await callback.message.answer("known words:\n" + word_list(get_data(), True))
+# @rm.callback_query(F.data == "known")
+# async def known(callback: types.CallbackQuery):
+#     await callback.answer()
+#     await callback.message.answer("known words:\n" + word_list(get_data(), True))
 
 
-@rm.callback_query(F.data == "unknown")
-async def unknown(callback: types.CallbackQuery):
-    await callback.message.answer("unknown words:\n" + word_list(get_data(), False))
-    await callback.answer()
+# @rm.callback_query(F.data == "unknown")
+# async def unknown(callback: types.CallbackQuery):
+#     await callback.message.answer("unknown words:\n" + word_list(get_data(), False))
+#     await callback.answer()

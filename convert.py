@@ -21,8 +21,8 @@ def convert():
                 "transc": None,
                 "transl": None,
                 "learn": None,
-                "rd": None,
-                "rdl": None,
+                "next_repeat": None,
+                "last_repeat": None,
                 "known": None,
                 "tags": [],
             }
@@ -31,7 +31,7 @@ def convert():
                 if type(value) == str:
                     value = value.strip()
                 if cells.column == 1:
-                    word["word"] = value
+                    word["word"] = "  "+str(value)+"  "
                 elif cells.column == 2:
                     if cells.value == None:
                         word = {}
