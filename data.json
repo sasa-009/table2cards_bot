@@ -1,10 +1,10 @@
 {
     "config": {
         "transc": false,
-        "quantity_words": 3
+        "quantity_words": 25
     },
     "1": {
-        "word": "  be (was, been)  ",
+        "word": "  be (was, been) ",
         "transc": "[biː]",
         "transl": "быть",
         "learn": null,
@@ -14,17 +14,17 @@
         "tags": []
     },
     "2": {
-        "word": "  do (did, done)  ",
+        "word": "  do (did, done) ",
         "transc": "[duː]",
         "transl": "делать",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "3": {
-        "word": "  have (had, had)  ",
+        "word": "  have (had, had) ",
         "transc": "[hæv]",
         "transl": "иметь",
         "learn": null,
@@ -34,7 +34,7 @@
         "tags": []
     },
     "4": {
-        "word": "  make (made, made)  ",
+        "word": "  make (made, made) ",
         "transc": "[meɪk]",
         "transl": "делать",
         "learn": null,
@@ -44,17 +44,17 @@
         "tags": []
     },
     "5": {
-        "word": "  get (got, got / gotten)  ",
+        "word": "  get (got, got / gotten) ",
         "transc": "[gɛt]",
         "transl": "получать, становиться",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "6": {
-        "word": "  go (went, gone)  ",
+        "word": "  go (went, gone) ",
         "transc": "[gəʊ]",
         "transl": "идти",
         "learn": null,
@@ -64,7 +64,7 @@
         "tags": []
     },
     "7": {
-        "word": "  take (took, taken)  ",
+        "word": "  take (took, taken) ",
         "transc": "[teɪk]",
         "transl": "брать",
         "learn": null,
@@ -74,7 +74,7 @@
         "tags": []
     },
     "8": {
-        "word": "  will  ",
+        "word": "  will ",
         "transc": "[wɪl]",
         "transl": "(образует будущее время)",
         "learn": null,
@@ -84,7 +84,7 @@
         "tags": []
     },
     "9": {
-        "word": "  move  ",
+        "word": "  move ",
         "transc": "[muːv]",
         "transl": "двигать (-ся)",
         "learn": null,
@@ -94,7 +94,7 @@
         "tags": []
     },
     "10": {
-        "word": "  go (went, gone)  ",
+        "word": "  go (went, gone) ",
         "transc": "[gəʊ]",
         "transl": "идти",
         "learn": null,
@@ -104,7 +104,7 @@
         "tags": []
     },
     "11": {
-        "word": "  walk  ",
+        "word": "  walk ",
         "transc": "[wɔːk]",
         "transl": "идти пешком, гулять",
         "learn": null,
@@ -114,7 +114,7 @@
         "tags": []
     },
     "12": {
-        "word": "  run (ran, run)  ",
+        "word": "  run (ran, run) ",
         "transc": "[rʌn]",
         "transl": "бежать",
         "learn": null,
@@ -124,7 +124,7 @@
         "tags": []
     },
     "13": {
-        "word": "  turn  ",
+        "word": "  turn ",
         "transc": "[tɜːn]",
         "transl": "поворачивать",
         "learn": null,
@@ -134,7 +134,7 @@
         "tags": []
     },
     "14": {
-        "word": "  fly (flew, flown)  ",
+        "word": "  fly (flew, flown) ",
         "transc": "[flaɪ]",
         "transl": "летать",
         "learn": null,
@@ -144,7 +144,7 @@
         "tags": []
     },
     "15": {
-        "word": "  drive (drove, driven)  ",
+        "word": "  drive (drove, driven) ",
         "transc": "[draɪv]",
         "transl": "вести машину",
         "learn": null,
@@ -154,7 +154,7 @@
         "tags": []
     },
     "16": {
-        "word": "  swim (swam, swum)  ",
+        "word": "  swim (swam, swum) ",
         "transc": "[swɪm]",
         "transl": "плыть",
         "learn": null,
@@ -164,7 +164,7 @@
         "tags": []
     },
     "17": {
-        "word": "  jump  ",
+        "word": "  jump ",
         "transc": "[ʤʌmp]",
         "transl": "прыгать",
         "learn": null,
@@ -174,17 +174,17 @@
         "tags": []
     },
     "18": {
-        "word": "  sit down (sat, sitten)  ",
+        "word": "  sit down (sat, sitten) ",
         "transc": "[sɪt daʊn]",
         "transl": "садиться",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "19": {
-        "word": "  lie down (lay, lain)  ",
+        "word": "  lie down (lay, lain) ",
         "transc": "[laɪ daʊn]",
         "transl": "ложиться",
         "learn": null,
@@ -194,7 +194,7 @@
         "tags": []
     },
     "20": {
-        "word": "  stand up (stood, stood)  ",
+        "word": "  stand up (stood, stood) ",
         "transc": "[stænd ʌp]",
         "transl": "вставать",
         "learn": null,
@@ -204,7 +204,7 @@
         "tags": []
     },
     "21": {
-        "word": "  stand (stood, stood)  ",
+        "word": "  stand (stood, stood) ",
         "transc": "[stænd]",
         "transl": "стоять",
         "learn": null,
@@ -214,7 +214,7 @@
         "tags": []
     },
     "22": {
-        "word": "  lie (lay, lain)  ",
+        "word": "  lie (lay, lain) ",
         "transc": "[laɪ]",
         "transl": "лежать",
         "learn": null,
@@ -224,7 +224,7 @@
         "tags": []
     },
     "23": {
-        "word": "  sit (sat, sitten)  ",
+        "word": "  sit (sat, sitten) ",
         "transc": "[sɪt]",
         "transl": "сидеть",
         "learn": null,
@@ -234,7 +234,7 @@
         "tags": []
     },
     "24": {
-        "word": "  step  ",
+        "word": "  step ",
         "transc": "[stɛp]",
         "transl": "делать шаг",
         "learn": null,
@@ -244,7 +244,7 @@
         "tags": []
     },
     "25": {
-        "word": "  dance  ",
+        "word": "  dance ",
         "transc": "[dɑːns]",
         "transl": "танцевать",
         "learn": null,
@@ -254,7 +254,7 @@
         "tags": []
     },
     "26": {
-        "word": "  roll  ",
+        "word": "  roll ",
         "transc": "[rəʊl]",
         "transl": "катить (-ся)",
         "learn": null,
@@ -264,7 +264,7 @@
         "tags": []
     },
     "27": {
-        "word": "  push  ",
+        "word": "  push ",
         "transc": "[pʊʃ]",
         "transl": "толкать, нажимать",
         "learn": null,
@@ -274,7 +274,7 @@
         "tags": []
     },
     "28": {
-        "word": "  pull  ",
+        "word": "  pull ",
         "transc": "[pʊl]",
         "transl": "тянуть",
         "learn": null,
@@ -284,7 +284,7 @@
         "tags": []
     },
     "29": {
-        "word": "  put (put, put)  ",
+        "word": "  put (put, put) ",
         "transc": "[pʊt]",
         "transl": "ставить, класть, помещать",
         "learn": null,
@@ -294,7 +294,7 @@
         "tags": []
     },
     "30": {
-        "word": "  take (took, taken)  ",
+        "word": "  take (took, taken) ",
         "transc": "[teɪk]",
         "transl": "брать",
         "learn": null,
@@ -304,7 +304,7 @@
         "tags": []
     },
     "31": {
-        "word": "  give (gave, given)  ",
+        "word": "  give (gave, given) ",
         "transc": "[gɪv]",
         "transl": "давать",
         "learn": null,
@@ -314,7 +314,7 @@
         "tags": []
     },
     "32": {
-        "word": "  pass  ",
+        "word": "  pass ",
         "transc": "[pɑːs]",
         "transl": "передавать",
         "learn": null,
@@ -324,7 +324,7 @@
         "tags": []
     },
     "33": {
-        "word": "  throw (threw, thrown)  ",
+        "word": "  throw (threw, thrown) ",
         "transc": "[θrəʊ]",
         "transl": "бросать",
         "learn": null,
@@ -334,7 +334,7 @@
         "tags": []
     },
     "34": {
-        "word": "  hit (hit, hit)  ",
+        "word": "  hit (hit, hit) ",
         "transc": "[hɪt]",
         "transl": "бить",
         "learn": null,
@@ -344,7 +344,7 @@
         "tags": []
     },
     "35": {
-        "word": "  touch  ",
+        "word": "  touch ",
         "transc": "[tʌʧ]",
         "transl": "прикасаться",
         "learn": null,
@@ -354,7 +354,7 @@
         "tags": []
     },
     "36": {
-        "word": "  point at  ",
+        "word": "  point at ",
         "transc": "[pɔɪnt æt]",
         "transl": "указывать на что-то",
         "learn": null,
@@ -364,7 +364,7 @@
         "tags": []
     },
     "37": {
-        "word": "  hold (held, held)  ",
+        "word": "  hold (held, held) ",
         "transc": "[həʊld]",
         "transl": "держать",
         "learn": null,
@@ -374,7 +374,7 @@
         "tags": []
     },
     "38": {
-        "word": "  knock  ",
+        "word": "  knock ",
         "transc": "[nɒk]",
         "transl": "стучать (напр. в дверь)",
         "learn": null,
@@ -384,7 +384,7 @@
         "tags": []
     },
     "39": {
-        "word": "  say  ",
+        "word": "  say ",
         "transc": "[seɪ]",
         "transl": "сказать",
         "learn": null,
@@ -394,7 +394,7 @@
         "tags": []
     },
     "40": {
-        "word": "  speak (spoke, spoken)  ",
+        "word": "  speak (spoke, spoken) ",
         "transc": "[spiːk]",
         "transl": "говорить",
         "learn": null,
@@ -404,7 +404,7 @@
         "tags": []
     },
     "41": {
-        "word": "  tell (told, told)  ",
+        "word": "  tell (told, told) ",
         "transc": "[tɛl]",
         "transl": "говорить, рассказывать, велеть",
         "learn": null,
@@ -414,7 +414,7 @@
         "tags": []
     },
     "42": {
-        "word": "  talk  ",
+        "word": "  talk ",
         "transc": "[tɔːk]",
         "transl": "разговаривать",
         "learn": null,
@@ -424,7 +424,7 @@
         "tags": []
     },
     "43": {
-        "word": "  ask  ",
+        "word": "  ask ",
         "transc": "[ɑːsk]",
         "transl": "просить, спрашивать",
         "learn": null,
@@ -434,7 +434,7 @@
         "tags": []
     },
     "44": {
-        "word": "  answer  ",
+        "word": "  answer ",
         "transc": "[ˈɑːnsə]",
         "transl": "отвечать",
         "learn": null,
@@ -444,7 +444,7 @@
         "tags": []
     },
     "45": {
-        "word": "  call  ",
+        "word": "  call ",
         "transc": "[kɔːl]",
         "transl": "звонить по телефону",
         "learn": null,
@@ -454,7 +454,7 @@
         "tags": []
     },
     "46": {
-        "word": "  text  ",
+        "word": "  text ",
         "transc": "[tɛkst]",
         "transl": "писать сообщение",
         "learn": null,
@@ -464,7 +464,7 @@
         "tags": []
     },
     "47": {
-        "word": "  cry  ",
+        "word": "  cry ",
         "transc": "[kraɪ]",
         "transl": "плакать, кричать",
         "learn": null,
@@ -474,17 +474,17 @@
         "tags": []
     },
     "48": {
-        "word": "  explain  ",
+        "word": "  explain ",
         "transc": "[ɪksˈpleɪn]",
         "transl": "объяснять",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "49": {
-        "word": "  repeat  ",
+        "word": "  repeat ",
         "transc": "[rɪˈpiːt]",
         "transl": "повторять",
         "learn": null,
@@ -494,7 +494,7 @@
         "tags": []
     },
     "50": {
-        "word": "  understand (understood, understood)  ",
+        "word": "  understand (understood, understood) ",
         "transc": "[ˌʌndəˈstænd]",
         "transl": "понимать",
         "learn": null,
@@ -504,7 +504,7 @@
         "tags": []
     },
     "51": {
-        "word": "  teach (taught, taught)  ",
+        "word": "  teach (taught, taught) ",
         "transc": "[tiːʧ]",
         "transl": "учить (обучать)",
         "learn": null,
@@ -514,7 +514,7 @@
         "tags": []
     },
     "52": {
-        "word": "  learn  ",
+        "word": "  learn ",
         "transc": "[lɜːn]",
         "transl": "учить (учиться)",
         "learn": null,
@@ -524,7 +524,7 @@
         "tags": []
     },
     "53": {
-        "word": "  study  ",
+        "word": "  study ",
         "transc": "[ˈstʌdi]",
         "transl": "изучать",
         "learn": null,
@@ -534,7 +534,7 @@
         "tags": []
     },
     "54": {
-        "word": "  read (read, read)  ",
+        "word": "  read (read, read) ",
         "transc": "[riːd]",
         "transl": "читать",
         "learn": null,
@@ -544,7 +544,7 @@
         "tags": []
     },
     "55": {
-        "word": "  write (wrote, written)  ",
+        "word": "  write (wrote, written) ",
         "transc": "[raɪt]",
         "transl": "писать",
         "learn": null,
@@ -554,7 +554,7 @@
         "tags": []
     },
     "56": {
-        "word": "  watch  ",
+        "word": "  watch ",
         "transc": "[wɒʧ]",
         "transl": "смотреть, наблюдать",
         "learn": null,
@@ -564,7 +564,7 @@
         "tags": []
     },
     "57": {
-        "word": "  listen  ",
+        "word": "  listen ",
         "transc": "[ˈlɪsn]",
         "transl": "слушать",
         "learn": null,
@@ -574,7 +574,7 @@
         "tags": []
     },
     "58": {
-        "word": "  hear (heard, heard)  ",
+        "word": "  hear (heard, heard) ",
         "transc": "[hɪə]",
         "transl": "слышать",
         "learn": null,
@@ -584,7 +584,7 @@
         "tags": []
     },
     "59": {
-        "word": "  help  ",
+        "word": "  help ",
         "transc": "[hɛlp]",
         "transl": "помогать",
         "learn": null,
@@ -594,7 +594,7 @@
         "tags": []
     },
     "60": {
-        "word": "  think (thought, thought)  ",
+        "word": "  think (thought, thought) ",
         "transc": "[θɪŋk]",
         "transl": "думать",
         "learn": null,
@@ -604,7 +604,7 @@
         "tags": []
     },
     "61": {
-        "word": "  correct  ",
+        "word": "  correct ",
         "transc": "[kəˈrɛkt]",
         "transl": "исправлять",
         "learn": null,
@@ -614,7 +614,7 @@
         "tags": []
     },
     "62": {
-        "word": "  make a mistake (made, made)  ",
+        "word": "  make a mistake (made, made) ",
         "transc": "[meɪk ə mɪsˈteɪk]",
         "transl": "делать ошибку",
         "learn": null,
@@ -624,7 +624,7 @@
         "tags": []
     },
     "63": {
-        "word": "  hint  ",
+        "word": "  hint ",
         "transc": "[hɪnt]",
         "transl": "подсказывать, намекать",
         "learn": null,
@@ -634,7 +634,7 @@
         "tags": []
     },
     "64": {
-        "word": "  forget (forgot, forgotten)  ",
+        "word": "  forget (forgot, forgotten) ",
         "transc": "[fəˈgɛt]",
         "transl": "забывать",
         "learn": null,
@@ -644,17 +644,17 @@
         "tags": []
     },
     "65": {
-        "word": "  remember  ",
+        "word": "  remember ",
         "transc": "[rɪˈmɛmbə]",
         "transl": "помнить",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "66": {
-        "word": "  remind  ",
+        "word": "  remind ",
         "transc": "[ˈrɪmaɪnd]",
         "transl": "напоминать",
         "learn": null,
@@ -664,7 +664,7 @@
         "tags": []
     },
     "67": {
-        "word": "  live  ",
+        "word": "  live ",
         "transc": "[lɪv]",
         "transl": "жить",
         "learn": null,
@@ -674,7 +674,7 @@
         "tags": []
     },
     "68": {
-        "word": "  sleep (slept, slept)  ",
+        "word": "  sleep (slept, slept) ",
         "transc": "[sliːp]",
         "transl": "спать",
         "learn": null,
@@ -684,7 +684,7 @@
         "tags": []
     },
     "69": {
-        "word": "  wake up (woke, woken)  ",
+        "word": "  wake up (woke, woken) ",
         "transc": "[weɪk ʌp]",
         "transl": "просыпаться",
         "learn": null,
@@ -694,7 +694,7 @@
         "tags": []
     },
     "70": {
-        "word": "  go to bed (went, gone)  ",
+        "word": "  go to bed (went, gone) ",
         "transc": "[gəʊ tuː bɛd]",
         "transl": "идти спать",
         "learn": null,
@@ -704,7 +704,7 @@
         "tags": []
     },
     "71": {
-        "word": "  take a shower (took, taken)  ",
+        "word": "  take a shower (took, taken) ",
         "transc": "[teɪk ə ˈʃaʊə]",
         "transl": "принимать душ",
         "learn": null,
@@ -714,7 +714,7 @@
         "tags": []
     },
     "72": {
-        "word": "  brush one’s teeth  ",
+        "word": "  brush one’s teeth ",
         "transc": "[brʌʃ wʌnz tiːθ]",
         "transl": "чистить зубы",
         "learn": null,
@@ -724,7 +724,7 @@
         "tags": []
     },
     "73": {
-        "word": "  comb one’s hair  ",
+        "word": "  comb one’s hair ",
         "transc": "[kəʊm wʌnz heə]",
         "transl": "причесываться",
         "learn": null,
@@ -734,7 +734,7 @@
         "tags": []
     },
     "74": {
-        "word": "  shave  ",
+        "word": "  shave ",
         "transc": "[ʃeɪv]",
         "transl": "бриться",
         "learn": null,
@@ -744,7 +744,7 @@
         "tags": []
     },
     "75": {
-        "word": "  get dressed (got, got / gotten)  ",
+        "word": "  get dressed (got, got / gotten) ",
         "transc": "[gɛt drɛst]",
         "transl": "одеваться",
         "learn": null,
@@ -754,7 +754,7 @@
         "tags": []
     },
     "76": {
-        "word": "  put on make-up (put, put)  ",
+        "word": "  put on make-up (put, put) ",
         "transc": "[pʊt ɒn ˈmeɪkʌp]",
         "transl": "делать макияж",
         "learn": null,
@@ -764,7 +764,7 @@
         "tags": []
     },
     "77": {
-        "word": "  make breakfast (made, made)  ",
+        "word": "  make breakfast (made, made) ",
         "transc": "[meɪk ˈbrɛkfəst]",
         "transl": "готовить завтрак",
         "learn": null,
@@ -774,7 +774,7 @@
         "tags": []
     },
     "78": {
-        "word": "  have breakfast (had, had)  ",
+        "word": "  have breakfast (had, had) ",
         "transc": "[hæv ˈbrɛkfəst]",
         "transl": "завтракать",
         "learn": null,
@@ -784,7 +784,7 @@
         "tags": []
     },
     "79": {
-        "word": "  go to work (went, gone)  ",
+        "word": "  go to work (went, gone) ",
         "transc": "[gəʊ tuː wɜːk]",
         "transl": "идти на работу",
         "learn": null,
@@ -794,17 +794,17 @@
         "tags": []
     },
     "80": {
-        "word": "  work  ",
+        "word": "  work ",
         "transc": "[wɜːk]",
         "transl": "работать",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "81": {
-        "word": "  rest  ",
+        "word": "  rest ",
         "transc": "[rɛst]",
         "transl": "отдыхать",
         "learn": null,
@@ -814,7 +814,7 @@
         "tags": []
     },
     "82": {
-        "word": "  take a bath (took, taken)  ",
+        "word": "  take a bath (took, taken) ",
         "transc": "[teɪk ə bɑːθ]",
         "transl": "принимать ванну",
         "learn": null,
@@ -824,17 +824,17 @@
         "tags": []
     },
     "83": {
-        "word": "  cook  ",
+        "word": "  cook ",
         "transc": "[kʊk]",
         "transl": "готовить (еду)",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "84": {
-        "word": "  eat (ate, eaten)  ",
+        "word": "  eat (ate, eaten) ",
         "transc": "[iːt]",
         "transl": "есть",
         "learn": null,
@@ -844,7 +844,7 @@
         "tags": []
     },
     "85": {
-        "word": "  do cleaning, clean (did, done)  ",
+        "word": "  do cleaning, clean (did, done) ",
         "transc": "[duː ˈkliːnɪŋ] [kliːn]",
         "transl": "убираться",
         "learn": null,
@@ -854,7 +854,7 @@
         "tags": []
     },
     "86": {
-        "word": "  do dishes (did, done)  ",
+        "word": "  do dishes (did, done) ",
         "transc": "[duː dɪʃɪz]",
         "transl": "мыть посуду",
         "learn": null,
@@ -864,7 +864,7 @@
         "tags": []
     },
     "87": {
-        "word": "  do the laundry (did, done)  ",
+        "word": "  do the laundry (did, done) ",
         "transc": "[duː ðə ˈlɔːndri]",
         "transl": "заниматься стиркой",
         "learn": null,
@@ -874,7 +874,7 @@
         "tags": []
     },
     "88": {
-        "word": "  work out  ",
+        "word": "  work out ",
         "transc": "[wɜːk aʊt]",
         "transl": "заниматься спортом",
         "learn": null,
@@ -884,7 +884,7 @@
         "tags": []
     },
     "89": {
-        "word": "  have fun (had, had)  ",
+        "word": "  have fun (had, had) ",
         "transc": "[hæv fʌn]",
         "transl": "развлекаться, веселиться",
         "learn": null,
@@ -894,7 +894,7 @@
         "tags": []
     },
     "90": {
-        "word": "  play  ",
+        "word": "  play ",
         "transc": "[pleɪ]",
         "transl": "играть",
         "learn": null,
@@ -904,7 +904,7 @@
         "tags": []
     },
     "91": {
-        "word": "  begin (began, begun)  ",
+        "word": "  begin (began, begun) ",
         "transc": "[bɪˈgɪn]",
         "transl": "начинаться (-ся)",
         "learn": null,
@@ -914,7 +914,7 @@
         "tags": []
     },
     "92": {
-        "word": "  start  ",
+        "word": "  start ",
         "transc": "[stɑːt]",
         "transl": "начинаться (-ся)",
         "learn": null,
@@ -924,17 +924,17 @@
         "tags": []
     },
     "93": {
-        "word": "  continue  ",
+        "word": "  continue ",
         "transc": "[kənˈtɪnju(ː)]",
         "transl": "продолжать (-ся)",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "94": {
-        "word": "  go on (went, gone)  ",
+        "word": "  go on (went, gone) ",
         "transc": "[gəʊ ɒn]",
         "transl": "продолжать (-ся)",
         "learn": null,
@@ -944,7 +944,7 @@
         "tags": []
     },
     "95": {
-        "word": "  end  ",
+        "word": "  end ",
         "transc": "[ɛnd]",
         "transl": "заканчивать (-ся)",
         "learn": null,
@@ -954,7 +954,7 @@
         "tags": []
     },
     "96": {
-        "word": "  finish  ",
+        "word": "  finish ",
         "transc": "[ˈfɪnɪʃ]",
         "transl": "заканчивать (-ся)",
         "learn": null,
@@ -964,7 +964,7 @@
         "tags": []
     },
     "97": {
-        "word": "  stop  ",
+        "word": "  stop ",
         "transc": "[stɒp]",
         "transl": "прекращать, останавливать (-ся)",
         "learn": null,
@@ -974,7 +974,7 @@
         "tags": []
     },
     "98": {
-        "word": "  complete  ",
+        "word": "  complete ",
         "transc": "[kəmˈpliːt]",
         "transl": "завершать (-ся)",
         "learn": null,
@@ -984,7 +984,7 @@
         "tags": []
     },
     "99": {
-        "word": "  postpone  ",
+        "word": "  postpone ",
         "transc": "[pɛʊstˈpəʊn]",
         "transl": "откладывать, переносить",
         "learn": null,
@@ -994,7 +994,7 @@
         "tags": []
     },
     "100": {
-        "word": "  put off (put, put)  ",
+        "word": "  put off (put, put) ",
         "transc": "[pʊt ɒf]",
         "transl": "откладывать, переносить",
         "learn": null,
@@ -1004,7 +1004,7 @@
         "tags": []
     },
     "101": {
-        "word": "  time  ",
+        "word": "  time ",
         "transc": "[taɪm]",
         "transl": "время",
         "learn": null,
@@ -1014,7 +1014,7 @@
         "tags": []
     },
     "102": {
-        "word": "  past  ",
+        "word": "  past ",
         "transc": "[pɑːst]",
         "transl": "прошлое",
         "learn": null,
@@ -1024,7 +1024,7 @@
         "tags": []
     },
     "103": {
-        "word": "  future  ",
+        "word": "  future ",
         "transc": "[ˈfjuːʧə]",
         "transl": "будущее",
         "learn": null,
@@ -1034,17 +1034,17 @@
         "tags": []
     },
     "104": {
-        "word": "  present  ",
+        "word": "  present ",
         "transc": "[ˈprɛznt]",
         "transl": "настоящее",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "105": {
-        "word": "  age  ",
+        "word": "  age ",
         "transc": "[eɪʤ]",
         "transl": "эра, эпоха (также \"возраст\")",
         "learn": null,
@@ -1054,17 +1054,17 @@
         "tags": []
     },
     "106": {
-        "word": "  millennium  ",
+        "word": "  millennium ",
         "transc": "[mɪlˈiːnɪəːm]",
         "transl": "тысячелетие",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "107": {
-        "word": "  century  ",
+        "word": "  century ",
         "transc": "[ˈsɛnʧʊri]",
         "transl": "век",
         "learn": null,
@@ -1074,7 +1074,7 @@
         "tags": []
     },
     "108": {
-        "word": "  decade  ",
+        "word": "  decade ",
         "transc": "[ˈdɛkeɪd]",
         "transl": "десятилетие",
         "learn": null,
@@ -1084,7 +1084,7 @@
         "tags": []
     },
     "109": {
-        "word": "  year  ",
+        "word": "  year ",
         "transc": "[jɪə]",
         "transl": "год",
         "learn": null,
@@ -1094,7 +1094,7 @@
         "tags": []
     },
     "110": {
-        "word": "  month  ",
+        "word": "  month ",
         "transc": "[mʌnθ]",
         "transl": "месяц",
         "learn": null,
@@ -1104,7 +1104,7 @@
         "tags": []
     },
     "111": {
-        "word": "  week  ",
+        "word": "  week ",
         "transc": "[wiːk]",
         "transl": "неделя",
         "learn": null,
@@ -1114,7 +1114,7 @@
         "tags": []
     },
     "112": {
-        "word": "  day  ",
+        "word": "  day ",
         "transc": "[deɪ]",
         "transl": "день",
         "learn": null,
@@ -1124,7 +1124,7 @@
         "tags": []
     },
     "113": {
-        "word": "  hour  ",
+        "word": "  hour ",
         "transc": "[ˈaʊə]",
         "transl": "час",
         "learn": null,
@@ -1134,7 +1134,7 @@
         "tags": []
     },
     "114": {
-        "word": "  half an hour  ",
+        "word": "  half an hour ",
         "transc": "[hɑːf ən ˈaʊə]",
         "transl": "полчаса",
         "learn": null,
@@ -1144,7 +1144,7 @@
         "tags": []
     },
     "115": {
-        "word": "  minute  ",
+        "word": "  minute ",
         "transc": "[ˈmɪnɪt]",
         "transl": "минута",
         "learn": null,
@@ -1154,7 +1154,7 @@
         "tags": []
     },
     "116": {
-        "word": "  second  ",
+        "word": "  second ",
         "transc": "[ˈsɛkənd]",
         "transl": "секунда",
         "learn": null,
@@ -1164,7 +1164,7 @@
         "tags": []
     },
     "117": {
-        "word": "  watch  ",
+        "word": "  watch ",
         "transc": "[wɒʧ]",
         "transl": "часы (наручные)",
         "learn": null,
@@ -1174,7 +1174,7 @@
         "tags": []
     },
     "118": {
-        "word": "  clock  ",
+        "word": "  clock ",
         "transc": "[klɒk]",
         "transl": "часы (настенные)",
         "learn": null,
@@ -1184,7 +1184,7 @@
         "tags": []
     },
     "119": {
-        "word": "  calendar  ",
+        "word": "  calendar ",
         "transc": "[ˈkælɪndə]",
         "transl": "календарь",
         "learn": null,
@@ -1194,7 +1194,7 @@
         "tags": []
     },
     "120": {
-        "word": "  schedule  ",
+        "word": "  schedule ",
         "transc": "[ˈʃɛdjuːl]",
         "transl": "расписание",
         "learn": null,
@@ -1204,7 +1204,7 @@
         "tags": []
     },
     "121": {
-        "word": "  season  ",
+        "word": "  season ",
         "transc": "[ˈsiːzn]",
         "transl": "время года",
         "learn": null,
@@ -1214,7 +1214,7 @@
         "tags": []
     },
     "122": {
-        "word": "  winter  ",
+        "word": "  winter ",
         "transc": "[ˈwɪntə]",
         "transl": "зима",
         "learn": null,
@@ -1224,7 +1224,7 @@
         "tags": []
     },
     "123": {
-        "word": "  spring  ",
+        "word": "  spring ",
         "transc": "[sprɪŋ]",
         "transl": "весна",
         "learn": null,
@@ -1234,7 +1234,7 @@
         "tags": []
     },
     "124": {
-        "word": "  summer  ",
+        "word": "  summer ",
         "transc": "[ˈsʌmə]",
         "transl": "лето",
         "learn": null,
@@ -1244,17 +1244,17 @@
         "tags": []
     },
     "125": {
-        "word": "  fall (Am.) autumn (Br.)  ",
+        "word": "  fall (Am.) autumn (Br.) ",
         "transc": "[fɔːl] [ˈɔːtəm]",
         "transl": "осень",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "126": {
-        "word": "  January  ",
+        "word": "  January ",
         "transc": "[ˈʤænjʊəri]",
         "transl": "январь",
         "learn": null,
@@ -1264,7 +1264,7 @@
         "tags": []
     },
     "127": {
-        "word": "  February  ",
+        "word": "  February ",
         "transc": "[ˈfɛbrʊəri]",
         "transl": "февраль",
         "learn": null,
@@ -1274,7 +1274,7 @@
         "tags": []
     },
     "128": {
-        "word": "  March  ",
+        "word": "  March ",
         "transc": "[mɑːʧ]",
         "transl": "март",
         "learn": null,
@@ -1284,7 +1284,7 @@
         "tags": []
     },
     "129": {
-        "word": "  April  ",
+        "word": "  April ",
         "transc": "[ˈeɪprəl]",
         "transl": "апрель",
         "learn": null,
@@ -1294,7 +1294,7 @@
         "tags": []
     },
     "130": {
-        "word": "  May  ",
+        "word": "  May ",
         "transc": "[meɪ]",
         "transl": "май",
         "learn": null,
@@ -1304,7 +1304,7 @@
         "tags": []
     },
     "131": {
-        "word": "  June  ",
+        "word": "  June ",
         "transc": "[ʤuːn]",
         "transl": "июнь",
         "learn": null,
@@ -1314,27 +1314,27 @@
         "tags": []
     },
     "132": {
-        "word": "  July  ",
+        "word": "  July ",
         "transc": "[ʤuˈlaɪ]",
         "transl": "июль",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "133": {
-        "word": "  August  ",
+        "word": "  August ",
         "transc": "[ˈɔːgəst]",
         "transl": "август",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "134": {
-        "word": "  September  ",
+        "word": "  September ",
         "transc": "[sɛpˈtɛmbə]",
         "transl": "сентябрь",
         "learn": null,
@@ -1344,7 +1344,7 @@
         "tags": []
     },
     "135": {
-        "word": "  October  ",
+        "word": "  October ",
         "transc": "[ɒkˈtəʊbə]",
         "transl": "октябрь",
         "learn": null,
@@ -1354,7 +1354,7 @@
         "tags": []
     },
     "136": {
-        "word": "  November  ",
+        "word": "  November ",
         "transc": "[nəʊˈvɛmbə]",
         "transl": "ноябрь",
         "learn": null,
@@ -1364,7 +1364,7 @@
         "tags": []
     },
     "137": {
-        "word": "  December  ",
+        "word": "  December ",
         "transc": "[dɪˈsɛmbə]",
         "transl": "декабрь",
         "learn": null,
@@ -1374,7 +1374,7 @@
         "tags": []
     },
     "138": {
-        "word": "  Monday  ",
+        "word": "  Monday ",
         "transc": "[ˈmʌndeɪ]",
         "transl": "понедельник",
         "learn": null,
@@ -1384,7 +1384,7 @@
         "tags": []
     },
     "139": {
-        "word": "  Tuesday  ",
+        "word": "  Tuesday ",
         "transc": "[ˈtjuːzdeɪ]",
         "transl": "вторник",
         "learn": null,
@@ -1394,7 +1394,7 @@
         "tags": []
     },
     "140": {
-        "word": "  Wednesday  ",
+        "word": "  Wednesday ",
         "transc": "[ˈwɛnzdeɪ]",
         "transl": "среда",
         "learn": null,
@@ -1404,7 +1404,7 @@
         "tags": []
     },
     "141": {
-        "word": "  Thursday  ",
+        "word": "  Thursday ",
         "transc": "[ˈθɜːzdeɪ]",
         "transl": "четверг",
         "learn": null,
@@ -1414,7 +1414,7 @@
         "tags": []
     },
     "142": {
-        "word": "  Friday  ",
+        "word": "  Friday ",
         "transc": "[ˈfraɪdeɪ]",
         "transl": "пятница",
         "learn": null,
@@ -1424,7 +1424,7 @@
         "tags": []
     },
     "143": {
-        "word": "  Saturday  ",
+        "word": "  Saturday ",
         "transc": "[ˈsætədeɪ]",
         "transl": "суббота",
         "learn": null,
@@ -1434,7 +1434,7 @@
         "tags": []
     },
     "144": {
-        "word": "  Sunday  ",
+        "word": "  Sunday ",
         "transc": "[ˈsʌndeɪ]",
         "transl": "воскресенье",
         "learn": null,
@@ -1444,7 +1444,7 @@
         "tags": []
     },
     "145": {
-        "word": "  family  ",
+        "word": "  family ",
         "transc": "[ˈfæmɪli]",
         "transl": "семья",
         "learn": null,
@@ -1454,7 +1454,7 @@
         "tags": []
     },
     "146": {
-        "word": "  love  ",
+        "word": "  love ",
         "transc": "[lʌv]",
         "transl": "любовь",
         "learn": null,
@@ -1464,17 +1464,17 @@
         "tags": []
     },
     "147": {
-        "word": "  human  ",
+        "word": "  human ",
         "transc": "[ˈhjuːmən]",
         "transl": "человек",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "148": {
-        "word": "  people  ",
+        "word": "  people ",
         "transc": "[ˈpiːpl]",
         "transl": "люди, народ",
         "learn": null,
@@ -1484,27 +1484,27 @@
         "tags": []
     },
     "149": {
-        "word": "  man  ",
+        "word": "  man ",
         "transc": "[mæn]",
         "transl": "мужчина, человек",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "150": {
-        "word": "  woman  ",
+        "word": "  woman ",
         "transc": "[ˈwʊmən]",
         "transl": "женщина",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "151": {
-        "word": "  boy  ",
+        "word": "  boy ",
         "transc": "[bɔɪ]",
         "transl": "мальчик",
         "learn": null,
@@ -1514,7 +1514,7 @@
         "tags": []
     },
     "152": {
-        "word": "  guy  ",
+        "word": "  guy ",
         "transc": "[gaɪ]",
         "transl": "парень",
         "learn": null,
@@ -1524,7 +1524,7 @@
         "tags": []
     },
     "153": {
-        "word": "  girl  ",
+        "word": "  girl ",
         "transc": "[gɜːl]",
         "transl": "девочка, девушка",
         "learn": null,
@@ -1534,7 +1534,7 @@
         "tags": []
     },
     "154": {
-        "word": "  parents  ",
+        "word": "  parents ",
         "transc": "[ˈpeərənts]",
         "transl": "родители",
         "learn": null,
@@ -1544,7 +1544,7 @@
         "tags": []
     },
     "155": {
-        "word": "  mother  ",
+        "word": "  mother ",
         "transc": "[ˈmʌðə]",
         "transl": "мать",
         "learn": null,
@@ -1554,7 +1554,7 @@
         "tags": []
     },
     "156": {
-        "word": "  father  ",
+        "word": "  father ",
         "transc": "[ˈfɑːðə]",
         "transl": "отец",
         "learn": null,
@@ -1564,7 +1564,7 @@
         "tags": []
     },
     "157": {
-        "word": "  mom (Am.), mum (Br.)  ",
+        "word": "  mom (Am.), mum (Br.) ",
         "transc": "[mɒm], [mʌm]",
         "transl": "мама",
         "learn": null,
@@ -1574,7 +1574,7 @@
         "tags": []
     },
     "158": {
-        "word": "  dad  ",
+        "word": "  dad ",
         "transc": "[dæd]",
         "transl": "папа",
         "learn": null,
@@ -1584,7 +1584,7 @@
         "tags": []
     },
     "159": {
-        "word": "  grandmother  ",
+        "word": "  grandmother ",
         "transc": "[ˈgrænˌmʌðə]",
         "transl": "бабушка",
         "learn": null,
@@ -1594,17 +1594,17 @@
         "tags": []
     },
     "160": {
-        "word": "  grandfather  ",
+        "word": "  grandfather ",
         "transc": "[ˈgrændˌfɑːðə]",
         "transl": "дедушка",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "161": {
-        "word": "  grandparents  ",
+        "word": "  grandparents ",
         "transc": "[ˈgrænˌpeərənts]",
         "transl": "бабушки и дедушки",
         "learn": null,
@@ -1614,7 +1614,7 @@
         "tags": []
     },
     "162": {
-        "word": "  brother  ",
+        "word": "  brother ",
         "transc": "[ˈbrʌðə]",
         "transl": "брат",
         "learn": null,
@@ -1624,7 +1624,7 @@
         "tags": []
     },
     "163": {
-        "word": "  sister  ",
+        "word": "  sister ",
         "transc": "[ˈsɪstə]",
         "transl": "сестра",
         "learn": null,
@@ -1634,7 +1634,7 @@
         "tags": []
     },
     "164": {
-        "word": "  siblings  ",
+        "word": "  siblings ",
         "transc": "[ˈsɪblɪŋz]",
         "transl": "братья и сестры",
         "learn": null,
@@ -1644,7 +1644,7 @@
         "tags": []
     },
     "165": {
-        "word": "  cousin  ",
+        "word": "  cousin ",
         "transc": "[ˈkʌzn]",
         "transl": "кузен (двоюродные братья и сестры)",
         "learn": null,
@@ -1654,7 +1654,7 @@
         "tags": []
     },
     "166": {
-        "word": "  wife  ",
+        "word": "  wife ",
         "transc": "[waɪf]",
         "transl": "жена",
         "learn": null,
@@ -1664,7 +1664,7 @@
         "tags": []
     },
     "167": {
-        "word": "  husband  ",
+        "word": "  husband ",
         "transc": "[ˈhʌzbənd]",
         "transl": "муж",
         "learn": null,
@@ -1674,7 +1674,7 @@
         "tags": []
     },
     "168": {
-        "word": "  father-in-law  ",
+        "word": "  father-in-law ",
         "transc": "[ˈfɑːðərɪnlɔː]",
         "transl": "тесть",
         "learn": null,
@@ -1684,7 +1684,7 @@
         "tags": []
     },
     "169": {
-        "word": "  mother-in-law  ",
+        "word": "  mother-in-law ",
         "transc": "[ˈmʌðərɪnlɔː]",
         "transl": "теща",
         "learn": null,
@@ -1694,7 +1694,7 @@
         "tags": []
     },
     "170": {
-        "word": "  son-in-law  ",
+        "word": "  son-in-law ",
         "transc": "[ˈsʌnɪnlɔː]",
         "transl": "зять",
         "learn": null,
@@ -1704,7 +1704,7 @@
         "tags": []
     },
     "171": {
-        "word": "  daughter-in-law  ",
+        "word": "  daughter-in-law ",
         "transc": "[ˈdɔːtərɪnlɔː]",
         "transl": "невестка",
         "learn": null,
@@ -1714,17 +1714,17 @@
         "tags": []
     },
     "172": {
-        "word": "  son  ",
+        "word": "  son ",
         "transc": "[sʌn]",
         "transl": "сын",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "173": {
-        "word": "  daughter  ",
+        "word": "  daughter ",
         "transc": "[ˈdɔːtə]",
         "transl": "дочь",
         "learn": null,
@@ -1734,7 +1734,7 @@
         "tags": []
     },
     "174": {
-        "word": "  baby  ",
+        "word": "  baby ",
         "transc": "[ˈbeɪbi]",
         "transl": "маленький ребенок",
         "learn": null,
@@ -1744,7 +1744,7 @@
         "tags": []
     },
     "175": {
-        "word": "  children, kids  ",
+        "word": "  children, kids ",
         "transc": "[ˈʧɪldrən], [kɪdz]",
         "transl": "дети",
         "learn": null,
@@ -1754,7 +1754,7 @@
         "tags": []
     },
     "176": {
-        "word": "  teenager  ",
+        "word": "  teenager ",
         "transc": "[ˈtiːnˌeɪʤə]",
         "transl": "подросток",
         "learn": null,
@@ -1764,7 +1764,7 @@
         "tags": []
     },
     "177": {
-        "word": "  aunt  ",
+        "word": "  aunt ",
         "transc": "[ɑːnt]",
         "transl": "тетя",
         "learn": null,
@@ -1774,7 +1774,7 @@
         "tags": []
     },
     "178": {
-        "word": "  uncle  ",
+        "word": "  uncle ",
         "transc": "[ˈʌŋkl]",
         "transl": "дядя",
         "learn": null,
@@ -1784,7 +1784,7 @@
         "tags": []
     },
     "179": {
-        "word": "  niece  ",
+        "word": "  niece ",
         "transc": "[niːs]",
         "transl": "племянница",
         "learn": null,
@@ -1794,17 +1794,17 @@
         "tags": []
     },
     "180": {
-        "word": "  nephew  ",
+        "word": "  nephew ",
         "transc": "[ˈnɛvju(ː)] [ˈnɛfju(ː)]",
         "transl": "племянник",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "181": {
-        "word": "  girlfriend  ",
+        "word": "  girlfriend ",
         "transc": "[ˈgɜːlˌfrɛnd]",
         "transl": "девушка (подруга)",
         "learn": null,
@@ -1814,7 +1814,7 @@
         "tags": []
     },
     "182": {
-        "word": "  boyfriend  ",
+        "word": "  boyfriend ",
         "transc": "[ˈbɔɪˌfrɛnd]",
         "transl": "парень (бойфренд)",
         "learn": null,
@@ -1824,7 +1824,7 @@
         "tags": []
     },
     "183": {
-        "word": "  friend  ",
+        "word": "  friend ",
         "transc": "[frɛnd]",
         "transl": "друг",
         "learn": null,
@@ -1834,17 +1834,17 @@
         "tags": []
     },
     "184": {
-        "word": "  relatives  ",
+        "word": "  relatives ",
         "transc": "[ˈrɛlətɪvz]",
         "transl": "родственники",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "185": {
-        "word": "  engagement  ",
+        "word": "  engagement ",
         "transc": "[ɪnˈgeɪʤmənt]",
         "transl": "помолвка",
         "learn": null,
@@ -1854,7 +1854,7 @@
         "tags": []
     },
     "186": {
-        "word": "  marriage  ",
+        "word": "  marriage ",
         "transc": "[ˈmærɪʤ]",
         "transl": "женитьба, замужество, брак",
         "learn": null,
@@ -1864,7 +1864,7 @@
         "tags": []
     },
     "187": {
-        "word": "  wedding  ",
+        "word": "  wedding ",
         "transc": "[ˈwɛdɪŋ]",
         "transl": "свадьба",
         "learn": null,
@@ -1874,7 +1874,7 @@
         "tags": []
     },
     "188": {
-        "word": "  fiancée, bride  ",
+        "word": "  fiancée, bride ",
         "transc": "[fɪ'ɑːn(t)seɪ], [braɪd]",
         "transl": "невеста",
         "learn": null,
@@ -1884,7 +1884,7 @@
         "tags": []
     },
     "189": {
-        "word": "  fiancé, groom (bridegroom)  ",
+        "word": "  fiancé, groom (bridegroom) ",
         "transc": "[fɪ'ɑːn(t)seɪ], [grʊm] [ˈbraɪdgrʊm]",
         "transl": "жених",
         "learn": null,
@@ -1894,7 +1894,7 @@
         "tags": []
     },
     "190": {
-        "word": "  funeral  ",
+        "word": "  funeral ",
         "transc": "[ˈfjuːnərəl]",
         "transl": "похороны",
         "learn": null,
@@ -1904,7 +1904,7 @@
         "tags": []
     },
     "191": {
-        "word": "  birth  ",
+        "word": "  birth ",
         "transc": "[bɜːθ]",
         "transl": "рождение",
         "learn": null,
@@ -1914,7 +1914,7 @@
         "tags": []
     },
     "192": {
-        "word": "  house  ",
+        "word": "  house ",
         "transc": "[haʊs]",
         "transl": "дом",
         "learn": null,
@@ -1924,7 +1924,7 @@
         "tags": []
     },
     "193": {
-        "word": "  home  ",
+        "word": "  home ",
         "transc": "[həʊm]",
         "transl": "дом",
         "learn": null,
@@ -1934,17 +1934,17 @@
         "tags": []
     },
     "194": {
-        "word": "  apartment (USA), flat (UK)  ",
+        "word": "  apartment (USA), flat (UK) ",
         "transc": "[əpˈɑːtmənt], [flæt]",
         "transl": "квартира",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "195": {
-        "word": "  roof  ",
+        "word": "  roof ",
         "transc": "[ruːf]",
         "transl": "крыша",
         "learn": null,
@@ -1954,7 +1954,7 @@
         "tags": []
     },
     "196": {
-        "word": "  room  ",
+        "word": "  room ",
         "transc": "[ruːm]",
         "transl": "комната",
         "learn": null,
@@ -1964,7 +1964,7 @@
         "tags": []
     },
     "197": {
-        "word": "  wall  ",
+        "word": "  wall ",
         "transc": "[wɔːl]",
         "transl": "стена",
         "learn": null,
@@ -1974,7 +1974,7 @@
         "tags": []
     },
     "198": {
-        "word": "  floor  ",
+        "word": "  floor ",
         "transc": "[flɔː]",
         "transl": "пол, этаж",
         "learn": null,
@@ -1984,7 +1984,7 @@
         "tags": []
     },
     "199": {
-        "word": "  stairs  ",
+        "word": "  stairs ",
         "transc": "[steəz]",
         "transl": "лестница, ступеньки",
         "learn": null,
@@ -1994,7 +1994,7 @@
         "tags": []
     },
     "200": {
-        "word": "  ceiling  ",
+        "word": "  ceiling ",
         "transc": "[ˈsiːlɪŋ]",
         "transl": "потолок",
         "learn": null,
@@ -2004,7 +2004,7 @@
         "tags": []
     },
     "201": {
-        "word": "  window  ",
+        "word": "  window ",
         "transc": "[ˈwɪndəʊ]",
         "transl": "окно",
         "learn": null,
@@ -2014,7 +2014,7 @@
         "tags": []
     },
     "202": {
-        "word": "  door  ",
+        "word": "  door ",
         "transc": "[dɔː]",
         "transl": "дверь",
         "learn": null,
@@ -2024,7 +2024,7 @@
         "tags": []
     },
     "203": {
-        "word": "  doorbell  ",
+        "word": "  doorbell ",
         "transc": "[ˈdɔːbɛl]",
         "transl": "дверной звонок",
         "learn": null,
@@ -2034,7 +2034,7 @@
         "tags": []
     },
     "204": {
-        "word": "  lock  ",
+        "word": "  lock ",
         "transc": "[lɒk]",
         "transl": "замок",
         "learn": null,
@@ -2044,7 +2044,7 @@
         "tags": []
     },
     "205": {
-        "word": "  key  ",
+        "word": "  key ",
         "transc": "[kiː]",
         "transl": "ключ",
         "learn": null,
@@ -2054,7 +2054,7 @@
         "tags": []
     },
     "206": {
-        "word": "  furniture  ",
+        "word": "  furniture ",
         "transc": "[ˈfɜːnɪʧə]",
         "transl": "мебель",
         "learn": null,
@@ -2064,7 +2064,7 @@
         "tags": []
     },
     "207": {
-        "word": "  thing  ",
+        "word": "  thing ",
         "transc": "[θɪŋ]",
         "transl": "вещь, предмет",
         "learn": null,
@@ -2074,17 +2074,17 @@
         "tags": []
     },
     "208": {
-        "word": "  lamp  ",
+        "word": "  lamp ",
         "transc": "[læmp]",
         "transl": "лампа",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "209": {
-        "word": "  light bulb  ",
+        "word": "  light bulb ",
         "transc": "[laɪt bʌlb]",
         "transl": "лампочка",
         "learn": null,
@@ -2094,7 +2094,7 @@
         "tags": []
     },
     "210": {
-        "word": "  table  ",
+        "word": "  table ",
         "transc": "[ˈteɪbl]",
         "transl": "стол",
         "learn": null,
@@ -2104,7 +2104,7 @@
         "tags": []
     },
     "211": {
-        "word": "  desk  ",
+        "word": "  desk ",
         "transc": "[dɛsk]",
         "transl": "письменный стол",
         "learn": null,
@@ -2114,7 +2114,7 @@
         "tags": []
     },
     "212": {
-        "word": "  chair  ",
+        "word": "  chair ",
         "transc": "[ʧeə]",
         "transl": "стул",
         "learn": null,
@@ -2124,7 +2124,7 @@
         "tags": []
     },
     "213": {
-        "word": "  armchair  ",
+        "word": "  armchair ",
         "transc": "[ˈɑːmˈʧeə]",
         "transl": "кресло",
         "learn": null,
@@ -2134,7 +2134,7 @@
         "tags": []
     },
     "214": {
-        "word": "  sofa (coach)  ",
+        "word": "  sofa (coach) ",
         "transc": "[ˈsəʊfə] [kəʊʧ]",
         "transl": "диван",
         "learn": null,
@@ -2144,7 +2144,7 @@
         "tags": []
     },
     "215": {
-        "word": "  stove (US), cooker (Br)  ",
+        "word": "  stove (US), cooker (Br) ",
         "transc": "[stəʊv]",
         "transl": "кухонная плита",
         "learn": null,
@@ -2154,7 +2154,7 @@
         "tags": []
     },
     "216": {
-        "word": "  vacuum cleaner  ",
+        "word": "  vacuum cleaner ",
         "transc": "[ˈvækjʊəm ˈkliːnə]",
         "transl": "пылесос",
         "learn": null,
@@ -2164,7 +2164,7 @@
         "tags": []
     },
     "217": {
-        "word": "  microwave  ",
+        "word": "  microwave ",
         "transc": "[ˈmaɪkrəʊweɪv]",
         "transl": "микроволновая печь",
         "learn": null,
@@ -2174,7 +2174,7 @@
         "tags": []
     },
     "218": {
-        "word": "  air conditioner (AC)  ",
+        "word": "  air conditioner (AC) ",
         "transc": "[eə kənˈdɪʃənə] [eɪ-siː]",
         "transl": "кондиционер",
         "learn": null,
@@ -2184,7 +2184,7 @@
         "tags": []
     },
     "219": {
-        "word": "  tap, faucet  ",
+        "word": "  tap, faucet ",
         "transc": "[tæp], [ˈfɔːsɪt]",
         "transl": "водопроводный кран",
         "learn": null,
@@ -2194,17 +2194,17 @@
         "tags": []
     },
     "220": {
-        "word": "  shower  ",
+        "word": "  shower ",
         "transc": "[ˈʃaʊə]",
         "transl": "душ",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "221": {
-        "word": "  washing machine  ",
+        "word": "  washing machine ",
         "transc": "[ˈwɒʃɪŋ] [məˈʃiːn]",
         "transl": "стиральная машина",
         "learn": null,
@@ -2214,7 +2214,7 @@
         "tags": []
     },
     "222": {
-        "word": "  soap  ",
+        "word": "  soap ",
         "transc": "[səʊp]",
         "transl": "мыло",
         "learn": null,
@@ -2224,7 +2224,7 @@
         "tags": []
     },
     "223": {
-        "word": "  shampoo  ",
+        "word": "  shampoo ",
         "transc": "[ʃæmˈpuː]",
         "transl": "шампунь",
         "learn": null,
@@ -2234,7 +2234,7 @@
         "tags": []
     },
     "224": {
-        "word": "  toiletries  ",
+        "word": "  toiletries ",
         "transc": "[ˈtɔɪlɪtriz]",
         "transl": "туалетные принадлежности (мыло, шампунь и проч.)",
         "learn": null,
@@ -2244,7 +2244,7 @@
         "tags": []
     },
     "225": {
-        "word": "  bathroom  ",
+        "word": "  bathroom ",
         "transc": "[ˈbɑːθru(ː)m]",
         "transl": "ванная комната \\ туалет",
         "learn": null,
@@ -2254,7 +2254,7 @@
         "tags": []
     },
     "226": {
-        "word": "  mirror  ",
+        "word": "  mirror ",
         "transc": "[ˈmɪrə]",
         "transl": "зеркало",
         "learn": null,
@@ -2264,7 +2264,7 @@
         "tags": []
     },
     "227": {
-        "word": "  hall  ",
+        "word": "  hall ",
         "transc": "[hɔːl]",
         "transl": "зал, холл",
         "learn": null,
@@ -2274,7 +2274,7 @@
         "tags": []
     },
     "228": {
-        "word": "  hall, hallway  ",
+        "word": "  hall, hallway ",
         "transc": "[hɔːl] [ˈhɔːlweɪ]",
         "transl": "коридор, прихожая",
         "learn": null,
@@ -2284,7 +2284,7 @@
         "tags": []
     },
     "229": {
-        "word": "  living room  ",
+        "word": "  living room ",
         "transc": "[ˈlɪvɪŋ ruːm]",
         "transl": "гостиная",
         "learn": null,
@@ -2294,17 +2294,17 @@
         "tags": []
     },
     "230": {
-        "word": "  kitchen  ",
+        "word": "  kitchen ",
         "transc": "[ˈkɪʧɪn]",
         "transl": "кухня",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "231": {
-        "word": "  bedroom  ",
+        "word": "  bedroom ",
         "transc": "[ˈbɛdru(ː)m]",
         "transl": "спальня",
         "learn": null,
@@ -2314,7 +2314,7 @@
         "tags": []
     },
     "232": {
-        "word": "  neighbour (neighbor)  ",
+        "word": "  neighbour (neighbor) ",
         "transc": "[ˈneɪbə]",
         "transl": "сосед",
         "learn": null,
@@ -2324,17 +2324,17 @@
         "tags": []
     },
     "233": {
-        "word": "  wardrobe  ",
+        "word": "  wardrobe ",
         "transc": "[ˈwɔːdrəʊb]",
         "transl": "шкаф для одежды",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "234": {
-        "word": "  cupboard  ",
+        "word": "  cupboard ",
         "transc": "[ˈkʌbəd]",
         "transl": "шкаф, буфет",
         "learn": null,
@@ -2344,7 +2344,7 @@
         "tags": []
     },
     "235": {
-        "word": "  closet  ",
+        "word": "  closet ",
         "transc": "[ˈklɒzɪt]",
         "transl": "шкаф, кладовка",
         "learn": null,
@@ -2354,7 +2354,7 @@
         "tags": []
     },
     "236": {
-        "word": "  dishes  ",
+        "word": "  dishes ",
         "transc": "[ˈdɪʃɪz]",
         "transl": "тарелки, посуда",
         "learn": null,
@@ -2364,7 +2364,7 @@
         "tags": []
     },
     "237": {
-        "word": "  cup  ",
+        "word": "  cup ",
         "transc": "[kʌp]",
         "transl": "чашка",
         "learn": null,
@@ -2374,7 +2374,7 @@
         "tags": []
     },
     "238": {
-        "word": "  fork  ",
+        "word": "  fork ",
         "transc": "[fɔːk]",
         "transl": "вилка",
         "learn": null,
@@ -2384,7 +2384,7 @@
         "tags": []
     },
     "239": {
-        "word": "  spoon  ",
+        "word": "  spoon ",
         "transc": "[spuːn]",
         "transl": "ложка",
         "learn": null,
@@ -2394,7 +2394,7 @@
         "tags": []
     },
     "240": {
-        "word": "  plate  ",
+        "word": "  plate ",
         "transc": "[pleɪt]",
         "transl": "тарелка",
         "learn": null,
@@ -2404,7 +2404,7 @@
         "tags": []
     },
     "241": {
-        "word": "  knife  ",
+        "word": "  knife ",
         "transc": "[naɪf]",
         "transl": "нож",
         "learn": null,
@@ -2414,7 +2414,7 @@
         "tags": []
     },
     "242": {
-        "word": "  tools  ",
+        "word": "  tools ",
         "transc": "[tuːlz]",
         "transl": "инструменты",
         "learn": null,
@@ -2424,7 +2424,7 @@
         "tags": []
     },
     "243": {
-        "word": "  TV  ",
+        "word": "  TV ",
         "transc": "[ˌtiːˈviː]",
         "transl": "телевизор",
         "learn": null,
@@ -2434,7 +2434,7 @@
         "tags": []
     },
     "244": {
-        "word": "  remote control  ",
+        "word": "  remote control ",
         "transc": "[rɪˈməʊt kənˈtrəʊl]",
         "transl": "пульт управления",
         "learn": null,
@@ -2444,7 +2444,7 @@
         "tags": []
     },
     "245": {
-        "word": "  computer  ",
+        "word": "  computer ",
         "transc": "[kəmˈpjuːtə]",
         "transl": "компьютер",
         "learn": null,
@@ -2454,7 +2454,7 @@
         "tags": []
     },
     "246": {
-        "word": "  laptop  ",
+        "word": "  laptop ",
         "transc": "[ˈlæpˌtɒp]",
         "transl": "ноутбук",
         "learn": null,
@@ -2464,7 +2464,7 @@
         "tags": []
     },
     "247": {
-        "word": "  phone  ",
+        "word": "  phone ",
         "transc": "[fəʊn]",
         "transl": "телефон",
         "learn": null,
@@ -2474,7 +2474,7 @@
         "tags": []
     },
     "248": {
-        "word": "  bed  ",
+        "word": "  bed ",
         "transc": "[bɛd]",
         "transl": "кровать",
         "learn": null,
@@ -2484,7 +2484,7 @@
         "tags": []
     },
     "249": {
-        "word": "  blanket  ",
+        "word": "  blanket ",
         "transc": "[ˈblæŋkɪt]",
         "transl": "одеяло",
         "learn": null,
@@ -2494,17 +2494,17 @@
         "tags": []
     },
     "250": {
-        "word": "  pillow  ",
+        "word": "  pillow ",
         "transc": "[ˈpɪləʊ]",
         "transl": "подушка",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "251": {
-        "word": "  pillowcase  ",
+        "word": "  pillowcase ",
         "transc": "[ˈpɪləʊkeɪs]",
         "transl": "наволочка",
         "learn": null,
@@ -2514,7 +2514,7 @@
         "tags": []
     },
     "252": {
-        "word": "  sheet (bedsheet)  ",
+        "word": "  sheet (bedsheet) ",
         "transc": "[ʃiːt]",
         "transl": "простыня",
         "learn": null,
@@ -2524,7 +2524,7 @@
         "tags": []
     },
     "253": {
-        "word": "  linens  ",
+        "word": "  linens ",
         "transc": "[ˈlɪnɪnz]",
         "transl": "постельное белье",
         "learn": null,
@@ -2534,7 +2534,7 @@
         "tags": []
     },
     "254": {
-        "word": "  towel  ",
+        "word": "  towel ",
         "transc": "[ˈtaʊəl]",
         "transl": "полотенце",
         "learn": null,
@@ -2544,17 +2544,17 @@
         "tags": []
     },
     "255": {
-        "word": "  movie \\ film  ",
+        "word": "  movie \\ film ",
         "transc": "[ˈmuːvi] [fɪlm]",
         "transl": "фильм",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "256": {
-        "word": "  book  ",
+        "word": "  book ",
         "transc": "[bʊk]",
         "transl": "книга",
         "learn": null,
@@ -2564,7 +2564,7 @@
         "tags": []
     },
     "257": {
-        "word": "  camera  ",
+        "word": "  camera ",
         "transc": "[ˈkæmərə]",
         "transl": "фотоаппарат, видеокамера",
         "learn": null,
@@ -2574,7 +2574,7 @@
         "tags": []
     },
     "258": {
-        "word": "  newspaper  ",
+        "word": "  newspaper ",
         "transc": "[ˈnjuːzˌpeɪpə]",
         "transl": "газета",
         "learn": null,
@@ -2584,7 +2584,7 @@
         "tags": []
     },
     "259": {
-        "word": "  magazine  ",
+        "word": "  magazine ",
         "transc": "[ˌmægəˈziːn]",
         "transl": "журнал",
         "learn": null,
@@ -2594,7 +2594,7 @@
         "tags": []
     },
     "260": {
-        "word": "  clothes  ",
+        "word": "  clothes ",
         "transc": "[kləʊðz]",
         "transl": "одежда",
         "learn": null,
@@ -2604,7 +2604,7 @@
         "tags": []
     },
     "261": {
-        "word": "  shirt  ",
+        "word": "  shirt ",
         "transc": "[ʃɜːt]",
         "transl": "рубашка",
         "learn": null,
@@ -2614,7 +2614,7 @@
         "tags": []
     },
     "262": {
-        "word": "  pants (trousers)  ",
+        "word": "  pants (trousers) ",
         "transc": "[pænts] [ˈtraʊzəz]",
         "transl": "брюки",
         "learn": null,
@@ -2624,7 +2624,7 @@
         "tags": []
     },
     "263": {
-        "word": "  jacket  ",
+        "word": "  jacket ",
         "transc": "[ˈʤækɪt]",
         "transl": "пиджак",
         "learn": null,
@@ -2634,7 +2634,7 @@
         "tags": []
     },
     "264": {
-        "word": "  sweater (jumper)  ",
+        "word": "  sweater (jumper) ",
         "transc": "[ˈswɛtə] [ˈʤʌmpə]",
         "transl": "свитер, джемпер",
         "learn": null,
@@ -2644,17 +2644,17 @@
         "tags": []
     },
     "265": {
-        "word": "  hat  ",
+        "word": "  hat ",
         "transc": "[hæt]",
         "transl": "шляпа",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "266": {
-        "word": "  cap  ",
+        "word": "  cap ",
         "transc": "[ˈkæp]",
         "transl": "кепка",
         "learn": null,
@@ -2664,27 +2664,27 @@
         "tags": []
     },
     "267": {
-        "word": "  pocket  ",
+        "word": "  pocket ",
         "transc": "[ˈpɒkɪt]",
         "transl": "карман",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "268": {
-        "word": "  shorts  ",
+        "word": "  shorts ",
         "transc": "[ʃɔːts]",
         "transl": "шорты",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "269": {
-        "word": "  shoes  ",
+        "word": "  shoes ",
         "transc": "[ʃuːz]",
         "transl": "туфли",
         "learn": null,
@@ -2694,7 +2694,7 @@
         "tags": []
     },
     "270": {
-        "word": "  dress  ",
+        "word": "  dress ",
         "transc": "[drɛs]",
         "transl": "платье",
         "learn": null,
@@ -2704,7 +2704,7 @@
         "tags": []
     },
     "271": {
-        "word": "  skirt  ",
+        "word": "  skirt ",
         "transc": "[skɜːt]",
         "transl": "юбка",
         "learn": null,
@@ -2714,7 +2714,7 @@
         "tags": []
     },
     "272": {
-        "word": "  jeans  ",
+        "word": "  jeans ",
         "transc": "[ʤiːnz]",
         "transl": "джинсы",
         "learn": null,
@@ -2724,7 +2724,7 @@
         "tags": []
     },
     "273": {
-        "word": "  underwear  ",
+        "word": "  underwear ",
         "transc": "[ˈʌndəweə]",
         "transl": "нижнее белье",
         "learn": null,
@@ -2734,7 +2734,7 @@
         "tags": []
     },
     "274": {
-        "word": "  socks  ",
+        "word": "  socks ",
         "transc": "[sɒks]",
         "transl": "носки",
         "learn": null,
@@ -2744,7 +2744,7 @@
         "tags": []
     },
     "275": {
-        "word": "  bag  ",
+        "word": "  bag ",
         "transc": "[bæg]",
         "transl": "сумка",
         "learn": null,
@@ -2754,7 +2754,7 @@
         "tags": []
     },
     "276": {
-        "word": "  purse  ",
+        "word": "  purse ",
         "transc": "[pɜːs]",
         "transl": "дамская сумочка, кошелек",
         "learn": null,
@@ -2764,7 +2764,7 @@
         "tags": []
     },
     "277": {
-        "word": "  coat  ",
+        "word": "  coat ",
         "transc": "[kəʊt]",
         "transl": "пальто",
         "learn": null,
@@ -2774,7 +2774,7 @@
         "tags": []
     },
     "278": {
-        "word": "  scarf  ",
+        "word": "  scarf ",
         "transc": "[skɑːf]",
         "transl": "шарф",
         "learn": null,
@@ -2784,27 +2784,27 @@
         "tags": []
     },
     "279": {
-        "word": "  gloves  ",
+        "word": "  gloves ",
         "transc": "[glʌvz]",
         "transl": "перчатки",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "280": {
-        "word": "  wallet  ",
+        "word": "  wallet ",
         "transc": "[ˈwɒlɪt]",
         "transl": "бумажник",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "281": {
-        "word": "  uniform  ",
+        "word": "  uniform ",
         "transc": "[ˈjuːnɪfɔːm]",
         "transl": "униформа",
         "learn": null,
@@ -2814,7 +2814,7 @@
         "tags": []
     },
     "282": {
-        "word": "  belt  ",
+        "word": "  belt ",
         "transc": "[bɛlt]",
         "transl": "ремень",
         "learn": null,
@@ -2824,7 +2824,7 @@
         "tags": []
     },
     "283": {
-        "word": "  button  ",
+        "word": "  button ",
         "transc": "[ˈbʌtn]",
         "transl": "кнопка, пуговица",
         "learn": null,
@@ -2834,7 +2834,7 @@
         "tags": []
     },
     "284": {
-        "word": "  zip  ",
+        "word": "  zip ",
         "transc": "[zɪp]",
         "transl": "застежка молния",
         "learn": null,
@@ -2844,7 +2844,7 @@
         "tags": []
     },
     "285": {
-        "word": "  nature  ",
+        "word": "  nature ",
         "transc": "[ˈneɪʧə]",
         "transl": "природа",
         "learn": null,
@@ -2854,7 +2854,7 @@
         "tags": []
     },
     "286": {
-        "word": "  North  ",
+        "word": "  North ",
         "transc": "[nɔːθ]",
         "transl": "север",
         "learn": null,
@@ -2864,7 +2864,7 @@
         "tags": []
     },
     "287": {
-        "word": "  South  ",
+        "word": "  South ",
         "transc": "[saʊθ]",
         "transl": "юг",
         "learn": null,
@@ -2874,7 +2874,7 @@
         "tags": []
     },
     "288": {
-        "word": "  West  ",
+        "word": "  West ",
         "transc": "[wɛst]",
         "transl": "запад",
         "learn": null,
@@ -2884,7 +2884,7 @@
         "tags": []
     },
     "289": {
-        "word": "  East  ",
+        "word": "  East ",
         "transc": "[iːst]",
         "transl": "восток",
         "learn": null,
@@ -2894,7 +2894,7 @@
         "tags": []
     },
     "290": {
-        "word": "  Sun  ",
+        "word": "  Sun ",
         "transc": "[sʌn]",
         "transl": "солнце",
         "learn": null,
@@ -2904,7 +2904,7 @@
         "tags": []
     },
     "291": {
-        "word": "  Moon  ",
+        "word": "  Moon ",
         "transc": "[muːn]",
         "transl": "луна",
         "learn": null,
@@ -2914,17 +2914,17 @@
         "tags": []
     },
     "292": {
-        "word": "  star  ",
+        "word": "  star ",
         "transc": "[stɑː]",
         "transl": "звезда",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "293": {
-        "word": "  sky  ",
+        "word": "  sky ",
         "transc": "[skaɪ]",
         "transl": "небо",
         "learn": null,
@@ -2934,7 +2934,7 @@
         "tags": []
     },
     "294": {
-        "word": "  Earth  ",
+        "word": "  Earth ",
         "transc": "[ɜːθ]",
         "transl": "Земля",
         "learn": null,
@@ -2944,7 +2944,7 @@
         "tags": []
     },
     "295": {
-        "word": "  ground  ",
+        "word": "  ground ",
         "transc": "[graʊnd]",
         "transl": "земля",
         "learn": null,
@@ -2954,7 +2954,7 @@
         "tags": []
     },
     "296": {
-        "word": "  space  ",
+        "word": "  space ",
         "transc": "[speɪs]",
         "transl": "космос, пространство",
         "learn": null,
@@ -2964,7 +2964,7 @@
         "tags": []
     },
     "297": {
-        "word": "  air  ",
+        "word": "  air ",
         "transc": "[eə]",
         "transl": "воздух",
         "learn": null,
@@ -2974,7 +2974,7 @@
         "tags": []
     },
     "298": {
-        "word": "  plant  ",
+        "word": "  plant ",
         "transc": "[plɑːnt]",
         "transl": "растение",
         "learn": null,
@@ -2984,7 +2984,7 @@
         "tags": []
     },
     "299": {
-        "word": "  tree  ",
+        "word": "  tree ",
         "transc": "[triː]",
         "transl": "дерево",
         "learn": null,
@@ -2994,7 +2994,7 @@
         "tags": []
     },
     "300": {
-        "word": "  flower  ",
+        "word": "  flower ",
         "transc": "[ˈflaʊə]",
         "transl": "цветок",
         "learn": null,
@@ -3004,7 +3004,7 @@
         "tags": []
     },
     "301": {
-        "word": "  domestic animal  ",
+        "word": "  domestic animal ",
         "transc": "[dəʊˈmɛstɪk ˈænɪməl]",
         "transl": "домашнее животное",
         "learn": null,
@@ -3014,7 +3014,7 @@
         "tags": []
     },
     "302": {
-        "word": "  wild animal  ",
+        "word": "  wild animal ",
         "transc": "[waɪld ˈænɪməl]",
         "transl": "дикое животное",
         "learn": null,
@@ -3024,7 +3024,7 @@
         "tags": []
     },
     "303": {
-        "word": "  bird  ",
+        "word": "  bird ",
         "transc": "[bɜːd]",
         "transl": "птица",
         "learn": null,
@@ -3034,7 +3034,7 @@
         "tags": []
     },
     "304": {
-        "word": "  poultry  ",
+        "word": "  poultry ",
         "transc": "[ˈpəʊltri]",
         "transl": "домашняя птица",
         "learn": null,
@@ -3044,7 +3044,7 @@
         "tags": []
     },
     "305": {
-        "word": "  pet  ",
+        "word": "  pet ",
         "transc": "[pɛt]",
         "transl": "домашнее животное (питомец)",
         "learn": null,
@@ -3054,7 +3054,7 @@
         "tags": []
     },
     "306": {
-        "word": "  cat  ",
+        "word": "  cat ",
         "transc": "[kæt]",
         "transl": "кошка",
         "learn": null,
@@ -3064,7 +3064,7 @@
         "tags": []
     },
     "307": {
-        "word": "  dog  ",
+        "word": "  dog ",
         "transc": "[dɒg]",
         "transl": "собака",
         "learn": null,
@@ -3074,7 +3074,7 @@
         "tags": []
     },
     "308": {
-        "word": "  horse  ",
+        "word": "  horse ",
         "transc": "[hɔːs]",
         "transl": "лошадь",
         "learn": null,
@@ -3084,7 +3084,7 @@
         "tags": []
     },
     "309": {
-        "word": "  chicken  ",
+        "word": "  chicken ",
         "transc": "[ˈʧɪkɪn]",
         "transl": "цыпленок, курица",
         "learn": null,
@@ -3094,7 +3094,7 @@
         "tags": []
     },
     "310": {
-        "word": "  mouse  ",
+        "word": "  mouse ",
         "transc": "[maʊs]",
         "transl": "мышь",
         "learn": null,
@@ -3104,7 +3104,7 @@
         "tags": []
     },
     "311": {
-        "word": "  sea  ",
+        "word": "  sea ",
         "transc": "[siː]",
         "transl": "море",
         "learn": null,
@@ -3114,7 +3114,7 @@
         "tags": []
     },
     "312": {
-        "word": "  seashore \\ bank  ",
+        "word": "  seashore \\ bank ",
         "transc": "[ˈsiːʃɔː] [bæŋk]",
         "transl": "берег",
         "learn": null,
@@ -3124,7 +3124,7 @@
         "tags": []
     },
     "313": {
-        "word": "  river  ",
+        "word": "  river ",
         "transc": "[ˈrɪvə]",
         "transl": "река",
         "learn": null,
@@ -3134,7 +3134,7 @@
         "tags": []
     },
     "314": {
-        "word": "  snow  ",
+        "word": "  snow ",
         "transc": "[snəʊ]",
         "transl": "снег",
         "learn": null,
@@ -3144,7 +3144,7 @@
         "tags": []
     },
     "315": {
-        "word": "  sand  ",
+        "word": "  sand ",
         "transc": "[sænd]",
         "transl": "песок",
         "learn": null,
@@ -3154,7 +3154,7 @@
         "tags": []
     },
     "316": {
-        "word": "  rain  ",
+        "word": "  rain ",
         "transc": "[reɪn]",
         "transl": "дождь",
         "learn": null,
@@ -3164,7 +3164,7 @@
         "tags": []
     },
     "317": {
-        "word": "  cold  ",
+        "word": "  cold ",
         "transc": "[kəʊld]",
         "transl": "холод",
         "learn": null,
@@ -3174,7 +3174,7 @@
         "tags": []
     },
     "318": {
-        "word": "  heat  ",
+        "word": "  heat ",
         "transc": "[hiːt]",
         "transl": "жара",
         "learn": null,
@@ -3184,7 +3184,7 @@
         "tags": []
     },
     "319": {
-        "word": "  fire  ",
+        "word": "  fire ",
         "transc": "[ˈfaɪə]",
         "transl": "огонь, пожар",
         "learn": null,
@@ -3194,7 +3194,7 @@
         "tags": []
     },
     "320": {
-        "word": "  water  ",
+        "word": "  water ",
         "transc": "[ˈwɔːtə]",
         "transl": "вода",
         "learn": null,
@@ -3204,7 +3204,7 @@
         "tags": []
     },
     "321": {
-        "word": "  wind  ",
+        "word": "  wind ",
         "transc": "[wɪnd]",
         "transl": "ветер",
         "learn": null,
@@ -3214,17 +3214,17 @@
         "tags": []
     },
     "322": {
-        "word": "  storm  ",
+        "word": "  storm ",
         "transc": "[stɔːm]",
         "transl": "буря",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "323": {
-        "word": "  weather  ",
+        "word": "  weather ",
         "transc": "[ˈwɛðə]",
         "transl": "погода",
         "learn": null,
@@ -3234,7 +3234,7 @@
         "tags": []
     },
     "324": {
-        "word": "  weather forecast  ",
+        "word": "  weather forecast ",
         "transc": "[ˈwɛðə ˈfɔːkɑːst]",
         "transl": "прогноз погоды",
         "learn": null,
@@ -3244,7 +3244,7 @@
         "tags": []
     },
     "325": {
-        "word": "  city \\ town  ",
+        "word": "  city \\ town ",
         "transc": "[ˈsɪti] [taʊn]",
         "transl": "город",
         "learn": null,
@@ -3254,7 +3254,7 @@
         "tags": []
     },
     "326": {
-        "word": "  building  ",
+        "word": "  building ",
         "transc": "[ˈbɪldɪŋ]",
         "transl": "здание",
         "learn": null,
@@ -3264,7 +3264,7 @@
         "tags": []
     },
     "327": {
-        "word": "  street  ",
+        "word": "  street ",
         "transc": "[striːt]",
         "transl": "улица",
         "learn": null,
@@ -3274,7 +3274,7 @@
         "tags": []
     },
     "328": {
-        "word": "  block  ",
+        "word": "  block ",
         "transc": "[blɒk]",
         "transl": "квартал",
         "learn": null,
@@ -3284,7 +3284,7 @@
         "tags": []
     },
     "329": {
-        "word": "  traffic lights  ",
+        "word": "  traffic lights ",
         "transc": "[ˈtræfɪk laɪts]",
         "transl": "светофор",
         "learn": null,
@@ -3294,7 +3294,7 @@
         "tags": []
     },
     "330": {
-        "word": "  intersection  ",
+        "word": "  intersection ",
         "transc": "[ˌɪntə(ː)ˈsɛkʃən]",
         "transl": "перекресток",
         "learn": null,
@@ -3304,7 +3304,7 @@
         "tags": []
     },
     "331": {
-        "word": "  crosswalk  ",
+        "word": "  crosswalk ",
         "transc": "[ˈkrɒswɔːk]",
         "transl": "пешеходный переход",
         "learn": null,
@@ -3314,7 +3314,7 @@
         "tags": []
     },
     "332": {
-        "word": "  road sign (traffc sign)  ",
+        "word": "  road sign (traffc sign) ",
         "transc": "[rəʊd saɪn]",
         "transl": "дорожный знак",
         "learn": null,
@@ -3324,17 +3324,17 @@
         "tags": []
     },
     "333": {
-        "word": "  car  ",
+        "word": "  car ",
         "transc": "[kɑː]",
         "transl": "автомобиль",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "334": {
-        "word": "  public transport  ",
+        "word": "  public transport ",
         "transc": "[ˈpʌblɪk ˈtrænspɔːt]",
         "transl": "общественный транспорт",
         "learn": null,
@@ -3344,7 +3344,7 @@
         "tags": []
     },
     "335": {
-        "word": "  airport  ",
+        "word": "  airport ",
         "transc": "[ˈeəpɔːt]",
         "transl": "аэропорт",
         "learn": null,
@@ -3354,7 +3354,7 @@
         "tags": []
     },
     "336": {
-        "word": "  railway (railroad) station  ",
+        "word": "  railway (railroad) station ",
         "transc": "[ˈreɪlweɪ (ˈreɪlrəʊd) ˈsteɪʃən]",
         "transl": "вокзал",
         "learn": null,
@@ -3364,7 +3364,7 @@
         "tags": []
     },
     "337": {
-        "word": "  port  ",
+        "word": "  port ",
         "transc": "[pɔːt]",
         "transl": "порт",
         "learn": null,
@@ -3374,17 +3374,17 @@
         "tags": []
     },
     "338": {
-        "word": "  bus station (bus terminal)  ",
+        "word": "  bus station (bus terminal) ",
         "transc": "[bʌs ˈsteɪʃən] [bʌs ˈtɜːmɪnl]",
         "transl": "автобусная станция",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "339": {
-        "word": "  taxi  ",
+        "word": "  taxi ",
         "transc": "[ˈtæksi]",
         "transl": "такси",
         "learn": null,
@@ -3394,7 +3394,7 @@
         "tags": []
     },
     "340": {
-        "word": "  bridge  ",
+        "word": "  bridge ",
         "transc": "[brɪʤ]",
         "transl": "мост",
         "learn": null,
@@ -3404,7 +3404,7 @@
         "tags": []
     },
     "341": {
-        "word": "  shop  ",
+        "word": "  shop ",
         "transc": "[ʃɒp]",
         "transl": "магазин",
         "learn": null,
@@ -3414,7 +3414,7 @@
         "tags": []
     },
     "342": {
-        "word": "  mall  ",
+        "word": "  mall ",
         "transc": "[mɔːl]",
         "transl": "торговый центр",
         "learn": null,
@@ -3424,7 +3424,7 @@
         "tags": []
     },
     "343": {
-        "word": "  cinema (UK), movie theater (US)  ",
+        "word": "  cinema (UK), movie theater (US) ",
         "transc": "[ˈsɪnəmə]",
         "transl": "кинотеатр",
         "learn": null,
@@ -3434,7 +3434,7 @@
         "tags": []
     },
     "344": {
-        "word": "  theatre (theater)  ",
+        "word": "  theatre (theater) ",
         "transc": "[ˈθɪətə]",
         "transl": "театр",
         "learn": null,
@@ -3444,7 +3444,7 @@
         "tags": []
     },
     "345": {
-        "word": "  police department  ",
+        "word": "  police department ",
         "transc": "[pəˈliːs dˈepətmənt]",
         "transl": "полицейский участок",
         "learn": null,
@@ -3454,17 +3454,17 @@
         "tags": []
     },
     "346": {
-        "word": "  hospital  ",
+        "word": "  hospital ",
         "transc": "[ˈhɒspɪtl]",
         "transl": "больница",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "347": {
-        "word": "  hotel  ",
+        "word": "  hotel ",
         "transc": "[həʊˈtɛl]",
         "transl": "гостиница",
         "learn": null,
@@ -3474,7 +3474,7 @@
         "tags": []
     },
     "348": {
-        "word": "  post office  ",
+        "word": "  post office ",
         "transc": "[pəʊst ˈɒfɪs]",
         "transl": "почта",
         "learn": null,
@@ -3484,7 +3484,7 @@
         "tags": []
     },
     "349": {
-        "word": "  wi-fi  ",
+        "word": "  wi-fi ",
         "transc": "[ˌwaɪ'faɪ]",
         "transl": "вай-фай",
         "learn": null,
@@ -3494,7 +3494,7 @@
         "tags": []
     },
     "350": {
-        "word": "  embassy  ",
+        "word": "  embassy ",
         "transc": "[ˈɛmbəsi]",
         "transl": "посольство",
         "learn": null,
@@ -3504,7 +3504,7 @@
         "tags": []
     },
     "351": {
-        "word": "  ambassador  ",
+        "word": "  ambassador ",
         "transc": "[æmˈbæsədə]",
         "transl": "посол",
         "learn": null,
@@ -3514,7 +3514,7 @@
         "tags": []
     },
     "352": {
-        "word": "  passer-by  ",
+        "word": "  passer-by ",
         "transc": "[ˈpɑːsə baɪ]",
         "transl": "прохожий",
         "learn": null,
@@ -3524,7 +3524,7 @@
         "tags": []
     },
     "353": {
-        "word": "  pedestrian  ",
+        "word": "  pedestrian ",
         "transc": "[pɪˈdɛstrɪən]",
         "transl": "пешеход",
         "learn": null,
@@ -3534,17 +3534,17 @@
         "tags": []
     },
     "354": {
-        "word": "  police officer  ",
+        "word": "  police officer ",
         "transc": "[pəˈliːs ˈɒfɪsə]",
         "transl": "полицейский",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "355": {
-        "word": "  emergency  ",
+        "word": "  emergency ",
         "transc": "[ɪˈmɜːʤənsi]",
         "transl": "чрезвычайная ситуация",
         "learn": null,
@@ -3554,7 +3554,7 @@
         "tags": []
     },
     "356": {
-        "word": "  map  ",
+        "word": "  map ",
         "transc": "[mæp]",
         "transl": "карта",
         "learn": null,
@@ -3564,7 +3564,7 @@
         "tags": []
     },
     "357": {
-        "word": "  subway  ",
+        "word": "  subway ",
         "transc": "[ˈsʌbweɪ]",
         "transl": "метро",
         "learn": null,
@@ -3574,7 +3574,7 @@
         "tags": []
     },
     "358": {
-        "word": "  station  ",
+        "word": "  station ",
         "transc": "[ˈsteɪʃən]",
         "transl": "станция",
         "learn": null,
@@ -3584,7 +3584,7 @@
         "tags": []
     },
     "359": {
-        "word": "  stop  ",
+        "word": "  stop ",
         "transc": "[stɒp]",
         "transl": "остановка",
         "learn": null,
@@ -3594,7 +3594,7 @@
         "tags": []
     },
     "360": {
-        "word": "  sightseeing  ",
+        "word": "  sightseeing ",
         "transc": "[ˈsaɪtˌsiːɪŋ]",
         "transl": "осмотр достопримечательностей",
         "learn": null,
@@ -3604,7 +3604,7 @@
         "tags": []
     },
     "361": {
-        "word": "  work  ",
+        "word": "  work ",
         "transc": "[wɜːk]",
         "transl": "работа",
         "learn": null,
@@ -3614,7 +3614,7 @@
         "tags": []
     },
     "362": {
-        "word": "  job  ",
+        "word": "  job ",
         "transc": "[ʤɒb]",
         "transl": "работа",
         "learn": null,
@@ -3624,7 +3624,7 @@
         "tags": []
     },
     "363": {
-        "word": "  office  ",
+        "word": "  office ",
         "transc": "[ˈɒfɪs]",
         "transl": "офис",
         "learn": null,
@@ -3634,7 +3634,7 @@
         "tags": []
     },
     "364": {
-        "word": "  workplace  ",
+        "word": "  workplace ",
         "transc": "[ˈwɜːkˌpleɪs]",
         "transl": "рабочее место",
         "learn": null,
@@ -3644,7 +3644,7 @@
         "tags": []
     },
     "365": {
-        "word": "  working hours  ",
+        "word": "  working hours ",
         "transc": "[ˈwɜːkɪŋ ˈaʊəz]",
         "transl": "рабочие часы",
         "learn": null,
@@ -3654,7 +3654,7 @@
         "tags": []
     },
     "366": {
-        "word": "  schedule  ",
+        "word": "  schedule ",
         "transc": "[ˈʃɛdjuːl]",
         "transl": "расписание, график",
         "learn": null,
@@ -3664,7 +3664,7 @@
         "tags": []
     },
     "367": {
-        "word": "  colleague  ",
+        "word": "  colleague ",
         "transc": "[ˈkɒliːg]",
         "transl": "коллега",
         "learn": null,
@@ -3674,7 +3674,7 @@
         "tags": []
     },
     "368": {
-        "word": "  CV \\ resume  ",
+        "word": "  CV \\ resume ",
         "transc": "[siː-viː] [ˈrɛzju(ː)meɪ]",
         "transl": "резюме",
         "learn": null,
@@ -3684,7 +3684,7 @@
         "tags": []
     },
     "369": {
-        "word": "  payday  ",
+        "word": "  payday ",
         "transc": "[ˈpeɪdeɪ]",
         "transl": "день зарплаты",
         "learn": null,
@@ -3694,7 +3694,7 @@
         "tags": []
     },
     "370": {
-        "word": "  paycheck  ",
+        "word": "  paycheck ",
         "transc": "[ˈpeɪˌʧɛk]",
         "transl": "зарплатный чек",
         "learn": null,
@@ -3704,7 +3704,7 @@
         "tags": []
     },
     "371": {
-        "word": "  salary  ",
+        "word": "  salary ",
         "transc": "[ˈsæləri]",
         "transl": "зарплата",
         "learn": null,
@@ -3714,7 +3714,7 @@
         "tags": []
     },
     "372": {
-        "word": "  duties  ",
+        "word": "  duties ",
         "transc": "[ˈdjuːtiz]",
         "transl": "обязанности",
         "learn": null,
@@ -3724,7 +3724,7 @@
         "tags": []
     },
     "373": {
-        "word": "  employer  ",
+        "word": "  employer ",
         "transc": "[ɪmˈplɔɪə]",
         "transl": "работодатель",
         "learn": null,
@@ -3734,7 +3734,7 @@
         "tags": []
     },
     "374": {
-        "word": "  employee  ",
+        "word": "  employee ",
         "transc": "[ˌɛmplɔɪˈiː]",
         "transl": "работник",
         "learn": null,
@@ -3744,7 +3744,7 @@
         "tags": []
     },
     "375": {
-        "word": "  social security  ",
+        "word": "  social security ",
         "transc": "[ˈsəʊʃəl sɪˈkjʊərɪti]",
         "transl": "социальное страхование",
         "learn": null,
@@ -3754,27 +3754,27 @@
         "tags": []
     },
     "376": {
-        "word": "  job interview  ",
+        "word": "  job interview ",
         "transc": "[ʤɒb ˈɪntəvjuː]",
         "transl": "собеседование на работу",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "377": {
-        "word": "  health  ",
+        "word": "  health ",
         "transc": "[hɛlθ]",
         "transl": "здоровье",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "378": {
-        "word": "  money  ",
+        "word": "  money ",
         "transc": "[ˈmʌni]",
         "transl": "деньги",
         "learn": null,
@@ -3784,7 +3784,7 @@
         "tags": []
     },
     "379": {
-        "word": "  cash  ",
+        "word": "  cash ",
         "transc": "[kæʃ]",
         "transl": "наличные",
         "learn": null,
@@ -3794,7 +3794,7 @@
         "tags": []
     },
     "380": {
-        "word": "  bill  ",
+        "word": "  bill ",
         "transc": "[bɪl]",
         "transl": "купюра",
         "learn": null,
@@ -3804,17 +3804,17 @@
         "tags": []
     },
     "381": {
-        "word": "  coin  ",
+        "word": "  coin ",
         "transc": "[kɔɪn]",
         "transl": "монета",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "382": {
-        "word": "  change  ",
+        "word": "  change ",
         "transc": "[ʧeɪnʤ]",
         "transl": "сдача, мелочь",
         "learn": null,
@@ -3824,7 +3824,7 @@
         "tags": []
     },
     "383": {
-        "word": "  payment  ",
+        "word": "  payment ",
         "transc": "[ˈpeɪmənt]",
         "transl": "платеж",
         "learn": null,
@@ -3834,7 +3834,7 @@
         "tags": []
     },
     "384": {
-        "word": "  check (cheque)  ",
+        "word": "  check (cheque) ",
         "transc": "[ʧɛk]",
         "transl": "чек",
         "learn": null,
@@ -3844,7 +3844,7 @@
         "tags": []
     },
     "385": {
-        "word": "  bank  ",
+        "word": "  bank ",
         "transc": "[bæŋk]",
         "transl": "банк",
         "learn": null,
@@ -3854,17 +3854,17 @@
         "tags": []
     },
     "386": {
-        "word": "  ATM (automated teller machine)  ",
+        "word": "  ATM (automated teller machine) ",
         "transc": "[eɪ-tiː-ɛm] [ˈɔːtəmeɪtɪd ˈtɛlə məˈʃiːn]",
         "transl": "банкомат",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "387": {
-        "word": "  bank card  ",
+        "word": "  bank card ",
         "transc": "[bæŋk kɑːd]",
         "transl": "банковская карта",
         "learn": null,
@@ -3874,17 +3874,17 @@
         "tags": []
     },
     "388": {
-        "word": "  tips  ",
+        "word": "  tips ",
         "transc": "[tɪps]",
         "transl": "чаевые",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "389": {
-        "word": "  receipt  ",
+        "word": "  receipt ",
         "transc": "[rɪˈsiːt]",
         "transl": "чек",
         "learn": null,
@@ -3894,7 +3894,7 @@
         "tags": []
     },
     "390": {
-        "word": "  money transfer  ",
+        "word": "  money transfer ",
         "transc": "[ˈmʌni ˈtrænsfə(ː)]",
         "transl": "денежный перевод",
         "learn": null,
@@ -3904,7 +3904,7 @@
         "tags": []
     },
     "391": {
-        "word": "  fine  ",
+        "word": "  fine ",
         "transc": "[faɪn]",
         "transl": "штраф",
         "learn": null,
@@ -3914,7 +3914,7 @@
         "tags": []
     },
     "392": {
-        "word": "  budget  ",
+        "word": "  budget ",
         "transc": "[ˈbʌʤɪt]",
         "transl": "бюджет",
         "learn": null,
@@ -3924,7 +3924,7 @@
         "tags": []
     },
     "393": {
-        "word": "  food  ",
+        "word": "  food ",
         "transc": "[fuːd]",
         "transl": "еда",
         "learn": null,
@@ -3934,17 +3934,17 @@
         "tags": []
     },
     "394": {
-        "word": "  breakfast  ",
+        "word": "  breakfast ",
         "transc": "[ˈbrɛkfəst]",
         "transl": "завтрак",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "395": {
-        "word": "  dinner  ",
+        "word": "  dinner ",
         "transc": "[ˈdɪnə]",
         "transl": "обед",
         "learn": null,
@@ -3954,7 +3954,7 @@
         "tags": []
     },
     "396": {
-        "word": "  lunch  ",
+        "word": "  lunch ",
         "transc": "[lʌnʧ]",
         "transl": "ланч",
         "learn": null,
@@ -3964,7 +3964,7 @@
         "tags": []
     },
     "397": {
-        "word": "  supper  ",
+        "word": "  supper ",
         "transc": "[ˈsʌpə]",
         "transl": "ужин",
         "learn": null,
@@ -3974,7 +3974,7 @@
         "tags": []
     },
     "398": {
-        "word": "  meal  ",
+        "word": "  meal ",
         "transc": "[miːl]",
         "transl": "блюдо, прием пищи",
         "learn": null,
@@ -3984,7 +3984,7 @@
         "tags": []
     },
     "399": {
-        "word": "  drink, beverage  ",
+        "word": "  drink, beverage ",
         "transc": "[drɪŋk], [ˈbɛvərɪʤ]",
         "transl": "напиток",
         "learn": null,
@@ -3994,7 +3994,7 @@
         "tags": []
     },
     "400": {
-        "word": "  alcohol  ",
+        "word": "  alcohol ",
         "transc": "[ˈælkəhɒl]",
         "transl": "алкоголь",
         "learn": null,
@@ -4004,17 +4004,17 @@
         "tags": []
     },
     "401": {
-        "word": "  water  ",
+        "word": "  water ",
         "transc": "[ˈwɔːtə]",
         "transl": "вода",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "402": {
-        "word": "  coffee  ",
+        "word": "  coffee ",
         "transc": "[ˈkɒfi]",
         "transl": "кофе",
         "learn": null,
@@ -4024,7 +4024,7 @@
         "tags": []
     },
     "403": {
-        "word": "  tea  ",
+        "word": "  tea ",
         "transc": "[tiː]",
         "transl": "чай",
         "learn": null,
@@ -4034,7 +4034,7 @@
         "tags": []
     },
     "404": {
-        "word": "  wine  ",
+        "word": "  wine ",
         "transc": "[waɪn]",
         "transl": "вино",
         "learn": null,
@@ -4044,7 +4044,7 @@
         "tags": []
     },
     "405": {
-        "word": "  juice  ",
+        "word": "  juice ",
         "transc": "[ʤuːs]",
         "transl": "сок",
         "learn": null,
@@ -4054,7 +4054,7 @@
         "tags": []
     },
     "406": {
-        "word": "  meat  ",
+        "word": "  meat ",
         "transc": "[miːt]",
         "transl": "мясо",
         "learn": null,
@@ -4064,17 +4064,17 @@
         "tags": []
     },
     "407": {
-        "word": "  cereal  ",
+        "word": "  cereal ",
         "transc": "[ˈsɪərɪəl]",
         "transl": "хлопья",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "408": {
-        "word": "  bread  ",
+        "word": "  bread ",
         "transc": "[brɛd]",
         "transl": "хлеб",
         "learn": null,
@@ -4084,7 +4084,7 @@
         "tags": []
     },
     "409": {
-        "word": "  vegetables  ",
+        "word": "  vegetables ",
         "transc": "[ˈvɛʤɪtəblz]",
         "transl": "овощи",
         "learn": null,
@@ -4094,7 +4094,7 @@
         "tags": []
     },
     "410": {
-        "word": "  fruit  ",
+        "word": "  fruit ",
         "transc": "[fruːt]",
         "transl": "фрукты",
         "learn": null,
@@ -4104,7 +4104,7 @@
         "tags": []
     },
     "411": {
-        "word": "  fish  ",
+        "word": "  fish ",
         "transc": "[fɪʃ]",
         "transl": "рыба",
         "learn": null,
@@ -4114,7 +4114,7 @@
         "tags": []
     },
     "412": {
-        "word": "  oil  ",
+        "word": "  oil ",
         "transc": "[ɔɪl]",
         "transl": "растительное масло",
         "learn": null,
@@ -4124,7 +4124,7 @@
         "tags": []
     },
     "413": {
-        "word": "  butter  ",
+        "word": "  butter ",
         "transc": "[ˈbʌtə]",
         "transl": "сливочное масло",
         "learn": null,
@@ -4134,17 +4134,17 @@
         "tags": []
     },
     "414": {
-        "word": "  snack  ",
+        "word": "  snack ",
         "transc": "[snæk]",
         "transl": "снэк, закуска",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "415": {
-        "word": "  candy  ",
+        "word": "  candy ",
         "transc": "[ˈkændi]",
         "transl": "конфета (леденец)",
         "learn": null,
@@ -4154,7 +4154,7 @@
         "tags": []
     },
     "416": {
-        "word": "  pastry  ",
+        "word": "  pastry ",
         "transc": "[ˈpeɪstri]",
         "transl": "выпечка",
         "learn": null,
@@ -4164,7 +4164,7 @@
         "tags": []
     },
     "417": {
-        "word": "  diet  ",
+        "word": "  diet ",
         "transc": "[ˈdaɪət]",
         "transl": "диета",
         "learn": null,
@@ -4174,7 +4174,7 @@
         "tags": []
     },
     "418": {
-        "word": "  fridge, refrigerator  ",
+        "word": "  fridge, refrigerator ",
         "transc": "[frɪʤ], [rɪˈfrɪʤəreɪtə]",
         "transl": "холодильник",
         "learn": null,
@@ -4184,7 +4184,7 @@
         "tags": []
     },
     "419": {
-        "word": "  fork  ",
+        "word": "  fork ",
         "transc": "[fɔːk]",
         "transl": "вилка",
         "learn": null,
@@ -4194,17 +4194,17 @@
         "tags": []
     },
     "420": {
-        "word": "  spoon  ",
+        "word": "  spoon ",
         "transc": "[spuːn]",
         "transl": "ложка",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "421": {
-        "word": "  glass  ",
+        "word": "  glass ",
         "transc": "[glɑːs]",
         "transl": "стакан",
         "learn": null,
@@ -4214,7 +4214,7 @@
         "tags": []
     },
     "422": {
-        "word": "  cup  ",
+        "word": "  cup ",
         "transc": "[kʌp]",
         "transl": "чашка",
         "learn": null,
@@ -4224,7 +4224,7 @@
         "tags": []
     },
     "423": {
-        "word": "  mug  ",
+        "word": "  mug ",
         "transc": "[mʌg]",
         "transl": "кружка",
         "learn": null,
@@ -4234,17 +4234,17 @@
         "tags": []
     },
     "424": {
-        "word": "  plate, dish  ",
+        "word": "  plate, dish ",
         "transc": "[pleɪt], [dɪʃ]",
         "transl": "тарелка",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "425": {
-        "word": "  study  ",
+        "word": "  study ",
         "transc": "[ˈstʌdi]",
         "transl": "изучение, исследование",
         "learn": null,
@@ -4254,7 +4254,7 @@
         "tags": []
     },
     "426": {
-        "word": "  school  ",
+        "word": "  school ",
         "transc": "[skuːl]",
         "transl": "школа",
         "learn": null,
@@ -4264,7 +4264,7 @@
         "tags": []
     },
     "427": {
-        "word": "  college  ",
+        "word": "  college ",
         "transc": "[ˈkɒlɪʤ]",
         "transl": "колледж",
         "learn": null,
@@ -4274,7 +4274,7 @@
         "tags": []
     },
     "428": {
-        "word": "  university  ",
+        "word": "  university ",
         "transc": "[ˌjuːnɪˈvɜːsɪti]",
         "transl": "университет",
         "learn": null,
@@ -4284,7 +4284,7 @@
         "tags": []
     },
     "429": {
-        "word": "  education  ",
+        "word": "  education ",
         "transc": "[ˌɛdju(ː)ˈkeɪʃən]",
         "transl": "образование",
         "learn": null,
@@ -4294,7 +4294,7 @@
         "tags": []
     },
     "430": {
-        "word": "  degree  ",
+        "word": "  degree ",
         "transc": "[dɪ'griː]",
         "transl": "ученая степень",
         "learn": null,
@@ -4304,7 +4304,7 @@
         "tags": []
     },
     "431": {
-        "word": "  graduate  ",
+        "word": "  graduate ",
         "transc": "[ˈgrædjʊət]",
         "transl": "выпускник",
         "learn": null,
@@ -4314,7 +4314,7 @@
         "tags": []
     },
     "432": {
-        "word": "  diploma  ",
+        "word": "  diploma ",
         "transc": "[dɪˈpləʊmə]",
         "transl": "диплом",
         "learn": null,
@@ -4324,27 +4324,27 @@
         "tags": []
     },
     "433": {
-        "word": "  textbook  ",
+        "word": "  textbook ",
         "transc": "[ˈtɛkstbʊk]",
         "transl": "учебник",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "434": {
-        "word": "  notebook  ",
+        "word": "  notebook ",
         "transc": "[ˈnəʊtbʊk]",
         "transl": "тетрадь",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "435": {
-        "word": "  notepad  ",
+        "word": "  notepad ",
         "transc": "[ˈnəʊtˌpæd]",
         "transl": "блокнот",
         "learn": null,
@@ -4354,7 +4354,7 @@
         "tags": []
     },
     "436": {
-        "word": "  pen  ",
+        "word": "  pen ",
         "transc": "[pɛn]",
         "transl": "авторучка",
         "learn": null,
@@ -4364,7 +4364,7 @@
         "tags": []
     },
     "437": {
-        "word": "  pencil  ",
+        "word": "  pencil ",
         "transc": "[ˈpɛnsl]",
         "transl": "карандаш",
         "learn": null,
@@ -4374,7 +4374,7 @@
         "tags": []
     },
     "438": {
-        "word": "  blackboard  ",
+        "word": "  blackboard ",
         "transc": "[ˈblækbɔːd]",
         "transl": "школьная доска",
         "learn": null,
@@ -4384,17 +4384,17 @@
         "tags": []
     },
     "439": {
-        "word": "  whiteboard  ",
+        "word": "  whiteboard ",
         "transc": "[ˈwaɪtbɔːd]",
         "transl": "маркерная доска",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "440": {
-        "word": "  classroom  ",
+        "word": "  classroom ",
         "transc": "[ˈklɑːsrʊm]",
         "transl": "класс (помещение)",
         "learn": null,
@@ -4404,7 +4404,7 @@
         "tags": []
     },
     "441": {
-        "word": "  class, lesson  ",
+        "word": "  class, lesson ",
         "transc": "[klɑːs], [ˈlɛsn]",
         "transl": "урок",
         "learn": null,
@@ -4414,7 +4414,7 @@
         "tags": []
     },
     "442": {
-        "word": "  grade  ",
+        "word": "  grade ",
         "transc": "[greɪd]",
         "transl": "класс (этап обучения)",
         "learn": null,
@@ -4424,7 +4424,7 @@
         "tags": []
     },
     "443": {
-        "word": "  mark, grade  ",
+        "word": "  mark, grade ",
         "transc": "[mɑːk], [greɪd]",
         "transl": "оценка",
         "learn": null,
@@ -4434,7 +4434,7 @@
         "tags": []
     },
     "444": {
-        "word": "  pupil  ",
+        "word": "  pupil ",
         "transc": "[ˈpjuːpl]",
         "transl": "ученик",
         "learn": null,
@@ -4444,7 +4444,7 @@
         "tags": []
     },
     "445": {
-        "word": "  student  ",
+        "word": "  student ",
         "transc": "[ˈstjuːdənt]",
         "transl": "студент, ученик",
         "learn": null,
@@ -4454,7 +4454,7 @@
         "tags": []
     },
     "446": {
-        "word": "  teacher  ",
+        "word": "  teacher ",
         "transc": "[ˈtiːʧə]",
         "transl": "учитель",
         "learn": null,
@@ -4464,7 +4464,7 @@
         "tags": []
     },
     "447": {
-        "word": "  exam (examination)  ",
+        "word": "  exam (examination) ",
         "transc": "[ɪgˈzæm] [ɪgˌzæmɪˈneɪʃən]",
         "transl": "экзамен",
         "learn": null,
@@ -4474,7 +4474,7 @@
         "tags": []
     },
     "448": {
-        "word": "  test  ",
+        "word": "  test ",
         "transc": "[tɛst]",
         "transl": "тест",
         "learn": null,
@@ -4484,7 +4484,7 @@
         "tags": []
     },
     "449": {
-        "word": "  color (colour)  ",
+        "word": "  color (colour) ",
         "transc": "[ˈkʌlə]",
         "transl": "цвет",
         "learn": null,
@@ -4494,7 +4494,7 @@
         "tags": []
     },
     "450": {
-        "word": "  black  ",
+        "word": "  black ",
         "transc": "[blæk]",
         "transl": "черный",
         "learn": null,
@@ -4504,7 +4504,7 @@
         "tags": []
     },
     "451": {
-        "word": "  white  ",
+        "word": "  white ",
         "transc": "[waɪt]",
         "transl": "белый",
         "learn": null,
@@ -4514,7 +4514,7 @@
         "tags": []
     },
     "452": {
-        "word": "  dark  ",
+        "word": "  dark ",
         "transc": "[dɑːk]",
         "transl": "темный",
         "learn": null,
@@ -4524,7 +4524,7 @@
         "tags": []
     },
     "453": {
-        "word": "  light  ",
+        "word": "  light ",
         "transc": "[laɪt]",
         "transl": "светлый",
         "learn": null,
@@ -4534,7 +4534,7 @@
         "tags": []
     },
     "454": {
-        "word": "  red  ",
+        "word": "  red ",
         "transc": "[rɛd]",
         "transl": "красный",
         "learn": null,
@@ -4544,7 +4544,7 @@
         "tags": []
     },
     "455": {
-        "word": "  orange  ",
+        "word": "  orange ",
         "transc": "[ˈɒrɪnʤ]",
         "transl": "оранжевый",
         "learn": null,
@@ -4554,27 +4554,27 @@
         "tags": []
     },
     "456": {
-        "word": "  yellow  ",
+        "word": "  yellow ",
         "transc": "[ˈjɛləʊ]",
         "transl": "желтый",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "457": {
-        "word": "  green  ",
+        "word": "  green ",
         "transc": "[griːn]",
         "transl": "зеленый",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "458": {
-        "word": "  blue  ",
+        "word": "  blue ",
         "transc": "[bluː]",
         "transl": "голубой, синий",
         "learn": null,
@@ -4584,7 +4584,7 @@
         "tags": []
     },
     "459": {
-        "word": "  purple  ",
+        "word": "  purple ",
         "transc": "[ˈpɜːpl]",
         "transl": "фиолетовый (пурпурный)",
         "learn": null,
@@ -4594,17 +4594,17 @@
         "tags": []
     },
     "460": {
-        "word": "  violet  ",
+        "word": "  violet ",
         "transc": "[ˈvaɪəlɪt]",
         "transl": "темно-фиолетовый",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "461": {
-        "word": "  pink  ",
+        "word": "  pink ",
         "transc": "[pɪŋk]",
         "transl": "розовый",
         "learn": null,
@@ -4614,7 +4614,7 @@
         "tags": []
     },
     "462": {
-        "word": "  silver  ",
+        "word": "  silver ",
         "transc": "[ˈsɪlvə]",
         "transl": "серебристый",
         "learn": null,
@@ -4624,7 +4624,7 @@
         "tags": []
     },
     "463": {
-        "word": "  gold  ",
+        "word": "  gold ",
         "transc": "[gəʊld]",
         "transl": "золотой",
         "learn": null,
@@ -4634,7 +4634,7 @@
         "tags": []
     },
     "464": {
-        "word": "  brown  ",
+        "word": "  brown ",
         "transc": "[braʊn]",
         "transl": "коричневый",
         "learn": null,
@@ -4644,7 +4644,7 @@
         "tags": []
     },
     "465": {
-        "word": "  grey (gray)  ",
+        "word": "  grey (gray) ",
         "transc": "[greɪ]",
         "transl": "серый",
         "learn": null,
@@ -4654,7 +4654,7 @@
         "tags": []
     },
     "466": {
-        "word": "  big  ",
+        "word": "  big ",
         "transc": "[bɪg]",
         "transl": "большой",
         "learn": null,
@@ -4664,7 +4664,7 @@
         "tags": []
     },
     "467": {
-        "word": "  large, great, huge, enormous  ",
+        "word": "  large, great, huge, enormous ",
         "transc": "[lɑːʤ], [greɪt], [hjuːʤ], [ɪˈnɔːməs]",
         "transl": "большой, огромный",
         "learn": null,
@@ -4674,7 +4674,7 @@
         "tags": []
     },
     "468": {
-        "word": "  small  ",
+        "word": "  small ",
         "transc": "[smɔːl]",
         "transl": "маленький",
         "learn": null,
@@ -4684,17 +4684,17 @@
         "tags": []
     },
     "469": {
-        "word": "  little  ",
+        "word": "  little ",
         "transc": "[ˈlɪtl]",
         "transl": "маленький",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "470": {
-        "word": "  tiny  ",
+        "word": "  tiny ",
         "transc": "[ˈtaɪni]",
         "transl": "крошечный",
         "learn": null,
@@ -4704,17 +4704,17 @@
         "tags": []
     },
     "471": {
-        "word": "  long  ",
+        "word": "  long ",
         "transc": "[lɒŋ]",
         "transl": "длинный, долгий",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "472": {
-        "word": "  tall  ",
+        "word": "  tall ",
         "transc": "[tɔːl]",
         "transl": "высокий",
         "learn": null,
@@ -4724,7 +4724,7 @@
         "tags": []
     },
     "473": {
-        "word": "  high  ",
+        "word": "  high ",
         "transc": "[haɪ]",
         "transl": "высокий",
         "learn": null,
@@ -4734,7 +4734,7 @@
         "tags": []
     },
     "474": {
-        "word": "  short  ",
+        "word": "  short ",
         "transc": "[ʃɔːt]",
         "transl": "короткий",
         "learn": null,
@@ -4744,7 +4744,7 @@
         "tags": []
     },
     "475": {
-        "word": "  thin  ",
+        "word": "  thin ",
         "transc": "[θɪn]",
         "transl": "тонкий",
         "learn": null,
@@ -4754,7 +4754,7 @@
         "tags": []
     },
     "476": {
-        "word": "  thick  ",
+        "word": "  thick ",
         "transc": "[θɪk]",
         "transl": "толстый",
         "learn": null,
@@ -4764,7 +4764,7 @@
         "tags": []
     },
     "477": {
-        "word": "  wide, broad  ",
+        "word": "  wide, broad ",
         "transc": "[waɪd] [brɔːd]",
         "transl": "широкий",
         "learn": null,
@@ -4774,7 +4774,7 @@
         "tags": []
     },
     "478": {
-        "word": "  narrow  ",
+        "word": "  narrow ",
         "transc": "[ˈnærəʊ]",
         "transl": "узкий",
         "learn": null,
@@ -4784,7 +4784,7 @@
         "tags": []
     },
     "479": {
-        "word": "  heavy  ",
+        "word": "  heavy ",
         "transc": "[ˈhɛvi]",
         "transl": "тяжелый (о весе)",
         "learn": null,
@@ -4794,7 +4794,7 @@
         "tags": []
     },
     "480": {
-        "word": "  light, lightweight  ",
+        "word": "  light, lightweight ",
         "transc": "[laɪt], [ˈlaɪtweɪt]",
         "transl": "легкий (о весе)",
         "learn": null,
@@ -4804,7 +4804,7 @@
         "tags": []
     },
     "481": {
-        "word": "  good  ",
+        "word": "  good ",
         "transc": "[gʊd]",
         "transl": "хороший",
         "learn": null,
@@ -4814,7 +4814,7 @@
         "tags": []
     },
     "482": {
-        "word": "  bad  ",
+        "word": "  bad ",
         "transc": "[bæd]",
         "transl": "плохой",
         "learn": null,
@@ -4824,7 +4824,7 @@
         "tags": []
     },
     "483": {
-        "word": "  cheap  ",
+        "word": "  cheap ",
         "transc": "[ʧiːp]",
         "transl": "дешевый",
         "learn": null,
@@ -4834,7 +4834,7 @@
         "tags": []
     },
     "484": {
-        "word": "  expensive  ",
+        "word": "  expensive ",
         "transc": "[ɪksˈpɛnsɪv]",
         "transl": "дорогой (о цене)",
         "learn": null,
@@ -4844,7 +4844,7 @@
         "tags": []
     },
     "485": {
-        "word": "  convenient, handy, comfortable  ",
+        "word": "  convenient, handy, comfortable ",
         "transc": "[kənˈviːnjənt], [ˈhændi], [ˈkʌmfətəbl]",
         "transl": "удобный",
         "learn": null,
@@ -4854,7 +4854,7 @@
         "tags": []
     },
     "486": {
-        "word": "  tasty  ",
+        "word": "  tasty ",
         "transc": "[ˈteɪsti]",
         "transl": "вкусный",
         "learn": null,
@@ -4864,7 +4864,7 @@
         "tags": []
     },
     "487": {
-        "word": "  sweet  ",
+        "word": "  sweet ",
         "transc": "[swiːt]",
         "transl": "сладкий",
         "learn": null,
@@ -4874,7 +4874,7 @@
         "tags": []
     },
     "488": {
-        "word": "  salty  ",
+        "word": "  salty ",
         "transc": "[ˈsɔːlti]",
         "transl": "соленый",
         "learn": null,
@@ -4884,7 +4884,7 @@
         "tags": []
     },
     "489": {
-        "word": "  bitter  ",
+        "word": "  bitter ",
         "transc": "[ˈbɪtə]",
         "transl": "горький",
         "learn": null,
@@ -4894,7 +4894,7 @@
         "tags": []
     },
     "490": {
-        "word": "  sour  ",
+        "word": "  sour ",
         "transc": "[ˈsaʊə]",
         "transl": "кислый",
         "learn": null,
@@ -4904,17 +4904,17 @@
         "tags": []
     },
     "491": {
-        "word": "  hot  ",
+        "word": "  hot ",
         "transc": "[hɒt]",
         "transl": "горячий, острый (о вкусе)",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "492": {
-        "word": "  cold  ",
+        "word": "  cold ",
         "transc": "[kəʊld]",
         "transl": "холодный",
         "learn": null,
@@ -4924,17 +4924,17 @@
         "tags": []
     },
     "493": {
-        "word": "  cool  ",
+        "word": "  cool ",
         "transc": "[kuːl]",
         "transl": "прохладный",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "494": {
-        "word": "  distgusting  ",
+        "word": "  distgusting ",
         "transc": "[dɪstgˈʌstɪŋ]",
         "transl": "мерзкий (о вкусе)",
         "learn": null,
@@ -4944,7 +4944,7 @@
         "tags": []
     },
     "495": {
-        "word": "  ugly  ",
+        "word": "  ugly ",
         "transc": "[ˈʌgli]",
         "transl": "отвратительный (о внешности)",
         "learn": null,
@@ -4954,7 +4954,7 @@
         "tags": []
     },
     "496": {
-        "word": "  beautiful  ",
+        "word": "  beautiful ",
         "transc": "[ˈbjuːtəfʊl]",
         "transl": "красивый",
         "learn": null,
@@ -4964,17 +4964,17 @@
         "tags": []
     },
     "497": {
-        "word": "  scary  ",
+        "word": "  scary ",
         "transc": "[ˈskeəri]",
         "transl": "страшный",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "498": {
-        "word": "  funny  ",
+        "word": "  funny ",
         "transc": "[ˈfʌni]",
         "transl": "смешной",
         "learn": null,
@@ -4984,7 +4984,7 @@
         "tags": []
     },
     "499": {
-        "word": "  interesting  ",
+        "word": "  interesting ",
         "transc": "[ˈɪntrɪstɪŋ]",
         "transl": "интересный",
         "learn": null,
@@ -4994,7 +4994,7 @@
         "tags": []
     },
     "500": {
-        "word": "  boring  ",
+        "word": "  boring ",
         "transc": "[ˈbɔːrɪŋ]",
         "transl": "скучный",
         "learn": null,
@@ -5004,7 +5004,7 @@
         "tags": []
     },
     "501": {
-        "word": "  true  ",
+        "word": "  true ",
         "transc": "[truː]",
         "transl": "правдивый, истинный",
         "learn": null,
@@ -5014,7 +5014,7 @@
         "tags": []
     },
     "502": {
-        "word": "  false  ",
+        "word": "  false ",
         "transc": "[fɔːls]",
         "transl": "ложный",
         "learn": null,
@@ -5024,7 +5024,7 @@
         "tags": []
     },
     "503": {
-        "word": "  useful  ",
+        "word": "  useful ",
         "transc": "[ˈjuːsfʊl]",
         "transl": "полезный",
         "learn": null,
@@ -5034,7 +5034,7 @@
         "tags": []
     },
     "504": {
-        "word": "  useless  ",
+        "word": "  useless ",
         "transc": "[ˈjuːslɪs]",
         "transl": "бесполезный",
         "learn": null,
@@ -5044,7 +5044,7 @@
         "tags": []
     },
     "505": {
-        "word": "  soft  ",
+        "word": "  soft ",
         "transc": "[sɒft]",
         "transl": "мягкий",
         "learn": null,
@@ -5054,7 +5054,7 @@
         "tags": []
     },
     "506": {
-        "word": "  solid  ",
+        "word": "  solid ",
         "transc": "[ˈsɒlɪd]",
         "transl": "твердый",
         "learn": null,
@@ -5064,17 +5064,17 @@
         "tags": []
     },
     "507": {
-        "word": "  liquid  ",
+        "word": "  liquid ",
         "transc": "[ˈlɪkwɪd]",
         "transl": "жидкий",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "508": {
-        "word": "  hard  ",
+        "word": "  hard ",
         "transc": "[hɑːd]",
         "transl": "жесткий",
         "learn": null,
@@ -5084,7 +5084,7 @@
         "tags": []
     },
     "509": {
-        "word": "  easy, simple  ",
+        "word": "  easy, simple ",
         "transc": "[ˈiːzi], [ˈsɪmpl]",
         "transl": "легкий, простой",
         "learn": null,
@@ -5094,7 +5094,7 @@
         "tags": []
     },
     "510": {
-        "word": "  hard, difficult  ",
+        "word": "  hard, difficult ",
         "transc": "[hɑːd], [ˈdɪfɪkəlt]",
         "transl": "трудный, сложный",
         "learn": null,
@@ -5104,17 +5104,17 @@
         "tags": []
     },
     "511": {
-        "word": "  young  ",
+        "word": "  young ",
         "transc": "[jʌŋ]",
         "transl": "молодой",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "512": {
-        "word": "  old  ",
+        "word": "  old ",
         "transc": "[əʊld]",
         "transl": "старый",
         "learn": null,
@@ -5124,7 +5124,7 @@
         "tags": []
     },
     "513": {
-        "word": "  adult  ",
+        "word": "  adult ",
         "transc": "[əˈdʌlt]",
         "transl": "взрослый",
         "learn": null,
@@ -5134,7 +5134,7 @@
         "tags": []
     },
     "514": {
-        "word": "  lazy  ",
+        "word": "  lazy ",
         "transc": "[ˈleɪzi]",
         "transl": "ленивый",
         "learn": null,
@@ -5144,17 +5144,17 @@
         "tags": []
     },
     "515": {
-        "word": "  hardworking  ",
+        "word": "  hardworking ",
         "transc": "[ˈhɑːdˌwɜːkɪŋ]",
         "transl": "трудолюбивый",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "516": {
-        "word": "  smart  ",
+        "word": "  smart ",
         "transc": "[smɑːt]",
         "transl": "умный",
         "learn": null,
@@ -5164,17 +5164,17 @@
         "tags": []
     },
     "517": {
-        "word": "  stupid  ",
+        "word": "  stupid ",
         "transc": "[ˈstjuːpɪd]",
         "transl": "глупый",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "518": {
-        "word": "  kind  ",
+        "word": "  kind ",
         "transc": "[kaɪnd]",
         "transl": "добрый",
         "learn": null,
@@ -5184,7 +5184,7 @@
         "tags": []
     },
     "519": {
-        "word": "  mean  ",
+        "word": "  mean ",
         "transc": "[miːn]",
         "transl": "злой, подлый, нехороший",
         "learn": null,
@@ -5194,17 +5194,17 @@
         "tags": []
     },
     "520": {
-        "word": "  good  ",
+        "word": "  good ",
         "transc": "[gʊd]",
         "transl": "хороший, добрый",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "521": {
-        "word": "  bad  ",
+        "word": "  bad ",
         "transc": "[bæd]",
         "transl": "плохой",
         "learn": null,
@@ -5214,7 +5214,7 @@
         "tags": []
     },
     "522": {
-        "word": "  nice  ",
+        "word": "  nice ",
         "transc": "[naɪs]",
         "transl": "приятный, милый",
         "learn": null,
@@ -5224,7 +5224,7 @@
         "tags": []
     },
     "523": {
-        "word": "  cute  ",
+        "word": "  cute ",
         "transc": "[kjuːt]",
         "transl": "милый",
         "learn": null,
@@ -5234,27 +5234,27 @@
         "tags": []
     },
     "524": {
-        "word": "  optimistic  ",
+        "word": "  optimistic ",
         "transc": "[ˌɒptɪˈmɪstɪk]",
         "transl": "оптимистичный",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "525": {
-        "word": "  pessimistic  ",
+        "word": "  pessimistic ",
         "transc": "[ˌpɛsɪˈmɪstɪk]",
         "transl": "пессимистичный",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "526": {
-        "word": "  curious  ",
+        "word": "  curious ",
         "transc": "[ˈkjʊərɪəs]",
         "transl": "любопытный",
         "learn": null,
@@ -5264,17 +5264,17 @@
         "tags": []
     },
     "527": {
-        "word": "  positive  ",
+        "word": "  positive ",
         "transc": "[ˈpɒzətɪv]",
         "transl": "позитивный",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "528": {
-        "word": "  cruel  ",
+        "word": "  cruel ",
         "transc": "[krʊəl]",
         "transl": "жестокий",
         "learn": null,
@@ -5284,7 +5284,7 @@
         "tags": []
     },
     "529": {
-        "word": "  calm  ",
+        "word": "  calm ",
         "transc": "[kɑːm]",
         "transl": "спокойный",
         "learn": null,
@@ -5294,27 +5294,27 @@
         "tags": []
     },
     "530": {
-        "word": "  brave  ",
+        "word": "  brave ",
         "transc": "[breɪv]",
         "transl": "смелый",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "531": {
-        "word": "  cool  ",
+        "word": "  cool ",
         "transc": "[kuːl]",
         "transl": "клевый, крутой, прикольный",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "532": {
-        "word": "  tough  ",
+        "word": "  tough ",
         "transc": "[tʌf]",
         "transl": "крутой, сильный",
         "learn": null,
@@ -5324,7 +5324,7 @@
         "tags": []
     },
     "533": {
-        "word": "  honest  ",
+        "word": "  honest ",
         "transc": "[ˈɒnɪst]",
         "transl": "честный",
         "learn": null,
@@ -5334,7 +5334,7 @@
         "tags": []
     },
     "534": {
-        "word": "  happy  ",
+        "word": "  happy ",
         "transc": "[ˈhæpi]",
         "transl": "счастливый",
         "learn": null,
@@ -5344,7 +5344,7 @@
         "tags": []
     },
     "535": {
-        "word": "  sad  ",
+        "word": "  sad ",
         "transc": "[sæd]",
         "transl": "печальный",
         "learn": null,
@@ -5354,17 +5354,17 @@
         "tags": []
     },
     "536": {
-        "word": "  angry  ",
+        "word": "  angry ",
         "transc": "[ˈæŋgri]",
         "transl": "сердитый",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "537": {
-        "word": "  scared  ",
+        "word": "  scared ",
         "transc": "[skeəd]",
         "transl": "испуганный",
         "learn": null,
@@ -5374,7 +5374,7 @@
         "tags": []
     },
     "538": {
-        "word": "  tired  ",
+        "word": "  tired ",
         "transc": "[ˈtaɪəd]",
         "transl": "уставший",
         "learn": null,
@@ -5384,7 +5384,7 @@
         "tags": []
     },
     "539": {
-        "word": "  bored  ",
+        "word": "  bored ",
         "transc": "[bɔːd]",
         "transl": "скучающий",
         "learn": null,
@@ -5394,7 +5394,7 @@
         "tags": []
     },
     "540": {
-        "word": "  helpful  ",
+        "word": "  helpful ",
         "transc": "[ˈhɛlpfʊl]",
         "transl": "готовый помочь",
         "learn": null,
@@ -5404,7 +5404,7 @@
         "tags": []
     },
     "541": {
-        "word": "  reliable  ",
+        "word": "  reliable ",
         "transc": "[rɪˈlaɪəbl]",
         "transl": "надежный",
         "learn": null,
@@ -5414,7 +5414,7 @@
         "tags": []
     },
     "542": {
-        "word": "  responsible  ",
+        "word": "  responsible ",
         "transc": "[rɪsˈpɒnsəbl]",
         "transl": "ответственный",
         "learn": null,
@@ -5424,17 +5424,17 @@
         "tags": []
     },
     "543": {
-        "word": "  now  ",
+        "word": "  now ",
         "transc": "[naʊ]",
         "transl": "сейчас",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "544": {
-        "word": "  then  ",
+        "word": "  then ",
         "transc": "[ðɛn]",
         "transl": "тогда",
         "learn": null,
@@ -5444,7 +5444,7 @@
         "tags": []
     },
     "545": {
-        "word": "  again  ",
+        "word": "  again ",
         "transc": "[əˈgɛn]",
         "transl": "снова",
         "learn": null,
@@ -5454,7 +5454,7 @@
         "tags": []
     },
     "546": {
-        "word": "  always  ",
+        "word": "  always ",
         "transc": "[ˈɔːlweɪz]",
         "transl": "всегда",
         "learn": null,
@@ -5464,7 +5464,7 @@
         "tags": []
     },
     "547": {
-        "word": "  never  ",
+        "word": "  never ",
         "transc": "[ˈnɛvə]",
         "transl": "никогда",
         "learn": null,
@@ -5474,7 +5474,7 @@
         "tags": []
     },
     "548": {
-        "word": "  soon  ",
+        "word": "  soon ",
         "transc": "[suːn]",
         "transl": "скоро",
         "learn": null,
@@ -5484,7 +5484,7 @@
         "tags": []
     },
     "549": {
-        "word": "  late  ",
+        "word": "  late ",
         "transc": "[leɪt]",
         "transl": "поздно",
         "learn": null,
@@ -5494,7 +5494,7 @@
         "tags": []
     },
     "550": {
-        "word": "  early  ",
+        "word": "  early ",
         "transc": "[ˈɜːli]",
         "transl": "рано",
         "learn": null,
@@ -5504,17 +5504,17 @@
         "tags": []
     },
     "551": {
-        "word": "  before  ",
+        "word": "  before ",
         "transc": "[bɪˈfɔː]",
         "transl": "до",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "552": {
-        "word": "  after  ",
+        "word": "  after ",
         "transc": "[ˈɑːftə]",
         "transl": "после",
         "learn": null,
@@ -5524,17 +5524,17 @@
         "tags": []
     },
     "553": {
-        "word": "  yesterday  ",
+        "word": "  yesterday ",
         "transc": "[ˈjɛstədeɪ]",
         "transl": "вчера",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "554": {
-        "word": "  today  ",
+        "word": "  today ",
         "transc": "[təˈdeɪ]",
         "transl": "сегодня",
         "learn": null,
@@ -5544,7 +5544,7 @@
         "tags": []
     },
     "555": {
-        "word": "  tomorrow  ",
+        "word": "  tomorrow ",
         "transc": "[təˈmɒrəʊ]",
         "transl": "завтра",
         "learn": null,
@@ -5554,7 +5554,7 @@
         "tags": []
     },
     "556": {
-        "word": "  next week (year)  ",
+        "word": "  next week (year) ",
         "transc": "[nɛkst wiːk] [jɪə]",
         "transl": "на следующей неделе (в след. году)",
         "learn": null,
@@ -5564,7 +5564,7 @@
         "tags": []
     },
     "557": {
-        "word": "  every day (week, month)  ",
+        "word": "  every day (week, month) ",
         "transc": "[ˈɛvri deɪ] [wiːk] [mʌnθ]",
         "transl": "каждый день (неделю, месяц)",
         "learn": null,
@@ -5574,7 +5574,7 @@
         "tags": []
     },
     "558": {
-        "word": "  this morning (afternoon)  ",
+        "word": "  this morning (afternoon) ",
         "transc": "[ðɪs ˈmɔːnɪŋ] [ˈɑːftəˈnuːn]",
         "transl": "этим утром (днем)",
         "learn": null,
@@ -5584,7 +5584,7 @@
         "tags": []
     },
     "559": {
-        "word": "  tonight  ",
+        "word": "  tonight ",
         "transc": "[təˈnaɪt]",
         "transl": "этим вечером (ночью)",
         "learn": null,
@@ -5594,7 +5594,7 @@
         "tags": []
     },
     "560": {
-        "word": "  sometimes  ",
+        "word": "  sometimes ",
         "transc": "[ˈsʌmtaɪmz]",
         "transl": "иногда",
         "learn": null,
@@ -5604,7 +5604,7 @@
         "tags": []
     },
     "561": {
-        "word": "  often  ",
+        "word": "  often ",
         "transc": "[ˈɒf (t)(ə)n]",
         "transl": "часто",
         "learn": null,
@@ -5614,7 +5614,7 @@
         "tags": []
     },
     "562": {
-        "word": "  rarely, seldom  ",
+        "word": "  rarely, seldom ",
         "transc": "[ˈreəli], [ˈsɛldəm]",
         "transl": "редко",
         "learn": null,
@@ -5624,7 +5624,7 @@
         "tags": []
     },
     "563": {
-        "word": "  recently  ",
+        "word": "  recently ",
         "transc": "[ˈriːsntli]",
         "transl": "недавно",
         "learn": null,
@@ -5634,17 +5634,17 @@
         "tags": []
     },
     "564": {
-        "word": "  lately  ",
+        "word": "  lately ",
         "transc": "[ˈleɪtli]",
         "transl": "в последнее время",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "565": {
-        "word": "  once  ",
+        "word": "  once ",
         "transc": "[wʌns]",
         "transl": "однажды",
         "learn": null,
@@ -5654,7 +5654,7 @@
         "tags": []
     },
     "566": {
-        "word": "  usually  ",
+        "word": "  usually ",
         "transc": "[ˈjuːʒʊəli]",
         "transl": "обычно",
         "learn": null,
@@ -5664,7 +5664,7 @@
         "tags": []
     },
     "567": {
-        "word": "  already  ",
+        "word": "  already ",
         "transc": "[ɔːlˈrɛdi]",
         "transl": "уже",
         "learn": null,
@@ -5674,17 +5674,17 @@
         "tags": []
     },
     "568": {
-        "word": "  yet  ",
+        "word": "  yet ",
         "transc": "[jɛt]",
         "transl": "уже, еще",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "569": {
-        "word": "  not yet  ",
+        "word": "  not yet ",
         "transc": "[nɒt jɛt]",
         "transl": "еще не",
         "learn": null,
@@ -5694,7 +5694,7 @@
         "tags": []
     },
     "570": {
-        "word": "  still  ",
+        "word": "  still ",
         "transc": "[stɪl]",
         "transl": "все еще",
         "learn": null,
@@ -5704,7 +5704,7 @@
         "tags": []
     },
     "571": {
-        "word": "  here  ",
+        "word": "  here ",
         "transc": "[hɪə]",
         "transl": "здесь",
         "learn": null,
@@ -5714,7 +5714,7 @@
         "tags": []
     },
     "572": {
-        "word": "  there  ",
+        "word": "  there ",
         "transc": "[ðeə]",
         "transl": "там",
         "learn": null,
@@ -5724,7 +5724,7 @@
         "tags": []
     },
     "573": {
-        "word": "  where  ",
+        "word": "  where ",
         "transc": "[weə]",
         "transl": "где",
         "learn": null,
@@ -5734,7 +5734,7 @@
         "tags": []
     },
     "574": {
-        "word": "  around  ",
+        "word": "  around ",
         "transc": "[əˈraʊnd]",
         "transl": "вокруг",
         "learn": null,
@@ -5744,7 +5744,7 @@
         "tags": []
     },
     "575": {
-        "word": "  inside  ",
+        "word": "  inside ",
         "transc": "[ɪnˈsaɪd]",
         "transl": "внутри",
         "learn": null,
@@ -5754,17 +5754,17 @@
         "tags": []
     },
     "576": {
-        "word": "  outside  ",
+        "word": "  outside ",
         "transc": "[ˌaʊtˈsaɪd]",
         "transl": "снаружи",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "577": {
-        "word": "  above  ",
+        "word": "  above ",
         "transc": "[əˈbʌv]",
         "transl": "над",
         "learn": null,
@@ -5774,7 +5774,7 @@
         "tags": []
     },
     "578": {
-        "word": "  under, below  ",
+        "word": "  under, below ",
         "transc": "[ˈʌndə], [bɪˈləʊ]",
         "transl": "под",
         "learn": null,
@@ -5784,17 +5784,17 @@
         "tags": []
     },
     "579": {
-        "word": "  somewhere  ",
+        "word": "  somewhere ",
         "transc": "[ˈsʌmweə]",
         "transl": "где-то",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "580": {
-        "word": "  anywhere  ",
+        "word": "  anywhere ",
         "transc": "[ˈɛnɪweə]",
         "transl": "где-нибудь, хоть где",
         "learn": null,
@@ -5804,7 +5804,7 @@
         "tags": []
     },
     "581": {
-        "word": "  nowhere  ",
+        "word": "  nowhere ",
         "transc": "[ˈnəʊweə]",
         "transl": "нигде",
         "learn": null,
@@ -5814,7 +5814,7 @@
         "tags": []
     },
     "582": {
-        "word": "  only  ",
+        "word": "  only ",
         "transc": "[ˈəʊnli]",
         "transl": "только",
         "learn": null,
@@ -5824,7 +5824,7 @@
         "tags": []
     },
     "583": {
-        "word": "  much  ",
+        "word": "  much ",
         "transc": "[mʌʧ]",
         "transl": "много",
         "learn": null,
@@ -5834,7 +5834,7 @@
         "tags": []
     },
     "584": {
-        "word": "  little  ",
+        "word": "  little ",
         "transc": "[ˈlɪtl]",
         "transl": "мало",
         "learn": null,
@@ -5844,7 +5844,7 @@
         "tags": []
     },
     "585": {
-        "word": "  very  ",
+        "word": "  very ",
         "transc": "[ˈvɛri]",
         "transl": "очень",
         "learn": null,
@@ -5854,7 +5854,7 @@
         "tags": []
     },
     "586": {
-        "word": "  so  ",
+        "word": "  so ",
         "transc": "[səʊ]",
         "transl": "так",
         "learn": null,
@@ -5864,17 +5864,17 @@
         "tags": []
     },
     "587": {
-        "word": "  enough  ",
+        "word": "  enough ",
         "transc": "[ɪˈnʌf]",
         "transl": "достаточно",
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": null,
+        "known": false,
         "tags": []
     },
     "588": {
-        "word": "  almost  ",
+        "word": "  almost ",
         "transc": "[ˈɔːlməʊst]",
         "transl": "почти",
         "learn": null,
@@ -5884,7 +5884,7 @@
         "tags": []
     },
     "589": {
-        "word": "  well  ",
+        "word": "  well ",
         "transc": "[wɛl]",
         "transl": "хорошо",
         "learn": null,
@@ -5894,7 +5894,7 @@
         "tags": []
     },
     "590": {
-        "word": "  bad  ",
+        "word": "  bad ",
         "transc": "[bæd]",
         "transl": "плохо",
         "learn": null,
@@ -5904,7 +5904,7 @@
         "tags": []
     },
     "591": {
-        "word": "  fast  ",
+        "word": "  fast ",
         "transc": "[fɑːst]",
         "transl": "быстро",
         "learn": null,
@@ -5914,7 +5914,7 @@
         "tags": []
     },
     "592": {
-        "word": "  quickly  ",
+        "word": "  quickly ",
         "transc": "[ˈkwɪkli]",
         "transl": "быстро",
         "learn": null,
@@ -5924,7 +5924,7 @@
         "tags": []
     },
     "593": {
-        "word": "  slowly  ",
+        "word": "  slowly ",
         "transc": "[ˈsləʊli]",
         "transl": "медленно",
         "learn": null,
@@ -5934,7 +5934,7 @@
         "tags": []
     },
     "594": {
-        "word": "  too ( + наречие)  ",
+        "word": "  too ( + наречие) ",
         "transc": "[tuː]",
         "transl": "слишком (+ наречие)",
         "learn": null,

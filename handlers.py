@@ -65,7 +65,6 @@ async def yes(callback: types.CallbackQuery):
     await callback.answer()
     key_word = callback.data.split("_")[-1]
     data = change_data(data, True, key_word)
-    print(key_word)
     global i
     i += 1
     if c < config['quantity_words']:
@@ -79,12 +78,10 @@ async def no(callback: types.CallbackQuery):
     await callback.answer()
     key_word = callback.data.split("_")[-1]
     change_data(data, False, key_word)
-    print(key_word)
     global i
     global c
     i += 1
     c += 1
-    print(c)
     if c < config['quantity_words']:
         m = keybord_words(data, c, i)
         await callback.message.edit_text(m[0], reply_markup=m[1])
@@ -130,25 +127,3 @@ async def handle_document(message: types.Message):
         await message.reply("error")
 
 
-# @rm.callback_query(F.data == "stats")
-# async def stats(callback: types.CallbackQuery):
-#     await callback.answer()
-#     message = f"""
-# All words: {len(get_data()) - 1}
-# 1. Known words: {len(words_list_s(1))}
-# 2. Unknown words: {len(words_list_s(0))}
-# """
-#     keybord = create_keyboard([["known", "unknown"]])
-#     await callback.message.answer(message, reply_markup=keybord)
-
-
-# @rm.callback_query(F.data == "known")
-# async def known(callback: types.CallbackQuery):
-#     await callback.answer()
-#     await callback.message.answer("known words:\n" + word_list(get_data(), True))
-
-
-# @rm.callback_query(F.data == "unknown")
-# async def unknown(callback: types.CallbackQuery):
-#     await callback.message.answer("unknown words:\n" + word_list(get_data(), False))
-#     await callback.answer()

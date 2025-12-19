@@ -2,7 +2,7 @@ from aiogram import F, Router
 from aiogram import types
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
-from data import get_data
+from data import get_data, update_data
 from utils import print_word, create_keyboard
 from utils_srh import search_word
 
@@ -24,7 +24,8 @@ async def search(message: types.message, state: FSMContext):
     await state.update_data(word=message.text)
     data = await state.get_data()
     words = data["word"]
-    key_words = search_word(words, get_data())
+    key_words = search_word(words)
+    await state.update_data(word=key_words)
     if key_words != []:
         mes1 = ""
         for w in key_words:
@@ -34,3 +35,21 @@ async def search(message: types.message, state: FSMContext):
         await message.answer(mes, reply_markup=keyboard)
     else:
         await message.answer("not found")
+
+
+@rsrh.callback_query(F.data == "edit")
+async def edit(callbeck: types.CallbackQuery, state: FSMContext):
+    pass
+
+
+
+@rsrh.callback_query(F.data == "delete")
+async def delete(callbeck: types.CallbackQuery, state: FSMContext):
+    callbeck.answer()
+    data = await state.get_data()
+    words = data["word"]
+    data2 = get_data()
+    for i in words:
+        data2.pop(i, None)
+    update_data(data2)
+    await callbeck.message.answer("success")

@@ -1,27 +1,30 @@
 from data import get_data
 
-def search_word(words, data):
+def search_word(words):
+    data = get_data()
     key_words = []
-    # prev = ""
-    # words = words.replace(' ', '')
-    # words = words.split(",")
-    # for w in words:
-    #     for i in range(1, len(data)-1):
-    #         if w+" " in data[str(i)]["word"]:
-    #             if prev == "":
-    #                 key_words.append(str(i))
-    #                 prev = str(i)
-    #                 print(prev)
-    #             else:
-    #                 if len(data[str(i)]["word"]) > len(data[prev]["word"]):
-    #                     key_words.remove(prev)
-    #                     key_words.append(str(i))
-    #                 prev = ""
-
+    words = words.replace(' ', '')
+    words = words.split(",")
+    for w in words:
+        w_key_words = []
+        for i in data:
+            try:
+                if " "+w+" " in data[i]["word"]:
+                    w_key_words.append(i)
+            except:
+                pass         
+        w2_key_words = []
+        k = 0
+        if w_key_words != []:
+            for j in w_key_words:
+                w2_key_words.append(len(data[j]["word"]))
+                k += 1
+            key_words.append(w_key_words[w2_key_words.index(min(w2_key_words))])
    
 
     return key_words
             
+
 
 
 

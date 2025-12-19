@@ -18,7 +18,12 @@ def print_word(key_word, data):
 
 
 def choose_words(data):
-    return str(r.randint(1, len(data)-1))
+    while True:
+        key_word = str(r.randint(1, int(list(data.keys())[-1])))
+        if key_word in data and data[key_word]["known"] == None:
+            return key_word
+        else:
+            continue
 
 
 def keybord_words(data, c, i):
@@ -38,10 +43,12 @@ def keybord_words(data, c, i):
 
 def word_list(data, status):
     mes = ""
-    print(data[str(1)]["known"])
     for i in range(1, len(data)-1):
-        if data[str(i)]["known"] == status:
-            mes += print_word(str(i), data)
+        try:
+            if data[str(i)]["known"] == status:
+                mes += print_word(str(i), data)
+        except:
+            pass
     if mes == "":
         mes = "not found"
     return mes

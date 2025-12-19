@@ -6,12 +6,13 @@ def words_list_s(atr = None):
     data = get_data()
     unknown_list = []
     know_list = []
-    for i in range(1, len(data)-1):
-        key_word = str(i)
-        if data[key_word]["known"] == True:
-            know_list.append(key_word)
-        elif data[key_word]["known"] == False:
-            unknown_list.append(key_word)
+    for i in data:
+        if i != "config":
+            key_word = i
+            if data[key_word]["known"] == True:
+                know_list.append(key_word)
+            elif data[key_word]["known"] == False:
+                unknown_list.append(key_word)
     if atr == 0:
         return unknown_list
     elif atr == 1:

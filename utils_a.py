@@ -17,9 +17,9 @@ def add_word(words, data):
                 "tags": [],
             }
             l = w.split("-")
-            word["word"] = l[0].strip()
-            word["transc"] = l[1].strip()
-            word["transl"] = l[2].strip()
+            word["word"] = "  "+l[0].strip()+"  "
+            word["transc"] = "  "+l[1].strip()+"  "
+            word["transl"] = "  "+l[2].strip()+"  "
             key_word = int(list(data.keys())[-1])
             key_word += 1
             data[key_word] = word

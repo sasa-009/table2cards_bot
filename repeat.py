@@ -38,7 +38,6 @@ async def continue_r(callback: types.CallbackQuery, state: FSMContext):
     data = current_state.get("data") or data  # Если в состоянии нет данных, используем полученные
     await callback.answer()
     m = keybord_words_r(data, bi.c)
-    print(bi.l, bi.l[bi.i])
     mes = f"{m[0]}\n{print_word(bi.l[bi.i], data)}"
     await callback.message.edit_text(text=mes, reply_markup=m[3])
 
@@ -56,8 +55,6 @@ async def yes_r(callback: types.CallbackQuery, state: FSMContext):
     # После изменения данных, получаем обновленные данные
     data = get_data()
     await state.update_data(data=data)
-    
-    print(bi.l, bi.l[bi.i])
     m = keybord_words_r(data, bi.c)
     bi.i += 1
     bi.c += 1
@@ -86,7 +83,6 @@ async def no_r(callback: types.CallbackQuery, state: FSMContext):
     current_state = await state.get_data()  # Получаем данные из состояния
     data = current_state.get("data") or data  # Если в состоянии нет данных, используем полученные
     await callback.answer()
-    print(bi.l, bi.l[bi.i])
     m = keybord_words_r(data, bi.c)
     bi.i += 1
     if bi.i < len(bi.l):

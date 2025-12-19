@@ -3,9 +3,10 @@ from aiogram import types
 
 def repeat_list(data):
     l = []
-    for i in range(1, len(data)-1):
-        if data[str(i)]["known"] == False:
-            l.append(str(i))
+    for i in data:
+        if i != "config":
+            if data[i]["known"] == False:
+                l.append(i)
     return l
 
 

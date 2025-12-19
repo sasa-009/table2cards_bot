@@ -31,7 +31,7 @@ def convert():
                 if type(value) == str:
                     value = value.strip()
                 if cells.column == 1:
-                    word["word"] = "  "+str(value)+"  "
+                    word["word"] = "  "+str(value)+" "
                 elif cells.column == 2:
                     if cells.value == None:
                         word = {}
