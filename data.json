@@ -1,7 +1,7 @@
 {
     "config": {
         "transc": false,
-        "quantity_words": 25
+        "quantity_words": 3
     },
     "1": {
         "word": "  be (was, been) ",
@@ -14,13 +14,13 @@
         "tags": []
     },
     "2": {
-        "word": "  do (did, done) ",
-        "transc": "[duː]",
-        "transl": "делать",
+        "word": "  do  ",
+        "transc": "    ",
+        "transl": "  do  ",
         "learn": null,
-        "next_repeat": null,
-        "last_repeat": null,
-        "known": false,
+        "rd": null,
+        "rdl": null,
+        "known": null,
         "tags": []
     },
     "3": {
@@ -50,16 +50,16 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "6": {
-        "word": "  go (went, gone) ",
-        "transc": "[gəʊ]",
-        "transl": "идти",
+        "word": "  go  ",
+        "transc": "    ",
+        "transl": "  go  ",
         "learn": null,
-        "next_repeat": null,
-        "last_repeat": null,
+        "rd": null,
+        "rdl": null,
         "known": null,
         "tags": []
     },
@@ -180,7 +180,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "19": {
@@ -480,7 +480,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "49": {
@@ -650,7 +650,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "66": {
@@ -800,7 +800,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "81": {
@@ -830,7 +830,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "84": {
@@ -930,7 +930,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "94": {
@@ -1040,7 +1040,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "105": {
@@ -1060,7 +1060,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "107": {
@@ -1250,7 +1250,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "126": {
@@ -1320,7 +1320,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "133": {
@@ -1330,7 +1330,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "134": {
@@ -1470,7 +1470,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "148": {
@@ -1490,7 +1490,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "150": {
@@ -1500,7 +1500,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "151": {
@@ -1600,7 +1600,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "161": {
@@ -1720,7 +1720,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "173": {
@@ -1800,7 +1800,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "181": {
@@ -1840,7 +1840,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "185": {
@@ -1940,7 +1940,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "195": {
@@ -2080,7 +2080,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "209": {
@@ -2200,7 +2200,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "221": {
@@ -2300,7 +2300,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "231": {
@@ -2330,7 +2330,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "234": {
@@ -2500,7 +2500,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "251": {
@@ -2550,7 +2550,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "256": {
@@ -2650,7 +2650,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "266": {
@@ -2670,7 +2670,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "268": {
@@ -2680,7 +2680,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "269": {
@@ -2790,7 +2790,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "280": {
@@ -2800,7 +2800,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "281": {
@@ -2920,7 +2920,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "293": {
@@ -3220,7 +3220,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "323": {
@@ -3330,7 +3330,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "334": {
@@ -3380,7 +3380,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "339": {
@@ -3460,7 +3460,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "347": {
@@ -3540,7 +3540,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "355": {
@@ -3760,7 +3760,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "377": {
@@ -3770,7 +3770,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "378": {
@@ -3810,7 +3810,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "382": {
@@ -3860,7 +3860,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "387": {
@@ -3880,7 +3880,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "389": {
@@ -3940,7 +3940,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "395": {
@@ -4010,7 +4010,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "402": {
@@ -4070,7 +4070,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "408": {
@@ -4140,7 +4140,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "415": {
@@ -4200,7 +4200,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "421": {
@@ -4240,7 +4240,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "425": {
@@ -4330,7 +4330,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "434": {
@@ -4340,7 +4340,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "435": {
@@ -4390,7 +4390,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "440": {
@@ -4560,7 +4560,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "457": {
@@ -4570,7 +4570,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "458": {
@@ -4600,7 +4600,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "461": {
@@ -4690,7 +4690,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "470": {
@@ -4710,7 +4710,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "472": {
@@ -4910,7 +4910,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "492": {
@@ -4930,7 +4930,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "494": {
@@ -4970,7 +4970,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "498": {
@@ -5070,7 +5070,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "508": {
@@ -5110,7 +5110,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "512": {
@@ -5150,7 +5150,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "516": {
@@ -5170,7 +5170,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "518": {
@@ -5200,7 +5200,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "521": {
@@ -5240,7 +5240,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "525": {
@@ -5250,7 +5250,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "526": {
@@ -5270,7 +5270,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "528": {
@@ -5300,7 +5300,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "531": {
@@ -5310,7 +5310,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "532": {
@@ -5360,7 +5360,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "537": {
@@ -5430,7 +5430,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "544": {
@@ -5510,7 +5510,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "552": {
@@ -5530,7 +5530,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "554": {
@@ -5640,7 +5640,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "565": {
@@ -5680,7 +5680,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "569": {
@@ -5760,7 +5760,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "577": {
@@ -5790,7 +5790,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "580": {
@@ -5870,7 +5870,7 @@
         "learn": null,
         "next_repeat": null,
         "last_repeat": null,
-        "known": false,
+        "known": null,
         "tags": []
     },
     "588": {

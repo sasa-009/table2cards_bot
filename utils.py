@@ -43,14 +43,10 @@ def keybord_words(data, c, i):
 
 def word_list(data, status):
     mes = ""
-    for i in range(1, len(data)-1):
-        try:
-            if data[str(i)]["known"] == status:
-                mes += print_word(str(i), data)
-        except:
-            pass
-    if mes == "":
-        mes = "not found"
+    for i in data:
+        if i != "config":
+            if data[i]["known"] == status:
+                mes += print_word(i, data)
     return mes
     
 

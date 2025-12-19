@@ -64,7 +64,7 @@ async def random_words(callback: types.CallbackQuery):
 async def yes(callback: types.CallbackQuery):
     await callback.answer()
     key_word = callback.data.split("_")[-1]
-    data = change_data(data, True, key_word)
+    change_data(data, True, key_word)
     global i
     i += 1
     if c < config['quantity_words']:

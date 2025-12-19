@@ -24,5 +24,5 @@ def add_word(words, data):
             key_word += 1
             data[key_word] = word
             update_data(data)
-        except Exception:
+        except:
             return False
