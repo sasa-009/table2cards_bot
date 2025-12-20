@@ -7,6 +7,7 @@ from repeat import rr
 from stats import rs
 from add import ra
 from search import rsrh
+from tags import rt
 
 
 logging.basicConfig(level=logging.INFO)
@@ -20,6 +21,7 @@ async def main():
     dp.include_router(rs)
     dp.include_router(ra)
     dp.include_router(rsrh)
+    dp.include_router(rt)
     await dp.start_polling(bot)
 
 if __name__ == "__main__":

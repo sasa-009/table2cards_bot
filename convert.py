@@ -12,6 +12,7 @@ def convert():
         "quantity_words": 3
         }, 
         "words":{},
+        "tags": []
     }
     word_id = 0
 

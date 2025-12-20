@@ -1,13 +1,23 @@
 {
     "config": {
         "transc": false,
-        "quantity_words": 5
+        "quantity_words": 3
     },
     "words": {
         "1": {
             "word": "  be (was, been) ",
             "transc": "[biː]",
             "transl": "быть",
+            "learn": null,
+            "next_repeat": null,
+            "last_repeat": null,
+            "known": null,
+            "tags": []
+        },
+        "2": {
+            "word": "  do (did, done) ",
+            "transc": "[duː]",
+            "transl": "делать",
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
@@ -71,7 +81,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": true,
+            "known": null,
             "tags": []
         },
         "9": {
@@ -581,7 +591,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": true,
+            "known": null,
             "tags": []
         },
         "60": {
@@ -2521,7 +2531,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": true,
+            "known": null,
             "tags": []
         },
         "254": {
@@ -3451,7 +3461,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": true,
+            "known": null,
             "tags": []
         },
         "347": {
@@ -4701,7 +4711,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": true,
+            "known": null,
             "tags": []
         },
         "472": {
@@ -5051,7 +5061,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": true,
+            "known": null,
             "tags": []
         },
         "507": {
@@ -5331,7 +5341,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": true,
+            "known": null,
             "tags": []
         },
         "535": {
@@ -5421,7 +5431,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": true,
+            "known": null,
             "tags": []
         },
         "544": {
@@ -5934,5 +5944,6 @@
             "known": null,
             "tags": []
         }
-    }
+    },
+    "tags": []
 }
