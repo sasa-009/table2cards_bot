@@ -4,13 +4,13 @@ from data import update_data
 
 
 def change_data(data, status, key_word):
-    data[key_word]['known'] = status
+    data["words"][key_word]['known'] = status
     return update_data(data)    
 
 
 
 def print_word(key_word, data):
-    word = data[key_word]
+    word = data["words"][key_word]
     if data["config"]["transc"]:
         return f'{word['word']} ({word['transc']}) - {word['transl']}\n'
     else:
@@ -19,8 +19,8 @@ def print_word(key_word, data):
 
 def choose_words(data):
     while True:
-        key_word = str(r.randint(1, int(list(data.keys())[-1])))
-        if key_word in data and data[key_word]["known"] == None:
+        key_word = str(r.randint(1, int(list(data["words"].keys())[-1])))
+        if key_word in data["words"] and data["words"][key_word]["known"] == None:
             return key_word
         else:
             continue
@@ -43,10 +43,9 @@ def keybord_words(data, c, i):
 
 def word_list(data, status):
     mes = ""
-    for i in data:
-        if i != "config":
-            if data[i]["known"] == status:
-                mes += print_word(i, data)
+    for i in data["words"]:
+        if data["words"][i]["known"] == status:
+            mes += print_word(i, data)
     return mes
     
 

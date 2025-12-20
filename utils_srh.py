@@ -7,9 +7,9 @@ def search_word(words):
     words = words.split(",")
     for w in words:
         w_key_words = []
-        for i in data:
+        for i in data["words"]:
             try:
-                if " "+w+" " in data[i]["word"]:
+                if " "+w+" " in data["words"][i]["word"]:
                     w_key_words.append(i)
             except:
                 pass         
@@ -17,7 +17,7 @@ def search_word(words):
         k = 0
         if w_key_words != []:
             for j in w_key_words:
-                w2_key_words.append(len(data[j]["word"]))
+                w2_key_words.append(len(data["words"][j]["word"]))
                 k += 1
             key_words.append(w_key_words[w2_key_words.index(min(w2_key_words))])
    

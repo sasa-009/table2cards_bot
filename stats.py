@@ -15,9 +15,10 @@ rs = Router()
 
 @rs.callback_query(F.data == "stats")
 async def stats(callback: types.CallbackQuery):
+    words = get_data()["words"]
     await callback.answer()
     message = f"""
-All words: {len(get_data()) - 1}
+All words: {len(words)}
 1. Known words: {len(words_list_s(1))}
 2. Unknown words: {len(words_list_s(0))}
 """
@@ -29,7 +30,11 @@ All words: {len(get_data()) - 1}
 @rs.callback_query(F.data == "known")
 async def known(callback: types.CallbackQuery):
     await callback.answer()
-    await callback.message.answer(word_list(get_data(), True))
+    mes = word_list(get_data(), True)
+    if mes != "":
+        await callback.message.answer(mes)
+    else:
+        await callback.message.answer("not found")
 
 
 
@@ -37,4 +42,8 @@ async def known(callback: types.CallbackQuery):
 @rs.callback_query(F.data == "unknown")
 async def unknown(callback: types.CallbackQuery):
     await callback.answer()
-    await callback.message.answer(word_list(get_data(), False))
+    mes = word_list(get_data(), False)
+    if mes != "":
+        await callback.message.answer(mes)
+    else:
+        await callback.message.answer("not found")

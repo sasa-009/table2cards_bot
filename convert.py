@@ -6,10 +6,13 @@ def convert():
     wb = load_workbook(u''+'./downloads/data.xlsx')
     sheet_names = wb.sheetnames
     
-    data = {"config":{
-    "transc": False,
-    "quantity_words": 3
-}}
+    data = {
+        "config":{
+        "transc": False,
+        "quantity_words": 3
+        }, 
+        "words":{},
+    }
     word_id = 0
 
 
@@ -46,7 +49,7 @@ def convert():
                         word["transl"] = value
             if word != {}:
                 word_id +=1
-                data[word_id] = word
+                data["words"][word_id] = word
     update_data(data)
 
 if __name__ == "__main__":

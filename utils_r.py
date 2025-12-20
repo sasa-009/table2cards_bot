@@ -3,15 +3,15 @@ from aiogram import types
 
 def repeat_list(data):
     l = []
-    for i in data:
+    for i in data["words"]:
         if i != "config":
-            if data[i]["known"] == False:
+            if data["words"][i]["known"] == False:
                 l.append(i)
     return l
 
 
 def print_word_r(key_word, data):
-    word = data[key_word]
+    word = data["words"][key_word]
     return f'{word['word']}\n'
 
 
