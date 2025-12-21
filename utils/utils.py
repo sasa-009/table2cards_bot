@@ -1,7 +1,7 @@
 import random as r
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from data import update_data
-
+from utils.data import update_data
+from utils.lang import M
 
 def change_data(data, status, key_word):
     data["words"][key_word]['known'] = status
@@ -35,7 +35,7 @@ def keybord_words(data, c, i):
                 InlineKeyboardButton(text="❌", callback_data=f"no_{key_word}")
             ]
         ])
-        mes = f"which of these words do you know? (new words: {c}/{data['config']['quantity_words']})\n{i}. {print_word(key_word,data)}"
+        mes = f"{M('random_words')}{c}/{data['config']['quantity_words']})\n{i}. {print_word(key_word,data)}"
         return [mes, keyboard]
 
 

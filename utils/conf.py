@@ -1,5 +1,5 @@
-from data import get_data
-from utils_r import repeat_list
+from utils.data import get_data
+from utils.utils_r import repeat_list
 
 
 class BotInstance:

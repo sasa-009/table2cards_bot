@@ -2,19 +2,22 @@ from aiogram import F, Router
 from aiogram import types
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
-from utils_a import add_word
-from data import get_data
+from utils.utils_a import add_word
+from utils.data import get_data
+from utils.lang import M
+
+ra = Router()
+
 
 class Words(StatesGroup):
     mes_words = State()
 
 
-ra = Router()
 
 @ra.callback_query(F.data == "add_words")
 async def add_words(callbeck: types.CallbackQuery, state: FSMContext):
     await callbeck.answer()
-    mes = "send me words in this format:\nword1 - transcription - translation\nword2 - transcription - translation\n..."
+    mes = M("add_words")
     await state.set_state(Words.mes_words)
     await callbeck.message.answer(mes)
 
@@ -26,6 +29,6 @@ async def get_word(message: types.message, state: FSMContext):
     words = data["mes_words"]
     res_add = add_word(words, get_data())
     if res_add != False:
-        await message.answer("success")
+        await message.answer(M("success"))
     else:
-        await message.answer("error")
+        await message.answer(M("error"))

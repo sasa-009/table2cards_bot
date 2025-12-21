@@ -1,4 +1,4 @@
-from data import update_data
+from utils.data import update_data
 
 
 def add_word(words, data):

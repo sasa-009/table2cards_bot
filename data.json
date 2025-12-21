@@ -1,7 +1,8 @@
 {
     "config": {
         "transc": false,
-        "quantity_words": 3
+        "quantity_words": 3,
+        "lang": "ru"
     },
     "words": {
         "1": {

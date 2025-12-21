@@ -1,15 +1,13 @@
 from aiogram import F, Router
 from aiogram import types
-from utils_r import keybord_words_r, print_word_r, repeat_list
-from utils import change_data, print_word, create_keyboard
-from data import get_data, update_data
-from conf import bi
+from utils.utils import change_data, print_word, create_keyboard
+from utils.data import get_data, update_data
+from utils.conf import bi
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
-
-
-from utils_s import words_list_s 
-from utils import create_keyboard, word_list
+from utils.utils_s import words_list_s 
+from utils.utils import create_keyboard, word_list
+from utils.lang import M
 
 rs = Router()
 
@@ -17,11 +15,7 @@ rs = Router()
 async def stats(callback: types.CallbackQuery):
     words = get_data()["words"]
     await callback.answer()
-    message = f"""
-All words: {len(words)}
-1. Known words: {len(words_list_s(1))}
-2. Unknown words: {len(words_list_s(0))}
-"""
+    message = f"{M('stats1')}{len(words)}\n{M('stats2')}{len(words_list_s(1))}\n{M('stats3')}{len(words_list_s(0))}"
     keybord = create_keyboard([["known", "unknown"]])
     await callback.message.answer(message, reply_markup=keybord)
 
@@ -34,7 +28,7 @@ async def known(callback: types.CallbackQuery):
     if mes != "":
         await callback.message.answer(mes)
     else:
-        await callback.message.answer("not found")
+        await callback.message.answer(M("not_found"))
 
 
 
@@ -46,4 +40,4 @@ async def unknown(callback: types.CallbackQuery):
     if mes != "":
         await callback.message.answer(mes)
     else:
-        await callback.message.answer("not found")
+        await callback.message.answer(M("not_found"))

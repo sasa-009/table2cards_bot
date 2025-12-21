@@ -1,4 +1,4 @@
-from data import get_data
+from utils.data import get_data
 
 def search_word(words):
     data = get_data()

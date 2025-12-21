@@ -2,10 +2,11 @@ from aiogram import F, Router
 from aiogram import types
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
-from data import get_data, update_data
-from utils import print_word, create_keyboard
-from utils_srh import search_word, search_word_tag
-from conf import bi
+from utils.data import get_data, update_data
+from utils.utils import print_word, create_keyboard
+from utils.utils_srh import search_word, search_word_tag
+from utils.conf import bi
+from utils.lang import M
 
 rt = Router()
 
@@ -20,15 +21,15 @@ class Tags(StatesGroup):
 async def tags(callbeck: types.CallbackQuery):
     await callbeck.answer()
     keyboard = create_keyboard([["create_tag", "delete_tag"], ["tag_list"]])
-    mes = "what do you want to do?"
+    mes = M("tags")
     await callbeck.message.answer(mes, reply_markup=keyboard)
 
 
 @rt.callback_query(F.data == "create_tag")
 async def create_tag(callbeck: types.CallbackQuery, state: FSMContext):
     await callbeck.answer()
-    mes = "enter the tag name"
-    await callbeck.message.answer(mes)
+    mes = M("tag_name")
+    await callbeck.message.edit_text(mes)
     await state.set_state(Tags.create)
 
 @rt.message(Tags.create)
@@ -36,13 +37,13 @@ async def create_tag_(message: types.Message, state: FSMContext):
     data = get_data()
     data["tags"].append(message.text)
     update_data(data)
-    await message.answer("success")
+    await message.answer(M("success"))
 
 @rt.callback_query(F.data == "delete_tag")
 async def delete_tag(callbeck: types.CallbackQuery, state: FSMContext):
     await callbeck.answer()
-    mes = "enter the tag name"
-    await callbeck.message.answer(mes)
+    mes = M("tag_name")
+    await callbeck.message.edit_text(mes)
     await state.set_state(Tags.delete)
 
 @rt.message(Tags.delete)
@@ -53,7 +54,7 @@ async def delete_tag_(message: types.Message, state: FSMContext):
     for k in key_words:
         data["words"][k]["tags"].remove(message.text)
     update_data(data)
-    await message.answer("success")
+    await message.answer(M("success"))
 
 
 
@@ -67,9 +68,9 @@ async def tag_list(callback: types.CallbackQuery, state: FSMContext):
         kl.append(["tag:"+t])
     keyboard = create_keyboard(kl)
     if tags != []:
-        await callback.message.answer("choose tag", reply_markup=keyboard)
+        await callback.message.edit_text(M("tag_list"), reply_markup=keyboard)
     else:
-        await callback.message.answer("not found")
+        await callback.message.edit_text(M("not_found"))
 
 @rt.callback_query(F.data.startswith("tag:"))
 async def tag_(callback: types.CallbackQuery, state: FSMContext):
@@ -82,13 +83,13 @@ async def tag_(callback: types.CallbackQuery, state: FSMContext):
     for i in key_words:
         mes += print_word(i, get_data())
 
-    await callback.message.answer("what do you want to do?\n"+mes, reply_markup=keyboard)
+    await callback.message.edit_text(f"{M("tags")}\n{mes}", reply_markup=keyboard)
 
 
 @rt.callback_query(F.data == "add_tag_2_words")
 async def add_tag_2_words(callback: types.CallbackQuery, state: FSMContext):
     await callback.answer()
-    await callback.message.answer("which words to add tag?")
+    await callback.message.edit_text(M('add_tag_2_words'))
     await state.set_state(Tags.add)
 
 
@@ -101,4 +102,4 @@ async def add_tag(message: types.Message, state: FSMContext):
     for k in key_words:
         data["words"][k]["tags"].append(tag)
     update_data(data)
-    await message.answer("success")
+    await message.answer(M("success"))

@@ -1,11 +1,12 @@
 from aiogram import F, Router
 from aiogram import types
-from utils_r import keybord_words_r, print_word_r, repeat_list
-from utils import change_data, print_word, create_keyboard
-from data import get_data, update_data
-from conf import bi
+from utils.utils_r import keybord_words_r, print_word_r, repeat_list
+from utils.utils import change_data, print_word, create_keyboard
+from utils.data import get_data, update_data
+from utils.conf import bi
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
+from utils.lang import M
 
 rr = Router()
 
@@ -63,14 +64,12 @@ async def yes_r(callback: types.CallbackQuery, state: FSMContext):
         await callback.message.edit_text(mes, reply_markup=m[1])
     else:
         if bi.c == len(bi.l):
-            await callback.message.edit_text(f"known words {bi.c}/{len(bi.l)}")
-            keyboard = create_keyboard([["load_file", "settings"],["random_words", "study"], ["stats"]])
-            await callback.message.answer("hi, what do you want to do?", reply_markup=keyboard)
+            await callback.message.edit_text(f"{M('repeat_kw')}{bi.c}/{len(bi.l)}")
             bi.l = repeat_list(data)
         else:
             update_data(data)
             keyboard = create_keyboard([["repeat"]])
-            await callback.message.edit_text(f"known words {bi.c}/{len(bi.l)}", reply_markup=keyboard)
+            await callback.message.edit_text(f"{M('repeat_kw')}{bi.c}/{len(bi.l)}", reply_markup=keyboard)
         bi.i = 0
         bi.c = 0
         
@@ -91,7 +90,7 @@ async def no_r(callback: types.CallbackQuery, state: FSMContext):
     else:
         update_data(data)
         keyboard = create_keyboard([["repeat"]])
-        await callback.message.edit_text(f"known words {bi.c}/{len(bi.l)}", reply_markup=keyboard)
+        await callback.message.edit_text(f"{M('repeat_kw')}{bi.c}/{len(bi.l)}", reply_markup=keyboard)
         bi.i = 0
         bi.c = 0
         return

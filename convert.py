@@ -1,5 +1,5 @@
 from openpyxl import load_workbook
-from data import update_data
+from utils.data import update_data
 
 
 def convert():
@@ -9,7 +9,8 @@ def convert():
     data = {
         "config":{
         "transc": False,
-        "quantity_words": 3
+        "quantity_words": 3,
+        "lang": "ru"
         }, 
         "words":{},
         "tags": []

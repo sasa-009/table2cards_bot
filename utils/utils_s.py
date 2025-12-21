@@ -1,4 +1,4 @@
-from data import get_data
+from utils.data import get_data
 
 
 

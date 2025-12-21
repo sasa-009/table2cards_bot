@@ -1,5 +1,6 @@
-from utils import choose_words, create_keyboard
+from utils.utils import choose_words, create_keyboard
 from aiogram import types
+from utils.lang import M
 
 def repeat_list(data):
     l = []
@@ -25,8 +26,8 @@ def keybord_words_r(data, c):
             types.InlineKeyboardButton(text="❌", callback_data=f"r-no_{key_word}")
         ]
     ])
-    mes = f"which of these words do you know? (known words: {c}/{data['config']['quantity_words']})\n"
-    mes2 = "did you answer correctly?"
+    mes = f"{M('repeat')}{c}/{data['config']['quantity_words']})\n"
+    mes2 = M('repeat2')
 
     return [mes, keyboard, mes2, keyboard2]
 

@@ -2,10 +2,11 @@ from aiogram import F, Router
 from aiogram import types
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
-from data import get_data, update_data
-from utils import print_word, create_keyboard
-from utils_srh import search_word
-from conf import bi
+from utils.data import get_data, update_data
+from utils.utils import print_word, create_keyboard
+from utils.utils_srh import search_word
+from utils.conf import bi
+from utils.lang import M
 
 rsrh = Router()
 
@@ -18,7 +19,7 @@ class Search(StatesGroup):
 @rsrh.callback_query(F.data == "search")
 async def start_search(callbeck: types.CallbackQuery, state: FSMContext):
     await callbeck.answer()
-    mes = "send me word"
+    mes = M("start_search")
     await state.set_state(Search.word)
     await callbeck.message.answer(mes)
 
@@ -33,11 +34,11 @@ async def search(message: types.message, state: FSMContext):
         mes1 = ""
         for w in key_words:
             mes1 += print_word(w, get_data())
-        mes = "here is the word that was found:\n" + mes1 + "what do you want to do with it?"
+        mes = M('search') + mes1 + M('search2')
         keyboard = create_keyboard([["edit", "delete"], ["add_in_dict"]])
         await message.answer(mes, reply_markup=keyboard)
     else:
-        await message.answer("not found")
+        await message.answer(M("not_found"))
 
 
 @rsrh.callback_query(F.data == "edit")
@@ -46,7 +47,7 @@ async def edit(callback: types.CallbackQuery, state: FSMContext):
     data = await state.get_data()
     words = data["word"]
     key_words = search_word(words)
-    mes = "write a new version of this word in the following format:\nword - transcription - translation\n"+print_word(key_words[bi.k], get_data())
+    mes = M("edit")+print_word(key_words[bi.k], get_data())
     await callback.message.answer(mes)
     await state.set_state(Search.edit)
     bi.kw = key_words
@@ -85,9 +86,9 @@ async def get_edit(message: types.message, state: FSMContext):
     # await callback.message.answer("error, try again", reply_markup=keyboard)
     if bi.k < len(key_words) - 1:
         bi.k += 1
-        await message.answer("success", reply_markup=keyboard)
+        await message.answer(M("success"), reply_markup=keyboard)
     else:
-        await message.answer("success")
+        await message.answer(M("success"))
 
 
 @rsrh.callback_query(F.data == "delete")
@@ -100,4 +101,4 @@ async def delete(callbeck: types.CallbackQuery, state: FSMContext):
     for i in key_words:
         data2["words"].pop(i, None)
     update_data(data2)
-    await callbeck.message.answer("success")
+    await callbeck.message.answer(M("success"))
