@@ -1782,7 +1782,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": null,
+            "known": true,
             "tags": []
         },
         "179": {
@@ -2122,7 +2122,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": null,
+            "known": true,
             "tags": []
         },
         "213": {
@@ -2322,7 +2322,7 @@
             "learn": null,
             "next_repeat": null,
             "last_repeat": null,
-            "known": null,
+            "known": true,
             "tags": []
         },
         "233": {
