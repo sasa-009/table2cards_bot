@@ -10,10 +10,10 @@ def convert():
         "config":{
         "transc": False,
         "quantity_words": 3,
-        "lang": "ru"
+        "lang": "ru",
+        "interval_repeat":[1,3,7,30]
         }, 
         "words":{},
-        "tags": []
     }
     word_id = 0
 
@@ -26,8 +26,8 @@ def convert():
                 "transc": None,
                 "transl": None,
                 "learn": None,
-                "next_repeat": None,
-                "last_repeat": None,
+                "repeat_date": None,
+                "repeat_after": None,
                 "known": None,
                 "tags": [],
             }

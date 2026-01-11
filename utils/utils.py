@@ -2,10 +2,31 @@ import random as r
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from utils.data import update_data
 from utils.lang import M
+from datetime import date, datetime, timedelta
 
 def change_data(data, status, key_word):
     data['words'][key_word]['known'] = status
-    return update_data(data)    
+    update_data(data)    
+
+def change_repeat_date(data, key_word):
+    repeat_after = data['words'][key_word]['repeat_after']
+    today = date.today()
+    repeat_date = None
+
+    if repeat_after == None:
+        repeat_date = str(today+timedelta(days=1))
+        data['words'][key_word]['repeat_after'] = 1
+    elif repeat_after == 30:
+        repeat_date = None
+        change_data(data, True, key_word)
+    else:
+        interval_repeat = data['config']['interval_repeat']
+        interval_index = interval_repeat.index(repeat_after)
+        repeat_after = interval_repeat[interval_index+1]
+        data['words'][key_word]['repeat_after'] = repeat_after
+        repeat_date = str(today+timedelta(days=repeat_after))
+    data['words'][key_word]['repeat_date'] = repeat_date
+    update_data(data)
 
 
 
@@ -47,7 +68,13 @@ def word_list(data, status):
         if data['words'][i]['known'] == status:
             mes += print_word(i, data)
     return mes
-    
+
+
+def word_list_repeat(data, key_words):
+    mes = ''
+    for i in key_words:
+        mes += print_word(i, data)
+    return mes    
 
 def create_keyboard(names):
     for i in range(len(names)):
@@ -57,3 +84,4 @@ def create_keyboard(names):
     keyboard = InlineKeyboardMarkup(inline_keyboard=names)
     
     return keyboard
+
